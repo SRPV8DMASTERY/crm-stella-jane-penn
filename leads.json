@@ -7,13 +7,13 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Sent Video",
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-05-26",
       "nextFollowUp": "2026-05-27",
       "notes": "Responded to message and open to taking a look.  Presentation sent ",
-      "lastModified": "2026-05-26",
+      "lastModified": "2026-05-27",
       "dateAdded": "2026-05-26",
       "addedAt": "2026-05-26T16:48:55.590Z"
     },
@@ -392,5 +392,5 @@
       "addedAt": "2026-05-27T08:02:30.562Z"
     }
   ],
-  "lastUpdated": "2026-05-27T08:02:30.562Z"
+  "lastUpdated": "2026-05-27T08:13:58.826Z"
 }
