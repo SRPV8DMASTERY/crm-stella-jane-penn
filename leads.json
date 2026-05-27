@@ -305,7 +305,24 @@
       "lastModified": "2026-05-27",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-27T07:50:36.305Z"
+    },
+    {
+      "id": "mpnrt3tthn83hj5eugd",
+      "name": "Sarahlou Jones ",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-27",
+      "nextFollowUp": "2026-05-29",
+      "notes": "Initial message sent ",
+      "lastModified": "2026-05-27",
+      "dateAdded": "2026-05-27",
+      "addedAt": "2026-05-27T07:56:38.177Z"
     }
   ],
-  "lastUpdated": "2026-05-27T07:50:36.306Z"
+  "lastUpdated": "2026-05-27T07:56:38.177Z"
 }
