@@ -628,7 +628,24 @@
       "lastModified": "2026-05-27",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-27T08:44:50.388Z"
+    },
+    {
+      "id": "mpntltwrormjyjv5tt",
+      "name": "Deborah Defoy",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-27",
+      "nextFollowUp": "2026-05-29",
+      "notes": "Initial message sent ",
+      "lastModified": "2026-05-27",
+      "dateAdded": "2026-05-27",
+      "addedAt": "2026-05-27T08:46:57.963Z"
     }
   ],
-  "lastUpdated": "2026-05-27T08:45:46.676Z"
+  "lastUpdated": "2026-05-27T08:46:57.963Z"
 }
