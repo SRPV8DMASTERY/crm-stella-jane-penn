@@ -11,7 +11,7 @@
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-05-26",
-      "nextFollowUp": "2026-05-27",
+      "nextFollowUp": "2026-05-28",
       "notes": "Responded to message and open to taking a look.  Presentation sent ",
       "lastModified": "2026-05-27",
       "dateAdded": "2026-05-26",
@@ -715,5 +715,5 @@
       "addedAt": "2026-05-27T09:04:01.916Z"
     }
   ],
-  "lastUpdated": "2026-05-27T14:44:50.054Z"
+  "lastUpdated": "2026-05-27T14:44:57.806Z"
 }
