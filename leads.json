@@ -619,12 +619,12 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Sent Video",
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-05-27",
-      "nextFollowUp": "2026-05-29",
-      "notes": "Initial message sent ",
+      "nextFollowUp": "2026-05-28",
+      "notes": "1st follow up after video ",
       "lastModified": "2026-05-27",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-27T08:44:50.388Z"
@@ -715,5 +715,5 @@
       "addedAt": "2026-05-27T09:04:01.916Z"
     }
   ],
-  "lastUpdated": "2026-05-27T09:04:01.916Z"
+  "lastUpdated": "2026-05-27T11:46:09.819Z"
 }
