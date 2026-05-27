@@ -58,13 +58,13 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Sent Video",
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-05-26",
-      "nextFollowUp": "2026-05-27",
+      "lastContact": "2026-05-27",
+      "nextFollowUp": "2026-05-29",
       "notes": "Cold initial message sent ",
-      "lastModified": "2026-05-26",
+      "lastModified": "2026-05-27",
       "dateAdded": "2026-05-26",
       "addedAt": "2026-05-26T16:55:55.621Z"
     },
@@ -392,5 +392,5 @@
       "addedAt": "2026-05-27T08:02:30.562Z"
     }
   ],
-  "lastUpdated": "2026-05-27T08:13:58.826Z"
+  "lastUpdated": "2026-05-27T08:14:31.786Z"
 }
