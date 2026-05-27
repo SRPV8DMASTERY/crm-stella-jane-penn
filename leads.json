@@ -271,7 +271,24 @@
       "lastModified": "2026-05-27",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-27T07:18:17.497Z"
+    },
+    {
+      "id": "mpnqyg57j4h801xdikp",
+      "name": "Rose Scanlon",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-27",
+      "nextFollowUp": "2026-05-29",
+      "notes": "Initial message sent ",
+      "lastModified": "2026-05-27",
+      "dateAdded": "2026-05-27",
+      "addedAt": "2026-05-27T07:32:47.803Z"
     }
   ],
-  "lastUpdated": "2026-05-27T07:20:01.960Z"
+  "lastUpdated": "2026-05-27T07:32:47.803Z"
 }
