@@ -662,7 +662,24 @@
       "lastModified": "2026-05-27",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-27T08:48:03.308Z"
+    },
+    {
+      "id": "mpntpgsbzzfi1ld5gpn",
+      "name": "Martin Jones ",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-27",
+      "nextFollowUp": "2026-05-29",
+      "notes": "Initial message sent ",
+      "lastModified": "2026-05-27",
+      "dateAdded": "2026-05-27",
+      "addedAt": "2026-05-27T08:49:47.579Z"
     }
   ],
-  "lastUpdated": "2026-05-27T08:48:03.308Z"
+  "lastUpdated": "2026-05-27T08:49:47.579Z"
 }
