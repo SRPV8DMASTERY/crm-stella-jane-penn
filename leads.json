@@ -538,7 +538,7 @@
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-05-27",
-      "nextFollowUp": "2026-05-29",
+      "nextFollowUp": "2027-05-29",
       "notes": "Replied with sorry I can't join you I am not very well.",
       "lastModified": "2026-05-27",
       "dateAdded": "2026-05-27",
@@ -698,5 +698,5 @@
       "addedAt": "2026-05-27T09:02:18.385Z"
     }
   ],
-  "lastUpdated": "2026-05-27T09:02:18.385Z"
+  "lastUpdated": "2026-05-27T09:02:54.917Z"
 }
