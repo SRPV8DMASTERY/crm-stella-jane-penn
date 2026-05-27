@@ -543,7 +543,24 @@
       "lastModified": "2026-05-27",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-27T08:37:45.835Z"
+    },
+    {
+      "id": "mpntb6qs57fnlr8o9im",
+      "name": "Vanessa Ann Leigh ",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-27",
+      "nextFollowUp": "2026-05-29",
+      "notes": "Initial message sent ",
+      "lastModified": "2026-05-27",
+      "dateAdded": "2026-05-27",
+      "addedAt": "2026-05-27T08:38:41.380Z"
     }
   ],
-  "lastUpdated": "2026-05-27T08:37:45.835Z"
+  "lastUpdated": "2026-05-27T08:38:41.380Z"
 }
