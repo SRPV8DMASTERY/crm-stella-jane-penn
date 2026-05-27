@@ -339,7 +339,24 @@
       "lastModified": "2026-05-27",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-27T07:57:57.804Z"
+    },
+    {
+      "id": "mpnrw9dl4p1u08u0oxw",
+      "name": "Junichiro Kubota",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-27",
+      "nextFollowUp": "2026-05-29",
+      "notes": "Initial message sent ",
+      "lastModified": "2026-05-27",
+      "dateAdded": "2026-05-27",
+      "addedAt": "2026-05-27T07:59:05.337Z"
     }
   ],
-  "lastUpdated": "2026-05-27T07:57:57.805Z"
+  "lastUpdated": "2026-05-27T07:59:05.337Z"
 }
