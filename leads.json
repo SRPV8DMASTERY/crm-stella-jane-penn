@@ -534,12 +534,12 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Nurture",
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-05-27",
       "nextFollowUp": "2026-05-29",
-      "notes": "Initial message sent ",
+      "notes": "Replied with sorry I can't join you I am not very well.",
       "lastModified": "2026-05-27",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-27T08:37:45.835Z"
@@ -681,5 +681,5 @@
       "addedAt": "2026-05-27T08:49:47.579Z"
     }
   ],
-  "lastUpdated": "2026-05-27T08:49:47.579Z"
+  "lastUpdated": "2026-05-27T08:54:40.677Z"
 }
