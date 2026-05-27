@@ -602,11 +602,11 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-05-27",
-      "nextFollowUp": "2026-05-29",
+      "nextFollowUp": null,
       "notes": "Initial message sent ",
       "lastModified": "2026-05-27",
       "dateAdded": "2026-05-27",
@@ -630,5 +630,5 @@
       "addedAt": "2026-05-27T08:44:50.388Z"
     }
   ],
-  "lastUpdated": "2026-05-27T08:44:50.388Z"
+  "lastUpdated": "2026-05-27T08:45:46.676Z"
 }
