@@ -111,13 +111,14 @@
       "source": "Facebook",
       "status": "Sent Video",
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
+      "lastAction": "Follow-up 1",
       "lastContact": "2026-05-27",
       "nextFollowUp": "2026-05-29",
-      "notes": "Initial message sent ",
-      "lastModified": "2026-05-27",
+      "notes": "1st follow up message ",
+      "lastModified": "2026-05-28",
       "dateAdded": "2026-05-26",
-      "addedAt": "2026-05-26T17:04:00.085Z"
+      "addedAt": "2026-05-26T17:04:00.085Z",
+      "videoSent": false
     },
     {
       "id": "mpmwail95hxltxl9bf7",
@@ -703,5 +704,5 @@
       "addedAt": "2026-05-27T09:04:01.916Z"
     }
   ],
-  "lastUpdated": "2026-05-28T19:07:12.408Z"
+  "lastUpdated": "2026-05-28T19:07:37.361Z"
 }
