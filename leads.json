@@ -9,13 +9,14 @@
       "source": "Facebook",
       "status": "Sent Video",
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
+      "lastAction": "Follow-up 1",
       "lastContact": "2026-05-26",
-      "nextFollowUp": "2026-05-28",
-      "notes": "Responded to message and open to taking a look.  Presentation sent ",
-      "lastModified": "2026-05-27",
+      "nextFollowUp": "2026-06-01",
+      "notes": "1st follow up message sent ",
+      "lastModified": "2026-05-28",
       "dateAdded": "2026-05-26",
-      "addedAt": "2026-05-26T16:48:55.590Z"
+      "addedAt": "2026-05-26T16:48:55.590Z",
+      "videoSent": false
     },
     {
       "id": "mpmvemilbihp1y97rin",
@@ -709,5 +710,5 @@
       "addedAt": "2026-05-27T09:04:01.916Z"
     }
   ],
-  "lastUpdated": "2026-05-28T19:09:17.993Z"
+  "lastUpdated": "2026-05-28T19:09:45.977Z"
 }
