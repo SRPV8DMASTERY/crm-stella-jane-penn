@@ -468,13 +468,14 @@
       "source": "Facebook",
       "status": "Sent Video",
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
+      "lastAction": "Follow-up 1",
       "lastContact": "2026-05-27",
       "nextFollowUp": "2026-05-28",
-      "notes": "Video sent ",
-      "lastModified": "2026-05-27",
+      "notes": "1ST follow up message sent ",
+      "lastModified": "2026-05-28",
       "dateAdded": "2026-05-27",
-      "addedAt": "2026-05-27T08:28:05.083Z"
+      "addedAt": "2026-05-27T08:28:05.083Z",
+      "videoSent": false
     },
     {
       "id": "mpnt46astoovek24hn",
@@ -716,5 +717,5 @@
       "addedAt": "2026-05-27T09:04:01.916Z"
     }
   ],
-  "lastUpdated": "2026-05-28T19:05:32.322Z"
+  "lastUpdated": "2026-05-28T19:06:07.457Z"
 }
