@@ -96,11 +96,12 @@
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-05-26",
-      "nextFollowUp": "2026-05-28",
+      "nextFollowUp": "2026-06-01",
       "notes": "Initial message sent ",
-      "lastModified": "2026-05-27",
+      "lastModified": "2026-05-28",
       "dateAdded": "2026-05-26",
-      "addedAt": "2026-05-26T17:02:19.637Z"
+      "addedAt": "2026-05-26T17:02:19.637Z",
+      "videoSent": false
     },
     {
       "id": "mpmvx651v76nwkspgxq",
@@ -705,5 +706,5 @@
       "addedAt": "2026-05-27T09:04:01.916Z"
     }
   ],
-  "lastUpdated": "2026-05-28T19:08:14.921Z"
+  "lastUpdated": "2026-05-28T19:08:24.457Z"
 }
