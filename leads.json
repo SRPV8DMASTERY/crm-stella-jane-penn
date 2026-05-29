@@ -343,15 +343,16 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-05-27",
-      "nextFollowUp": "2026-05-29",
+      "lastContact": "2026-05-29",
+      "nextFollowUp": null,
       "notes": "Initial message sent ",
-      "lastModified": "2026-05-27",
+      "lastModified": "2026-05-29",
       "dateAdded": "2026-05-27",
-      "addedAt": "2026-05-27T07:59:05.337Z"
+      "addedAt": "2026-05-27T07:59:05.337Z",
+      "videoSent": false
     },
     {
       "id": "mpnry7c5gc4psvafphe",
@@ -767,5 +768,5 @@
       "addedAt": "2026-05-29T10:49:59.161Z"
     }
   ],
-  "lastUpdated": "2026-05-29T11:23:49.153Z"
+  "lastUpdated": "2026-05-29T11:24:47.649Z"
 }
