@@ -599,11 +599,11 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-05-29",
-      "nextFollowUp": "2026-06-05",
+      "nextFollowUp": null,
       "notes": "1st follow UP Message Sent ",
       "lastModified": "2026-05-29",
       "dateAdded": "2026-05-27",
@@ -773,5 +773,5 @@
       "addedAt": "2026-05-29T10:49:59.161Z"
     }
   ],
-  "lastUpdated": "2026-05-29T11:50:06.897Z"
+  "lastUpdated": "2026-05-29T13:01:23.353Z"
 }
