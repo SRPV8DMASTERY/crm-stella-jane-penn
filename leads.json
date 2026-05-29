@@ -150,15 +150,16 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-05-27",
-      "nextFollowUp": "2026-05-29",
-      "notes": "Message sent ",
-      "lastModified": "2026-05-27",
+      "lastAction": "Follow-up 1",
+      "lastContact": "2026-05-29",
+      "nextFollowUp": null,
+      "notes": "Read follow up message then blocked me from messenger ",
+      "lastModified": "2026-05-29",
       "dateAdded": "2026-05-26",
-      "addedAt": "2026-05-26T17:17:40.261Z"
+      "addedAt": "2026-05-26T17:17:40.261Z",
+      "videoSent": true
     },
     {
       "id": "mpmwivd8e0wrg1al3op",
@@ -761,5 +762,5 @@
       "addedAt": "2026-05-29T10:49:59.161Z"
     }
   ],
-  "lastUpdated": "2026-05-29T11:10:50.345Z"
+  "lastUpdated": "2026-05-29T11:12:10.353Z"
 }
