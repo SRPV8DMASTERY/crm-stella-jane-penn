@@ -293,12 +293,13 @@
       "status": "New Lead",
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-05-27",
-      "nextFollowUp": "2026-05-29",
-      "notes": "Initial message sent ",
-      "lastModified": "2026-05-27",
+      "lastContact": "2026-05-29",
+      "nextFollowUp": "2026-06-05",
+      "notes": "1st Follow UP Message sent",
+      "lastModified": "2026-05-29",
       "dateAdded": "2026-05-27",
-      "addedAt": "2026-05-27T07:50:36.305Z"
+      "addedAt": "2026-05-27T07:50:36.305Z",
+      "videoSent": false
     },
     {
       "id": "mpnrt3tthn83hj5eugd",
@@ -768,5 +769,5 @@
       "addedAt": "2026-05-29T10:49:59.161Z"
     }
   ],
-  "lastUpdated": "2026-05-29T11:24:47.649Z"
+  "lastUpdated": "2026-05-29T11:26:02.937Z"
 }
