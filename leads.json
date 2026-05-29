@@ -512,15 +512,16 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-05-27",
-      "nextFollowUp": "2026-05-29",
-      "notes": "Initial message sent ",
-      "lastModified": "2026-05-27",
+      "nextFollowUp": null,
+      "notes": "Hi Stella, I hope you're well. I already have 2 jobs so Im not looking for additional employment but thank you for thinking of me",
+      "lastModified": "2026-05-29",
       "dateAdded": "2026-05-27",
-      "addedAt": "2026-05-27T08:36:38.860Z"
+      "addedAt": "2026-05-27T08:36:38.860Z",
+      "videoSent": false
     },
     {
       "id": "mpnt9zvvatvn43fkuoo",
@@ -755,5 +756,5 @@
       "addedAt": "2026-05-29T10:49:59.161Z"
     }
   ],
-  "lastUpdated": "2026-05-29T11:00:38.185Z"
+  "lastUpdated": "2026-05-29T11:05:42.577Z"
 }
