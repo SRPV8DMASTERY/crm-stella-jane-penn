@@ -469,7 +469,7 @@
       "lastModified": "2026-05-29",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-27T08:28:05.083Z",
-      "videoSent": false
+      "videoSent": true
     },
     {
       "id": "mpnt46astoovek24hn",
@@ -757,5 +757,5 @@
       "addedAt": "2026-05-29T10:49:59.161Z"
     }
   ],
-  "lastUpdated": "2026-05-29T11:07:10.825Z"
+  "lastUpdated": "2026-05-29T11:07:28.001Z"
 }
