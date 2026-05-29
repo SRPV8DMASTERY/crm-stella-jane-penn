@@ -13,10 +13,10 @@
       "lastContact": "2026-05-26",
       "nextFollowUp": "2026-06-01",
       "notes": "1st follow up message sent ",
-      "lastModified": "2026-05-28",
+      "lastModified": "2026-05-29",
       "dateAdded": "2026-05-26",
       "addedAt": "2026-05-26T16:48:55.590Z",
-      "videoSent": false
+      "videoSent": true
     },
     {
       "id": "mpmvemilbihp1y97rin",
@@ -773,5 +773,5 @@
       "addedAt": "2026-05-29T10:49:59.161Z"
     }
   ],
-  "lastUpdated": "2026-05-29T11:31:21.033Z"
+  "lastUpdated": "2026-05-29T11:31:37.664Z"
 }
