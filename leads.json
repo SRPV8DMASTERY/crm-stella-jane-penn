@@ -709,7 +709,25 @@
       "lastModified": "2026-05-27",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-27T09:04:01.916Z"
+    },
+    {
+      "id": "mpqspzt5pqyatd81t1",
+      "name": "Joe Jordan ",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-29",
+      "nextFollowUp": "2026-05-31",
+      "notes": "1st message sent ",
+      "lastModified": "2026-05-29",
+      "dateAdded": "2026-05-29",
+      "addedAt": "2026-05-29T10:45:31.145Z"
     }
   ],
-  "lastUpdated": "2026-05-28T19:10:05.617Z"
+  "lastUpdated": "2026-05-29T10:45:31.145Z"
 }
