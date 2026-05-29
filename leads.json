@@ -678,12 +678,12 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-05-29",
-      "nextFollowUp": "2026-06-05",
-      "notes": "1st Follow UP Message sent ",
+      "nextFollowUp": null,
+      "notes": "1st Follow UP Message sent and he replied to me with he is not interested.",
       "lastModified": "2026-05-29",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-27T08:49:47.579Z",
@@ -762,5 +762,5 @@
       "addedAt": "2026-05-29T10:49:59.161Z"
     }
   ],
-  "lastUpdated": "2026-05-29T11:12:10.353Z"
+  "lastUpdated": "2026-05-29T11:13:47.297Z"
 }
