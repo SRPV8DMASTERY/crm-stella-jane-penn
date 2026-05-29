@@ -619,8 +619,8 @@
       "lastAction": "Follow-up 1",
       "lastContact": "2026-05-27",
       "nextFollowUp": "2026-06-01",
-      "notes": "1st follow up after video ",
-      "lastModified": "2026-05-28",
+      "notes": "1st follow up after video not watched it yet comment but with an exclamation mark at the end of the reply.",
+      "lastModified": "2026-05-29",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-27T08:44:50.388Z",
       "videoSent": false
@@ -752,5 +752,5 @@
       "addedAt": "2026-05-29T10:49:59.161Z"
     }
   ],
-  "lastUpdated": "2026-05-29T10:56:39.201Z"
+  "lastUpdated": "2026-05-29T10:57:22.057Z"
 }
