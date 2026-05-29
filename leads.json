@@ -608,9 +608,10 @@
       "lastContact": "2026-05-27",
       "nextFollowUp": null,
       "notes": "Initial message sent ",
-      "lastModified": "2026-05-27",
+      "lastModified": "2026-05-29",
       "dateAdded": "2026-05-27",
-      "addedAt": "2026-05-27T08:43:20.588Z"
+      "addedAt": "2026-05-27T08:43:20.588Z",
+      "videoSent": false
     },
     {
       "id": "mpntj3h0odw5ghskbz",
@@ -757,5 +758,5 @@
       "addedAt": "2026-05-29T10:49:59.161Z"
     }
   ],
-  "lastUpdated": "2026-05-29T11:07:28.001Z"
+  "lastUpdated": "2026-05-29T11:07:47.865Z"
 }
