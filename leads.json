@@ -765,10 +765,10 @@
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-05-29",
-      "nextFollowUp": "2026-06-01",
-      "notes": "1st message sent ",
-      "lastModified": "2026-05-29",
+      "lastContact": "2026-05-31",
+      "nextFollowUp": "2026-06-05",
+      "notes": "1st follow up done ",
+      "lastModified": "2026-05-31",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-29T10:49:59.161Z"
     },
@@ -791,5 +791,5 @@
       "addedAt": "2026-05-29T20:02:56.244Z"
     }
   ],
-  "lastUpdated": "2026-06-01T06:47:58.639Z"
+  "lastUpdated": "2026-06-01T06:49:33.023Z"
 }
