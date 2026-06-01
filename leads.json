@@ -635,13 +635,13 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
-      "lastContact": "2026-05-27",
-      "nextFollowUp": "2026-06-01",
+      "lastContact": "2026-06-01",
+      "nextFollowUp": null,
       "notes": "1st follow up after video not watched it yet comment but with an exclamation mark at the end of the reply.",
-      "lastModified": "2026-05-29",
+      "lastModified": "2026-05-31",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-27T08:44:50.388Z",
       "videoSent": false
@@ -791,5 +791,5 @@
       "addedAt": "2026-05-29T20:02:56.244Z"
     }
   ],
-  "lastUpdated": "2026-06-01T06:49:33.023Z"
+  "lastUpdated": "2026-06-01T06:50:27.550Z"
 }
