@@ -476,11 +476,11 @@
       "source": "Facebook",
       "status": "Sent Video",
       "temperature": "Cold",
-      "lastAction": "Follow-up 1",
-      "lastContact": "2026-05-28",
-      "nextFollowUp": "2026-06-01",
-      "notes": "1ST follow up message sent ",
-      "lastModified": "2026-05-29",
+      "lastAction": "Follow-up 2",
+      "lastContact": "2026-05-31",
+      "nextFollowUp": "2026-06-05",
+      "notes": "2nd follow up message sent ",
+      "lastModified": "2026-06-01",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-27T08:28:05.083Z",
       "videoSent": true
@@ -791,5 +791,5 @@
       "addedAt": "2026-05-29T20:02:56.244Z"
     }
   ],
-  "lastUpdated": "2026-06-01T06:50:27.550Z"
+  "lastUpdated": "2026-06-01T07:00:09.175Z"
 }
