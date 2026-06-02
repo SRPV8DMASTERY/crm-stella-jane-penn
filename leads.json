@@ -1077,7 +1077,25 @@
       "lastModified": "2026-06-02",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T08:11:22.290Z"
+    },
+    {
+      "id": "mpwdawhtqjy13is8648",
+      "name": "Jenny Jane Riley ",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Not Interested",
+      "lastContact": "2026-06-02",
+      "nextFollowUp": null,
+      "notes": "Message sent and we had some voice notes",
+      "lastModified": "2026-06-02",
+      "dateAdded": "2026-06-02",
+      "addedAt": "2026-06-02T08:20:29.825Z"
     }
   ],
-  "lastUpdated": "2026-06-02T08:11:22.290Z"
+  "lastUpdated": "2026-06-02T08:20:29.825Z"
 }
