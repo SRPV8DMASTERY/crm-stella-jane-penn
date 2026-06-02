@@ -1563,7 +1563,25 @@
       "lastModified": "2026-06-02",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T10:43:58.313Z"
+    },
+    {
+      "id": "mpwitpagr1diy79knx",
+      "name": "Rebecca Green ",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-02",
+      "nextFollowUp": "2026-06-09",
+      "notes": "Message sent ",
+      "lastModified": "2026-06-02",
+      "dateAdded": "2026-06-02",
+      "addedAt": "2026-06-02T10:55:05.032Z"
     }
   ],
-  "lastUpdated": "2026-06-02T10:44:18.441Z"
+  "lastUpdated": "2026-06-02T10:55:05.033Z"
 }
