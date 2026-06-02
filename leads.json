@@ -1131,7 +1131,25 @@
       "lastModified": "2026-06-02",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T08:24:40.930Z"
+    },
+    {
+      "id": "mpwdk5w11qj26nmqic4",
+      "name": "Karen Teague ",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-02",
+      "nextFollowUp": "2026-06-09",
+      "notes": "Message sent ",
+      "lastModified": "2026-06-02",
+      "dateAdded": "2026-06-02",
+      "addedAt": "2026-06-02T08:27:41.905Z"
     }
   ],
-  "lastUpdated": "2026-06-02T08:24:40.930Z"
+  "lastUpdated": "2026-06-02T08:27:41.905Z"
 }
