@@ -1473,7 +1473,25 @@
       "lastModified": "2026-06-02",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T10:06:15.193Z"
+    },
+    {
+      "id": "mpwh3hoxy5p5l39gdh",
+      "name": "Marlon Poole ",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-02",
+      "nextFollowUp": "2026-06-09",
+      "notes": "Message sent as viewed my story",
+      "lastModified": "2026-06-02",
+      "dateAdded": "2026-06-02",
+      "addedAt": "2026-06-02T10:06:42.513Z"
     }
   ],
-  "lastUpdated": "2026-06-02T10:06:15.193Z"
+  "lastUpdated": "2026-06-02T10:06:42.513Z"
 }
