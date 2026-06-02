@@ -1221,7 +1221,25 @@
       "lastModified": "2026-06-02",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T08:45:32.561Z"
+    },
+    {
+      "id": "mpwe9afmqeisoau7cx",
+      "name": "Bev Mann ",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-02",
+      "nextFollowUp": null,
+      "notes": "Message sent ",
+      "lastModified": "2026-06-02",
+      "dateAdded": "2026-06-02",
+      "addedAt": "2026-06-02T08:47:14.194Z"
     }
   ],
-  "lastUpdated": "2026-06-02T08:45:32.561Z"
+  "lastUpdated": "2026-06-02T08:47:14.194Z"
 }
