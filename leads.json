@@ -1509,7 +1509,25 @@
       "lastModified": "2026-06-02",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T10:06:58.817Z"
+    },
+    {
+      "id": "mpwh4jkwi3r5x8lmgcj",
+      "name": "Steven Bird ",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-02",
+      "nextFollowUp": "2026-06-09",
+      "notes": "Message sent as viewed my story",
+      "lastModified": "2026-06-02",
+      "dateAdded": "2026-06-02",
+      "addedAt": "2026-06-02T10:07:31.617Z"
     }
   ],
-  "lastUpdated": "2026-06-02T10:07:14.033Z"
+  "lastUpdated": "2026-06-02T10:07:31.617Z"
 }
