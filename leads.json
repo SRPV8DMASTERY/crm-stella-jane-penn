@@ -1545,7 +1545,25 @@
       "lastModified": "2026-06-02",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T10:21:14.096Z"
+    },
+    {
+      "id": "mpwifeugq91tp1ll0cn",
+      "name": "Ben Kench ",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-02",
+      "nextFollowUp": "2026-06-09",
+      "notes": "Message sent ",
+      "lastModified": "2026-06-02",
+      "dateAdded": "2026-06-02",
+      "addedAt": "2026-06-02T10:43:58.313Z"
     }
   ],
-  "lastUpdated": "2026-06-02T10:39:55.849Z"
+  "lastUpdated": "2026-06-02T10:43:58.313Z"
 }
