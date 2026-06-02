@@ -789,7 +789,25 @@
       "lastModified": "2026-06-01",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-29T20:02:56.244Z"
+    },
+    {
+      "id": "mpwbduw328p4nrfhfyf",
+      "name": "Paulo Barrosso ",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-01",
+      "nextFollowUp": "2026-06-05",
+      "notes": "Sent message ",
+      "lastModified": "2026-06-02",
+      "dateAdded": "2026-06-02",
+      "addedAt": "2026-06-02T07:26:48.483Z"
     }
   ],
-  "lastUpdated": "2026-06-01T07:16:01.247Z"
+  "lastUpdated": "2026-06-02T07:26:48.483Z"
 }
