@@ -1535,12 +1535,12 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-02",
-      "nextFollowUp": "2026-06-09",
+      "nextFollowUp": "2026-06-05",
       "notes": "Message sent \n",
       "lastModified": "2026-06-02",
       "dateAdded": "2026-06-02",
@@ -1583,5 +1583,5 @@
       "addedAt": "2026-06-02T10:55:05.032Z"
     }
   ],
-  "lastUpdated": "2026-06-02T10:55:05.033Z"
+  "lastUpdated": "2026-06-02T12:37:41.111Z"
 }
