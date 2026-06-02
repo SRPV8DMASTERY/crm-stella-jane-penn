@@ -1293,7 +1293,25 @@
       "lastModified": "2026-06-02",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T08:57:47.528Z"
+    },
+    {
+      "id": "mpweod2y54dnnd67fdr",
+      "name": "Micky Hesketh ",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-02",
+      "nextFollowUp": "2026-06-09",
+      "notes": "Message sent ",
+      "lastModified": "2026-06-02",
+      "dateAdded": "2026-06-02",
+      "addedAt": "2026-06-02T08:58:57.466Z"
     }
   ],
-  "lastUpdated": "2026-06-02T08:57:47.528Z"
+  "lastUpdated": "2026-06-02T08:58:57.466Z"
 }
