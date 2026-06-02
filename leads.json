@@ -1499,17 +1499,17 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Warm",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-02",
-      "nextFollowUp": "2026-06-09",
+      "nextFollowUp": "2026-06-04",
       "notes": "Message sent as viewed my story",
       "lastModified": "2026-06-02",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T10:06:58.817Z"
     }
   ],
-  "lastUpdated": "2026-06-02T10:06:58.817Z"
+  "lastUpdated": "2026-06-02T10:07:14.033Z"
 }
