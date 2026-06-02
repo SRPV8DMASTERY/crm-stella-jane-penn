@@ -879,7 +879,25 @@
       "lastModified": "2026-06-02",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T07:33:05.114Z"
+    },
+    {
+      "id": "mpwbmkgba7o4b14op5p",
+      "name": "Brian Lynch ",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-01",
+      "nextFollowUp": "2026-06-05",
+      "notes": "Message sent ",
+      "lastModified": "2026-06-02",
+      "dateAdded": "2026-06-02",
+      "addedAt": "2026-06-02T07:33:34.859Z"
     }
   ],
-  "lastUpdated": "2026-06-02T07:33:05.114Z"
+  "lastUpdated": "2026-06-02T07:33:34.859Z"
 }
