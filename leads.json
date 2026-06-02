@@ -1383,7 +1383,25 @@
       "lastModified": "2026-06-02",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T10:02:23.553Z"
+    },
+    {
+      "id": "mpwgymqqt9psu9x87cb",
+      "name": "Malta terra Malta ",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-02",
+      "nextFollowUp": "2026-06-09",
+      "notes": "Message sent as viewed my story",
+      "lastModified": "2026-06-02",
+      "dateAdded": "2026-06-02",
+      "addedAt": "2026-06-02T10:02:55.778Z"
     }
   ],
-  "lastUpdated": "2026-06-02T10:02:23.553Z"
+  "lastUpdated": "2026-06-02T10:02:55.778Z"
 }
