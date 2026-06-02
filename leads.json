@@ -1041,7 +1041,25 @@
       "lastModified": "2026-06-02",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T08:07:38.818Z"
+    },
+    {
+      "id": "mpwcwu038kpw8qw29s",
+      "name": "Olivia John ",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-02",
+      "nextFollowUp": "2026-06-09",
+      "notes": "Message sent ",
+      "lastModified": "2026-06-02",
+      "dateAdded": "2026-06-02",
+      "addedAt": "2026-06-02T08:09:33.411Z"
     }
   ],
-  "lastUpdated": "2026-06-02T08:07:38.818Z"
+  "lastUpdated": "2026-06-02T08:09:33.411Z"
 }
