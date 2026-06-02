@@ -1167,7 +1167,25 @@
       "lastModified": "2026-06-02",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T08:29:48.305Z"
+    },
+    {
+      "id": "mpwdvdftt627a11uypd",
+      "name": "Kylie Anderson ",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-02",
+      "nextFollowUp": "2026-06-09",
+      "notes": "Message sent ",
+      "lastModified": "2026-06-02",
+      "dateAdded": "2026-06-02",
+      "addedAt": "2026-06-02T08:36:24.905Z"
     }
   ],
-  "lastUpdated": "2026-06-02T08:29:48.305Z"
+  "lastUpdated": "2026-06-02T08:36:24.906Z"
 }
