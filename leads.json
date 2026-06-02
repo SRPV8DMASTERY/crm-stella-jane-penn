@@ -1203,7 +1203,25 @@
       "lastModified": "2026-06-02",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T08:41:00.569Z"
+    },
+    {
+      "id": "mpwe740hj7zhq7mh5v",
+      "name": "Nick Griffith ",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-02",
+      "nextFollowUp": "2026-06-09",
+      "notes": "Message sent ",
+      "lastModified": "2026-06-02",
+      "dateAdded": "2026-06-02",
+      "addedAt": "2026-06-02T08:45:32.561Z"
     }
   ],
-  "lastUpdated": "2026-06-02T08:41:00.569Z"
+  "lastUpdated": "2026-06-02T08:45:32.561Z"
 }
