@@ -1275,7 +1275,25 @@
       "lastModified": "2026-06-02",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T08:52:02.068Z"
+    },
+    {
+      "id": "mpwemv48jeu8qyj459c",
+      "name": "Gill Kirkham ",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-02",
+      "nextFollowUp": "2026-06-09",
+      "notes": "Message sent ",
+      "lastModified": "2026-06-02",
+      "dateAdded": "2026-06-02",
+      "addedAt": "2026-06-02T08:57:47.528Z"
     }
   ],
-  "lastUpdated": "2026-06-02T08:52:02.068Z"
+  "lastUpdated": "2026-06-02T08:57:47.528Z"
 }
