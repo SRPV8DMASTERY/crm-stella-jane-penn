@@ -969,7 +969,25 @@
       "lastModified": "2026-06-02",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T07:36:19.610Z"
+    },
+    {
+      "id": "mpwbr10ap7b6p16t1l",
+      "name": "Caro Werner ",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-02",
+      "nextFollowUp": "2026-06-09",
+      "notes": "Message Sent ",
+      "lastModified": "2026-06-02",
+      "dateAdded": "2026-06-02",
+      "addedAt": "2026-06-02T07:37:02.938Z"
     }
   ],
-  "lastUpdated": "2026-06-02T07:36:19.610Z"
+  "lastUpdated": "2026-06-02T07:37:02.938Z"
 }
