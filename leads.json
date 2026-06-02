@@ -833,12 +833,12 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-06-01",
-      "nextFollowUp": "2026-06-05",
+      "lastAction": "Not Interested",
+      "lastContact": "2026-06-02",
+      "nextFollowUp": null,
       "notes": "Message sent ",
       "lastModified": "2026-06-02",
       "dateAdded": "2026-06-02",
@@ -863,5 +863,5 @@
       "addedAt": "2026-06-02T07:29:57.274Z"
     }
   ],
-  "lastUpdated": "2026-06-02T07:30:48.403Z"
+  "lastUpdated": "2026-06-02T07:31:08.242Z"
 }
