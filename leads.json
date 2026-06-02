@@ -818,14 +818,14 @@
       "status": "New Lead",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
+      "lastAction": "Not Interested",
       "lastContact": "2026-06-02",
-      "nextFollowUp": "2026-06-05",
+      "nextFollowUp": null,
       "notes": "Message sent ",
       "lastModified": "2026-06-02",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T07:27:32.994Z"
     }
   ],
-  "lastUpdated": "2026-06-02T07:27:32.994Z"
+  "lastUpdated": "2026-06-02T07:27:47.122Z"
 }
