@@ -1365,7 +1365,25 @@
       "lastModified": "2026-06-02",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T09:06:05.689Z"
+    },
+    {
+      "id": "mpwgxxvlkv0br7147mi",
+      "name": "Danjela Mislivecek ",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-02",
+      "nextFollowUp": "2026-06-09",
+      "notes": "Message sent ",
+      "lastModified": "2026-06-02",
+      "dateAdded": "2026-06-02",
+      "addedAt": "2026-06-02T10:02:23.553Z"
     }
   ],
-  "lastUpdated": "2026-06-02T09:40:04.785Z"
+  "lastUpdated": "2026-06-02T10:02:23.553Z"
 }
