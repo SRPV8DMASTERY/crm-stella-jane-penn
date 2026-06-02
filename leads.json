@@ -1347,7 +1347,25 @@
       "lastModified": "2026-06-02",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T09:05:13.369Z"
+    },
+    {
+      "id": "mpwexji1snc7alb3jyr",
+      "name": "Lisa Bryce ",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-02",
+      "nextFollowUp": "2026-06-09",
+      "notes": "Message sent ",
+      "lastModified": "2026-06-02",
+      "dateAdded": "2026-06-02",
+      "addedAt": "2026-06-02T09:06:05.689Z"
     }
   ],
-  "lastUpdated": "2026-06-02T09:05:13.369Z"
+  "lastUpdated": "2026-06-02T09:06:05.689Z"
 }
