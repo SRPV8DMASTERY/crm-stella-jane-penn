@@ -843,7 +843,25 @@
       "lastModified": "2026-06-02",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T07:29:18.674Z"
+    },
+    {
+      "id": "mpwbhwka7puf1lnrryo",
+      "name": "Lynne Dalton ",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-01",
+      "nextFollowUp": "2026-06-05",
+      "notes": "Message Sent ",
+      "lastModified": "2026-06-02",
+      "dateAdded": "2026-06-02",
+      "addedAt": "2026-06-02T07:29:57.274Z"
     }
   ],
-  "lastUpdated": "2026-06-02T07:29:18.674Z"
+  "lastUpdated": "2026-06-02T07:29:57.274Z"
 }
