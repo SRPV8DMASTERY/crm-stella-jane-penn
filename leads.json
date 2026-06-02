@@ -861,7 +861,25 @@
       "lastModified": "2026-06-02",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T07:29:57.274Z"
+    },
+    {
+      "id": "mpwblxi2rm6tr0r939i",
+      "name": "Van Jimhaics Godwin",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-01",
+      "nextFollowUp": "2026-06-05",
+      "notes": "Message sent after he started following me",
+      "lastModified": "2026-06-02",
+      "dateAdded": "2026-06-02",
+      "addedAt": "2026-06-02T07:33:05.114Z"
     }
   ],
-  "lastUpdated": "2026-06-02T07:31:08.242Z"
+  "lastUpdated": "2026-06-02T07:33:05.114Z"
 }
