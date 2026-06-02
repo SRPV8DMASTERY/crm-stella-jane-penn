@@ -1527,7 +1527,25 @@
       "lastModified": "2026-06-02",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T10:07:31.617Z"
+    },
+    {
+      "id": "mpwhm67ko92nad3q2x",
+      "name": "James vent ",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-02",
+      "nextFollowUp": "2026-06-09",
+      "notes": "Message sent \n",
+      "lastModified": "2026-06-02",
+      "dateAdded": "2026-06-02",
+      "addedAt": "2026-06-02T10:21:14.096Z"
     }
   ],
-  "lastUpdated": "2026-06-02T10:07:46.193Z"
+  "lastUpdated": "2026-06-02T10:21:14.096Z"
 }
