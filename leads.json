@@ -897,7 +897,25 @@
       "lastModified": "2026-06-02",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T07:33:34.859Z"
+    },
+    {
+      "id": "mpwbnwwquw8f0yfg05",
+      "name": "Gali Abi ",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-01",
+      "nextFollowUp": "2026-06-08",
+      "notes": "Message sent ",
+      "lastModified": "2026-06-02",
+      "dateAdded": "2026-06-02",
+      "addedAt": "2026-06-02T07:34:37.658Z"
     }
   ],
-  "lastUpdated": "2026-06-02T07:34:03.419Z"
+  "lastUpdated": "2026-06-02T07:34:37.658Z"
 }
