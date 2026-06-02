@@ -1185,7 +1185,25 @@
       "lastModified": "2026-06-02",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T08:36:24.905Z"
+    },
+    {
+      "id": "mpwe1a55ivrlpst7ca",
+      "name": "Andrew Krajewski",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-02",
+      "nextFollowUp": "2026-06-09",
+      "notes": "Message sent ",
+      "lastModified": "2026-06-02",
+      "dateAdded": "2026-06-02",
+      "addedAt": "2026-06-02T08:41:00.569Z"
     }
   ],
-  "lastUpdated": "2026-06-02T08:36:24.906Z"
+  "lastUpdated": "2026-06-02T08:41:00.569Z"
 }
