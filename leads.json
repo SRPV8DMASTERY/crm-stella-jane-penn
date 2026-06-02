@@ -1329,7 +1329,25 @@
       "lastModified": "2026-06-02",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T09:02:37.593Z"
+    },
+    {
+      "id": "mpwewf4p9ks3nwbjwfa",
+      "name": "Thomas Ballantyne ",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-02",
+      "nextFollowUp": "2026-06-08",
+      "notes": "Message sent ",
+      "lastModified": "2026-06-02",
+      "dateAdded": "2026-06-02",
+      "addedAt": "2026-06-02T09:05:13.369Z"
     }
   ],
-  "lastUpdated": "2026-06-02T09:02:37.593Z"
+  "lastUpdated": "2026-06-02T09:05:13.369Z"
 }
