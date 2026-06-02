@@ -1059,7 +1059,25 @@
       "lastModified": "2026-06-02",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T08:09:33.411Z"
+    },
+    {
+      "id": "mpwcz60i9ujmkr5ew8n",
+      "name": "Jan Michelle-Taylor",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-02",
+      "nextFollowUp": "2026-06-09",
+      "notes": "Message sent ",
+      "lastModified": "2026-06-02",
+      "dateAdded": "2026-06-02",
+      "addedAt": "2026-06-02T08:11:22.290Z"
     }
   ],
-  "lastUpdated": "2026-06-02T08:09:33.411Z"
+  "lastUpdated": "2026-06-02T08:11:22.290Z"
 }
