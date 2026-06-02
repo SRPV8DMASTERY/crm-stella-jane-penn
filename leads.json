@@ -1005,7 +1005,25 @@
       "lastModified": "2026-06-02",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T07:50:53.372Z"
+    },
+    {
+      "id": "mpwca3zeio066cvp0t",
+      "name": "Karen Kritter",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-02",
+      "nextFollowUp": "2026-06-09",
+      "notes": "Message sent ",
+      "lastModified": "2026-06-02",
+      "dateAdded": "2026-06-02",
+      "addedAt": "2026-06-02T07:51:53.258Z"
     }
   ],
-  "lastUpdated": "2026-06-02T07:50:53.372Z"
+  "lastUpdated": "2026-06-02T07:51:53.258Z"
 }
