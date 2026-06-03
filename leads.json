@@ -1635,7 +1635,25 @@
       "lastModified": "2026-06-02",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-03T06:55:18.421Z"
+    },
+    {
+      "id": "mpxpqdr8f6717e85yda",
+      "name": "Melissa Matthews ",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-02",
+      "nextFollowUp": null,
+      "notes": "Message sent ",
+      "lastModified": "2026-06-02",
+      "dateAdded": "2026-06-02",
+      "addedAt": "2026-06-03T06:56:13.605Z"
     }
   ],
-  "lastUpdated": "2026-06-03T06:55:18.421Z"
+  "lastUpdated": "2026-06-03T06:56:13.605Z"
 }
