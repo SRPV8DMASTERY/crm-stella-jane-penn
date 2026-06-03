@@ -1959,7 +1959,25 @@
       "lastModified": "2026-06-03",
       "dateAdded": "2026-06-03",
       "addedAt": "2026-06-03T18:33:11.628Z"
+    },
+    {
+      "id": "mpyenkh8vp1xq95p8x",
+      "name": "Daniel Shirley",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-03",
+      "nextFollowUp": "2026-06-09",
+      "notes": "Message sent ",
+      "lastModified": "2026-06-03",
+      "dateAdded": "2026-06-03",
+      "addedAt": "2026-06-03T18:33:52.748Z"
     }
   ],
-  "lastUpdated": "2026-06-03T18:33:11.628Z"
+  "lastUpdated": "2026-06-03T18:33:52.748Z"
 }
