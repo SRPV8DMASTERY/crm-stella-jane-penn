@@ -1779,7 +1779,25 @@
       "lastModified": "2026-06-03",
       "dateAdded": "2026-06-03",
       "addedAt": "2026-06-03T18:20:37.605Z"
+    },
+    {
+      "id": "mpye9ki4wxuwztwxxdq",
+      "name": "Celestina Currie",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-03",
+      "nextFollowUp": "2026-06-09",
+      "notes": "Message sent ",
+      "lastModified": "2026-06-03",
+      "dateAdded": "2026-06-03",
+      "addedAt": "2026-06-03T18:22:59.597Z"
     }
   ],
-  "lastUpdated": "2026-06-03T18:20:37.605Z"
+  "lastUpdated": "2026-06-03T18:22:59.597Z"
 }
