@@ -1617,7 +1617,25 @@
       "lastModified": "2026-06-02",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-03T06:54:28.709Z"
+    },
+    {
+      "id": "mpxpp76dx9px1pqw3uh",
+      "name": "Shelly Hanna ",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-02",
+      "nextFollowUp": "2026-06-08",
+      "notes": "Message sent ",
+      "lastModified": "2026-06-02",
+      "dateAdded": "2026-06-02",
+      "addedAt": "2026-06-03T06:55:18.421Z"
     }
   ],
-  "lastUpdated": "2026-06-03T06:54:28.709Z"
+  "lastUpdated": "2026-06-03T06:55:18.421Z"
 }
