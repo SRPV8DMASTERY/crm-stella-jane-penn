@@ -1337,14 +1337,14 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Prospect",
       "videoSent": true,
       "temperature": "Warm",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-06-02",
-      "nextFollowUp": "2026-06-05",
-      "notes": "",
-      "lastModified": "2026-06-02",
+      "lastAction": "Follow-up 1",
+      "lastContact": "2026-06-03",
+      "nextFollowUp": "2026-06-08",
+      "notes": "Watched video is interested and whatsapp call scheduled next week ",
+      "lastModified": "2026-06-03",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T09:05:13.369Z"
     },
@@ -1655,5 +1655,5 @@
       "addedAt": "2026-06-03T06:56:13.605Z"
     }
   ],
-  "lastUpdated": "2026-06-03T06:56:13.605Z"
+  "lastUpdated": "2026-06-03T10:28:21.640Z"
 }
