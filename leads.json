@@ -1851,7 +1851,25 @@
       "lastModified": "2026-06-03",
       "dateAdded": "2026-06-03",
       "addedAt": "2026-06-03T18:25:46.124Z"
+    },
+    {
+      "id": "mpyeeo18i94esk4ggrj",
+      "name": "Sara Jones ",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-03",
+      "nextFollowUp": "2026-06-09",
+      "notes": "Message sent ",
+      "lastModified": "2026-06-03",
+      "dateAdded": "2026-06-03",
+      "addedAt": "2026-06-03T18:26:57.452Z"
     }
   ],
-  "lastUpdated": "2026-06-03T18:25:46.124Z"
+  "lastUpdated": "2026-06-03T18:26:57.452Z"
 }
