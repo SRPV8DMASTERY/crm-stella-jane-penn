@@ -1833,7 +1833,25 @@
       "lastModified": "2026-06-03",
       "dateAdded": "2026-06-03",
       "addedAt": "2026-06-03T18:24:41.916Z"
+    },
+    {
+      "id": "mpyed4zweihde6x0ya",
+      "name": "Lisa Anne-Marie",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-03",
+      "nextFollowUp": "2026-06-09",
+      "notes": "Message left",
+      "lastModified": "2026-06-03",
+      "dateAdded": "2026-06-03",
+      "addedAt": "2026-06-03T18:25:46.124Z"
     }
   ],
-  "lastUpdated": "2026-06-03T18:24:41.916Z"
+  "lastUpdated": "2026-06-03T18:25:46.124Z"
 }
