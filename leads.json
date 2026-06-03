@@ -1599,7 +1599,25 @@
       "lastModified": "2026-06-02",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-03T06:52:30.381Z"
+    },
+    {
+      "id": "mpxpo4thjqk1dd85n2",
+      "name": "Andy Hearn ",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-02",
+      "nextFollowUp": "2026-06-08",
+      "notes": "Message sent ",
+      "lastModified": "2026-06-02",
+      "dateAdded": "2026-06-02",
+      "addedAt": "2026-06-03T06:54:28.709Z"
     }
   ],
-  "lastUpdated": "2026-06-03T06:52:30.381Z"
+  "lastUpdated": "2026-06-03T06:54:28.709Z"
 }
