@@ -1923,7 +1923,25 @@
       "lastModified": "2026-06-03",
       "dateAdded": "2026-06-03",
       "addedAt": "2026-06-03T18:30:29.797Z"
+    },
+    {
+      "id": "mpyek3zp7tgficklzes",
+      "name": "Karen Turner Smith",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-03",
+      "nextFollowUp": "2026-06-09",
+      "notes": "Message sent ",
+      "lastModified": "2026-06-03",
+      "dateAdded": "2026-06-03",
+      "addedAt": "2026-06-03T18:31:11.413Z"
     }
   ],
-  "lastUpdated": "2026-06-03T18:30:29.797Z"
+  "lastUpdated": "2026-06-03T18:31:11.413Z"
 }
