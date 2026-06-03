@@ -1581,7 +1581,25 @@
       "lastModified": "2026-06-02",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T10:55:05.032Z"
+    },
+    {
+      "id": "mpxpllil7td51acqosc",
+      "name": "James Olson ",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-02",
+      "nextFollowUp": "2026-06-08",
+      "notes": "Message sent ",
+      "lastModified": "2026-06-02",
+      "dateAdded": "2026-06-02",
+      "addedAt": "2026-06-03T06:52:30.381Z"
     }
   ],
-  "lastUpdated": "2026-06-03T06:36:58.484Z"
+  "lastUpdated": "2026-06-03T06:52:30.381Z"
 }
