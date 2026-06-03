@@ -1031,14 +1031,14 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-06-02",
-      "nextFollowUp": "2026-06-09",
+      "lastContact": "2026-06-03",
+      "nextFollowUp": "2026-06-05",
       "notes": "Message sent ",
-      "lastModified": "2026-06-02",
+      "lastModified": "2026-06-03",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T08:07:38.818Z"
     },
@@ -1655,5 +1655,5 @@
       "addedAt": "2026-06-03T06:56:13.605Z"
     }
   ],
-  "lastUpdated": "2026-06-03T14:15:12.322Z"
+  "lastUpdated": "2026-06-03T15:36:53.036Z"
 }
