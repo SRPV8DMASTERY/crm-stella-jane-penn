@@ -1725,7 +1725,25 @@
       "lastModified": "2026-06-03",
       "dateAdded": "2026-06-03",
       "addedAt": "2026-06-03T18:17:43.628Z"
+    },
+    {
+      "id": "mpye48v0va9x36myy2",
+      "name": "June Duffy",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-03",
+      "nextFollowUp": "2026-06-09",
+      "notes": "Message sent ",
+      "lastModified": "2026-06-03",
+      "dateAdded": "2026-06-03",
+      "addedAt": "2026-06-03T18:18:51.228Z"
     }
   ],
-  "lastUpdated": "2026-06-03T18:17:43.628Z"
+  "lastUpdated": "2026-06-03T18:18:51.228Z"
 }
