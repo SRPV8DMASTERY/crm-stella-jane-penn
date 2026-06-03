@@ -1689,7 +1689,25 @@
       "lastModified": "2026-06-03",
       "dateAdded": "2026-06-03",
       "addedAt": "2026-06-03T15:54:14.611Z"
+    },
+    {
+      "id": "mpye16ec8timmzhqat7",
+      "name": "Stella Donoghue",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-03",
+      "nextFollowUp": "2026-06-09",
+      "notes": "Message sent ",
+      "lastModified": "2026-06-03",
+      "dateAdded": "2026-06-03",
+      "addedAt": "2026-06-03T18:16:28.068Z"
     }
   ],
-  "lastUpdated": "2026-06-03T15:54:14.611Z"
+  "lastUpdated": "2026-06-03T18:16:28.068Z"
 }
