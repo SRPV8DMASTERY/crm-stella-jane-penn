@@ -1869,7 +1869,25 @@
       "lastModified": "2026-06-03",
       "dateAdded": "2026-06-03",
       "addedAt": "2026-06-03T18:26:57.452Z"
+    },
+    {
+      "id": "mpyeghocx5uw4nl5bl",
+      "name": "Emma-jane Poston",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-03",
+      "nextFollowUp": "2026-06-09",
+      "notes": "Message sent ",
+      "lastModified": "2026-06-03",
+      "dateAdded": "2026-06-03",
+      "addedAt": "2026-06-03T18:28:22.524Z"
     }
   ],
-  "lastUpdated": "2026-06-03T18:26:57.452Z"
+  "lastUpdated": "2026-06-03T18:28:22.524Z"
 }
