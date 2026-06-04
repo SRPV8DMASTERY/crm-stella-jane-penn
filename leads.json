@@ -1517,7 +1517,7 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Warm",
       "lastAction": "Not Interested",
@@ -2357,5 +2357,5 @@
       "addedAt": "2026-06-04T08:16:06.029Z"
     }
   ],
-  "lastUpdated": "2026-06-04T08:21:18.797Z"
+  "lastUpdated": "2026-06-04T08:21:29.509Z"
 }
