@@ -2751,7 +2751,25 @@
       "lastModified": "2026-06-04",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T08:47:49.774Z"
+    },
+    {
+      "id": "mpz96qx2nto82b3elmh",
+      "name": "Melanie Frampton",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-04",
+      "nextFollowUp": "2026-06-10",
+      "notes": "Message sent ",
+      "lastModified": "2026-06-04",
+      "dateAdded": "2026-06-04",
+      "addedAt": "2026-06-04T08:48:36.038Z"
     }
   ],
-  "lastUpdated": "2026-06-04T08:47:49.774Z"
+  "lastUpdated": "2026-06-04T08:48:36.038Z"
 }
