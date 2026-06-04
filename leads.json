@@ -2157,7 +2157,25 @@
       "lastModified": "2026-06-04",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T07:54:33.865Z"
+    },
+    {
+      "id": "mpz7alulqfobpx7nbje",
+      "name": "Emily White",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-04",
+      "nextFollowUp": "2026-06-10",
+      "notes": "Mesage sent ",
+      "lastModified": "2026-06-04",
+      "dateAdded": "2026-06-04",
+      "addedAt": "2026-06-04T07:55:36.861Z"
     }
   ],
-  "lastUpdated": "2026-06-04T07:54:33.865Z"
+  "lastUpdated": "2026-06-04T07:55:36.861Z"
 }
