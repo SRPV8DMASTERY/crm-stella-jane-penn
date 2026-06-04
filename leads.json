@@ -2391,7 +2391,25 @@
       "lastModified": "2026-06-04",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T08:23:38.989Z"
+    },
+    {
+      "id": "mpz8cnvhwnbr99ohdz",
+      "name": "Jill Silluzio",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-04",
+      "nextFollowUp": "2026-06-10",
+      "notes": "Message left ",
+      "lastModified": "2026-06-04",
+      "dateAdded": "2026-06-04",
+      "addedAt": "2026-06-04T08:25:12.413Z"
     }
   ],
-  "lastUpdated": "2026-06-04T08:23:38.989Z"
+  "lastUpdated": "2026-06-04T08:25:12.413Z"
 }
