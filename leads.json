@@ -2517,7 +2517,25 @@
       "lastModified": "2026-06-04",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T08:34:52.854Z"
+    },
+    {
+      "id": "mpz8qhhy3pva8twjhdv",
+      "name": "Janine Santos",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-04",
+      "nextFollowUp": "2026-06-10",
+      "notes": "Message sent ",
+      "lastModified": "2026-06-04",
+      "dateAdded": "2026-06-04",
+      "addedAt": "2026-06-04T08:35:57.334Z"
     }
   ],
-  "lastUpdated": "2026-06-04T08:34:52.854Z"
+  "lastUpdated": "2026-06-04T08:35:57.334Z"
 }
