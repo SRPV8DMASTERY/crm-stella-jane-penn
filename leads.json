@@ -2121,7 +2121,25 @@
       "lastModified": "2026-06-04",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T07:52:04.789Z"
+    },
+    {
+      "id": "mpz77z7x1s1d03yxhu6",
+      "name": "Emma Louise Tafe ",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-04",
+      "nextFollowUp": "2026-06-10",
+      "notes": "Message sent ",
+      "lastModified": "2026-06-04",
+      "dateAdded": "2026-06-04",
+      "addedAt": "2026-06-04T07:53:34.221Z"
     }
   ],
-  "lastUpdated": "2026-06-04T07:52:04.789Z"
+  "lastUpdated": "2026-06-04T07:53:34.221Z"
 }
