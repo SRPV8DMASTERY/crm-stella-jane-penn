@@ -2769,7 +2769,25 @@
       "lastModified": "2026-06-04",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T08:48:36.038Z"
+    },
+    {
+      "id": "mpz97mgmxrb3bu4h2lq",
+      "name": "Heather Rowe",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-04",
+      "nextFollowUp": "2026-06-10",
+      "notes": "Message sent ",
+      "lastModified": "2026-06-04",
+      "dateAdded": "2026-06-04",
+      "addedAt": "2026-06-04T08:49:16.918Z"
     }
   ],
-  "lastUpdated": "2026-06-04T08:48:36.038Z"
+  "lastUpdated": "2026-06-04T08:49:16.918Z"
 }
