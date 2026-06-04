@@ -2679,7 +2679,25 @@
       "lastModified": "2026-06-04",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T08:43:35.454Z"
+    },
+    {
+      "id": "mpz918cmi0v0ugs3th",
+      "name": "Paula Jayne davies",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-04",
+      "nextFollowUp": "2026-06-10",
+      "notes": "Message sent ",
+      "lastModified": "2026-06-04",
+      "dateAdded": "2026-06-04",
+      "addedAt": "2026-06-04T08:44:18.694Z"
     }
   ],
-  "lastUpdated": "2026-06-04T08:43:35.454Z"
+  "lastUpdated": "2026-06-04T08:44:18.694Z"
 }
