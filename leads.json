@@ -2733,7 +2733,25 @@
       "lastModified": "2026-06-04",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T08:46:35.830Z"
+    },
+    {
+      "id": "mpz95r7y9qk0lh5wpeo",
+      "name": "Julia Bartlett",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-04",
+      "nextFollowUp": "2026-06-10",
+      "notes": "Message sent ",
+      "lastModified": "2026-06-04",
+      "dateAdded": "2026-06-04",
+      "addedAt": "2026-06-04T08:47:49.774Z"
     }
   ],
-  "lastUpdated": "2026-06-04T08:46:35.830Z"
+  "lastUpdated": "2026-06-04T08:47:49.774Z"
 }
