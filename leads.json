@@ -2643,7 +2643,25 @@
       "lastModified": "2026-06-04",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T08:41:56.310Z"
+    },
+    {
+      "id": "mpz8zd86ju6kzx3uc9",
+      "name": "Joanne Louise ",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-04",
+      "nextFollowUp": "2026-06-10",
+      "notes": "Message sent ",
+      "lastModified": "2026-06-04",
+      "dateAdded": "2026-06-04",
+      "addedAt": "2026-06-04T08:42:51.702Z"
     }
   ],
-  "lastUpdated": "2026-06-04T08:41:56.310Z"
+  "lastUpdated": "2026-06-04T08:42:51.702Z"
 }
