@@ -2877,7 +2877,43 @@
       "lastModified": "2026-06-04",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T08:53:26.774Z"
+    },
+    {
+      "id": "mpz9czuu7fq1j7naux6",
+      "name": "Lisa Jane ",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-04",
+      "nextFollowUp": "2026-06-10",
+      "notes": "Message sent ",
+      "lastModified": "2026-06-04",
+      "dateAdded": "2026-06-04",
+      "addedAt": "2026-06-04T08:53:27.558Z"
+    },
+    {
+      "id": "mpz9ecl3b9nn8qjnezk",
+      "name": "Peter Lewandowski",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-04",
+      "nextFollowUp": "2026-06-10",
+      "notes": "Message left ",
+      "lastModified": "2026-06-04",
+      "dateAdded": "2026-06-04",
+      "addedAt": "2026-06-04T08:54:30.711Z"
     }
   ],
-  "lastUpdated": "2026-06-04T08:53:26.774Z"
+  "lastUpdated": "2026-06-04T08:54:30.711Z"
 }
