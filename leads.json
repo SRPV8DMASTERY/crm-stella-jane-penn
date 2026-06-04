@@ -2535,7 +2535,25 @@
       "lastModified": "2026-06-04",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T08:35:57.334Z"
+    },
+    {
+      "id": "mpz8rjrqbjabp0c9uw",
+      "name": "Steve Woods",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-04",
+      "nextFollowUp": "2026-06-10",
+      "notes": "Message sent ",
+      "lastModified": "2026-06-04",
+      "dateAdded": "2026-06-04",
+      "addedAt": "2026-06-04T08:36:46.934Z"
     }
   ],
-  "lastUpdated": "2026-06-04T08:35:57.334Z"
+  "lastUpdated": "2026-06-04T08:36:46.934Z"
 }
