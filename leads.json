@@ -2841,7 +2841,25 @@
       "lastModified": "2026-06-04",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T08:51:58.926Z"
+    },
+    {
+      "id": "mpz9c4ha8wkpx76e33n",
+      "name": "Maria Hewlett ",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-04",
+      "nextFollowUp": "2026-06-10",
+      "notes": "Message sent ",
+      "lastModified": "2026-06-04",
+      "dateAdded": "2026-06-04",
+      "addedAt": "2026-06-04T08:52:46.894Z"
     }
   ],
-  "lastUpdated": "2026-06-04T08:51:58.926Z"
+  "lastUpdated": "2026-06-04T08:52:46.894Z"
 }
