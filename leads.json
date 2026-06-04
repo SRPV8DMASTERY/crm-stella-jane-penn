@@ -2355,7 +2355,25 @@
       "lastModified": "2026-06-04",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T08:16:06.029Z"
+    },
+    {
+      "id": "mpz89l31cx06a38v83e",
+      "name": "Paula Wiggins ",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-04",
+      "nextFollowUp": "2026-06-10",
+      "notes": "Message sent ",
+      "lastModified": "2026-06-04",
+      "dateAdded": "2026-06-04",
+      "addedAt": "2026-06-04T08:22:48.829Z"
     }
   ],
-  "lastUpdated": "2026-06-04T08:21:45.525Z"
+  "lastUpdated": "2026-06-04T08:22:48.829Z"
 }
