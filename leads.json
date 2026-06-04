@@ -2265,7 +2265,25 @@
       "lastModified": "2026-06-04",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T08:09:32.198Z"
+    },
+    {
+      "id": "mpz7wr5h2v8wcc7mjob",
+      "name": "Claire Boon",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-04",
+      "nextFollowUp": "2026-06-10",
+      "notes": "Message sent ",
+      "lastModified": "2026-06-04",
+      "dateAdded": "2026-06-04",
+      "addedAt": "2026-06-04T08:12:50.165Z"
     }
   ],
-  "lastUpdated": "2026-06-04T08:09:32.198Z"
+  "lastUpdated": "2026-06-04T08:12:50.165Z"
 }
