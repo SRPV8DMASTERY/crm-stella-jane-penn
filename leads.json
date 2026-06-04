@@ -2445,7 +2445,25 @@
       "lastModified": "2026-06-04",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T08:29:28.663Z"
+    },
+    {
+      "id": "mpz8l2fxxq7lcrgf56f",
+      "name": "Kenneth Baggett",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-04",
+      "nextFollowUp": "2026-06-10",
+      "notes": "Message sent",
+      "lastModified": "2026-06-04",
+      "dateAdded": "2026-06-04",
+      "addedAt": "2026-06-04T08:31:44.541Z"
     }
   ],
-  "lastUpdated": "2026-06-04T08:29:28.663Z"
+  "lastUpdated": "2026-06-04T08:31:44.541Z"
 }
