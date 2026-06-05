@@ -3129,7 +3129,25 @@
       "lastModified": "2026-06-05",
       "dateAdded": "2026-06-05",
       "addedAt": "2026-06-05T17:54:14.292Z"
+    },
+    {
+      "id": "mq18597oiw2q9qbwtv",
+      "name": "Holly Rogers",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-05",
+      "nextFollowUp": "2026-06-11",
+      "notes": "Message sent ",
+      "lastModified": "2026-06-05",
+      "dateAdded": "2026-06-05",
+      "addedAt": "2026-06-05T17:54:59.172Z"
     }
   ],
-  "lastUpdated": "2026-06-05T17:54:14.292Z"
+  "lastUpdated": "2026-06-05T17:54:59.172Z"
 }
