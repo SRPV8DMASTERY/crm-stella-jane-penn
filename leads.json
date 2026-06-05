@@ -3165,7 +3165,25 @@
       "lastModified": "2026-06-05",
       "dateAdded": "2026-06-05",
       "addedAt": "2026-06-05T17:55:44.716Z"
+    },
+    {
+      "id": "mq18bhjxknp334zmd6o",
+      "name": "Katie Mcguire",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-05",
+      "nextFollowUp": "2026-06-11",
+      "notes": "Message sent ",
+      "lastModified": "2026-06-05",
+      "dateAdded": "2026-06-05",
+      "addedAt": "2026-06-05T17:59:49.917Z"
     }
   ],
-  "lastUpdated": "2026-06-05T17:55:44.716Z"
+  "lastUpdated": "2026-06-05T17:59:49.917Z"
 }
