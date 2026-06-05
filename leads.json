@@ -3075,7 +3075,25 @@
       "lastModified": "2026-06-05",
       "dateAdded": "2026-06-05",
       "addedAt": "2026-06-05T17:51:58.076Z"
+    },
+    {
+      "id": "mq182b7wrv2k06dx3a8",
+      "name": "Karla Carrillo",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-05",
+      "nextFollowUp": "2026-06-11",
+      "notes": "Message sent ",
+      "lastModified": "2026-06-05",
+      "dateAdded": "2026-06-05",
+      "addedAt": "2026-06-05T17:52:41.804Z"
     }
   ],
-  "lastUpdated": "2026-06-05T17:51:58.076Z"
+  "lastUpdated": "2026-06-05T17:52:41.804Z"
 }
