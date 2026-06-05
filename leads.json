@@ -1052,7 +1052,7 @@
       "status": "Sent Video",
       "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Follow-up 1",
+      "lastAction": "Initial Contact",
       "lastContact": "2026-06-05",
       "nextFollowUp": "2026-06-08",
       "notes": "Message sent ",
@@ -3005,5 +3005,5 @@
       "addedAt": "2026-06-04T08:59:15.094Z"
     }
   ],
-  "lastUpdated": "2026-06-05T17:39:27.276Z"
+  "lastUpdated": "2026-06-05T17:39:39.581Z"
 }
