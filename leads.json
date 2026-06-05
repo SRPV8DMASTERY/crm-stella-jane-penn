@@ -3021,7 +3021,25 @@
       "lastModified": "2026-06-05",
       "dateAdded": "2026-06-05",
       "addedAt": "2026-06-05T17:49:35.396Z"
+    },
+    {
+      "id": "mq17zjj23e44dux69pt",
+      "name": "Lewis Smalley ",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-05",
+      "nextFollowUp": "2026-06-11",
+      "notes": "Message sent ",
+      "lastModified": "2026-06-05",
+      "dateAdded": "2026-06-05",
+      "addedAt": "2026-06-05T17:50:32.606Z"
     }
   ],
-  "lastUpdated": "2026-06-05T17:49:35.396Z"
+  "lastUpdated": "2026-06-05T17:50:32.606Z"
 }
