@@ -3111,7 +3111,25 @@
       "lastModified": "2026-06-05",
       "dateAdded": "2026-06-05",
       "addedAt": "2026-06-05T17:53:27.629Z"
+    },
+    {
+      "id": "mq184al0g2ow43gsw2g",
+      "name": "Sammie Joe",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-05",
+      "nextFollowUp": "2026-06-11",
+      "notes": "Message sent ",
+      "lastModified": "2026-06-05",
+      "dateAdded": "2026-06-05",
+      "addedAt": "2026-06-05T17:54:14.292Z"
     }
   ],
-  "lastUpdated": "2026-06-05T17:53:27.629Z"
+  "lastUpdated": "2026-06-05T17:54:14.292Z"
 }
