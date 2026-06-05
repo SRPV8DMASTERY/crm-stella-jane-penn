@@ -3219,7 +3219,43 @@
       "lastModified": "2026-06-05",
       "dateAdded": "2026-06-05",
       "addedAt": "2026-06-05T18:02:42.517Z"
+    },
+    {
+      "id": "mq18f75psxe5o6ykh8",
+      "name": "Chris LaLanne",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-05",
+      "nextFollowUp": "2026-06-11",
+      "notes": "Message sent ",
+      "lastModified": "2026-06-05",
+      "dateAdded": "2026-06-05",
+      "addedAt": "2026-06-05T18:02:43.069Z"
+    },
+    {
+      "id": "mq18hqb9aj0dgayt5co",
+      "name": "Ashley Wilson",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-05",
+      "nextFollowUp": "2026-06-11",
+      "notes": "Message sent ",
+      "lastModified": "2026-06-05",
+      "dateAdded": "2026-06-05",
+      "addedAt": "2026-06-05T18:04:41.205Z"
     }
   ],
-  "lastUpdated": "2026-06-05T18:02:42.517Z"
+  "lastUpdated": "2026-06-05T18:04:41.205Z"
 }
