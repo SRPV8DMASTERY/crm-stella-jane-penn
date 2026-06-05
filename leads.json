@@ -3003,7 +3003,25 @@
       "lastModified": "2026-06-04",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T08:59:15.094Z"
+    },
+    {
+      "id": "mq17ybdw3di5jiacvi7",
+      "name": "Anthony Zimmerman",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-05",
+      "nextFollowUp": "2026-06-11",
+      "notes": "Message sent ",
+      "lastModified": "2026-06-05",
+      "dateAdded": "2026-06-05",
+      "addedAt": "2026-06-05T17:49:35.396Z"
     }
   ],
-  "lastUpdated": "2026-06-05T17:46:35.860Z"
+  "lastUpdated": "2026-06-05T17:49:35.396Z"
 }
