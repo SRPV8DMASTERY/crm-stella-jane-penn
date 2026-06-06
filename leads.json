@@ -3363,7 +3363,25 @@
       "lastModified": "2026-06-06",
       "dateAdded": "2026-06-06",
       "addedAt": "2026-06-06T10:10:10.055Z"
+    },
+    {
+      "id": "mq273qova2e6zhwok8d",
+      "name": "Cher McSwiggan ",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-06",
+      "nextFollowUp": "2026-06-12",
+      "notes": "Message left ",
+      "lastModified": "2026-06-06",
+      "dateAdded": "2026-06-06",
+      "addedAt": "2026-06-06T10:13:35.071Z"
     }
   ],
-  "lastUpdated": "2026-06-06T10:10:10.055Z"
+  "lastUpdated": "2026-06-06T10:13:35.071Z"
 }
