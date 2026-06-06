@@ -3561,7 +3561,25 @@
       "lastModified": "2026-06-06",
       "dateAdded": "2026-06-06",
       "addedAt": "2026-06-06T14:32:00.842Z"
+    },
+    {
+      "id": "mq2gvdlfys9b3vuvhdr",
+      "name": "Emma Jayne Thomas",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-06",
+      "nextFollowUp": "2026-06-12",
+      "notes": "Message sent ",
+      "lastModified": "2026-06-06",
+      "dateAdded": "2026-06-06",
+      "addedAt": "2026-06-06T14:47:01.011Z"
     }
   ],
-  "lastUpdated": "2026-06-06T14:36:33.467Z"
+  "lastUpdated": "2026-06-06T14:47:01.011Z"
 }
