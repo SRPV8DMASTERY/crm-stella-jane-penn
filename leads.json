@@ -3291,7 +3291,25 @@
       "lastModified": "2026-06-06",
       "dateAdded": "2026-06-06",
       "addedAt": "2026-06-06T07:34:37.837Z"
+    },
+    {
+      "id": "mq21iewtttscwkxtwm",
+      "name": "Jameel R. Hodges II",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-06",
+      "nextFollowUp": "2026-06-12",
+      "notes": "Message sent ",
+      "lastModified": "2026-06-06",
+      "dateAdded": "2026-06-06",
+      "addedAt": "2026-06-06T07:37:01.949Z"
     }
   ],
-  "lastUpdated": "2026-06-06T07:34:37.837Z"
+  "lastUpdated": "2026-06-06T07:37:01.949Z"
 }
