@@ -3777,7 +3777,25 @@
       "lastModified": "2026-06-08",
       "dateAdded": "2026-06-08",
       "addedAt": "2026-06-08T18:21:22.271Z"
+    },
+    {
+      "id": "mq5jgfnzd154yn63ojl",
+      "name": "Bhavesh Surpatne",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-08",
+      "nextFollowUp": "2026-06-15",
+      "notes": "Message sent ",
+      "lastModified": "2026-06-08",
+      "dateAdded": "2026-06-08",
+      "addedAt": "2026-06-08T18:22:41.231Z"
     }
   ],
-  "lastUpdated": "2026-06-08T18:21:22.271Z"
+  "lastUpdated": "2026-06-08T18:22:41.231Z"
 }
