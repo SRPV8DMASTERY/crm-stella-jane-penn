@@ -3669,7 +3669,25 @@
       "lastModified": "2026-06-08",
       "dateAdded": "2026-06-08",
       "addedAt": "2026-06-08T17:55:53.527Z"
+    },
+    {
+      "id": "mq5ijcpqagrcjqs761k",
+      "name": "Rafael Renne",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-08",
+      "nextFollowUp": "2026-06-11",
+      "notes": "Message sent ",
+      "lastModified": "2026-06-08",
+      "dateAdded": "2026-06-08",
+      "addedAt": "2026-06-08T17:56:57.758Z"
     }
   ],
-  "lastUpdated": "2026-06-08T17:55:53.527Z"
+  "lastUpdated": "2026-06-08T17:56:57.758Z"
 }
