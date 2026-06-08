@@ -3687,7 +3687,25 @@
       "lastModified": "2026-06-08",
       "dateAdded": "2026-06-08",
       "addedAt": "2026-06-08T17:56:57.758Z"
+    },
+    {
+      "id": "mq5ilnaf6io4mtugj9l",
+      "name": "Cesar Zerpa",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-08",
+      "nextFollowUp": "2026-06-11",
+      "notes": "Message left",
+      "lastModified": "2026-06-08",
+      "dateAdded": "2026-06-08",
+      "addedAt": "2026-06-08T17:58:44.775Z"
     }
   ],
-  "lastUpdated": "2026-06-08T17:58:14.303Z"
+  "lastUpdated": "2026-06-08T17:58:44.775Z"
 }
