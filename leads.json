@@ -3929,12 +3929,12 @@
       "phone": "",
       "social": "",
       "source": "LinkedIn",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Warm",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-08",
-      "nextFollowUp": "2026-06-15",
+      "nextFollowUp": "2026-06-10",
       "notes": "Message sent ",
       "lastModified": "2026-06-08",
       "dateAdded": "2026-06-08",
@@ -4157,5 +4157,5 @@
       "addedAt": "2026-06-08T20:29:08.960Z"
     }
   ],
-  "lastUpdated": "2026-06-08T20:29:08.960Z"
+  "lastUpdated": "2026-06-08T20:30:49.120Z"
 }
