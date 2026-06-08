@@ -1340,11 +1340,11 @@
       "status": "Prospect",
       "videoSent": true,
       "temperature": "Warm",
-      "lastAction": "Follow-up 1",
+      "lastAction": "Scheduled Call",
       "lastContact": "2026-06-03",
-      "nextFollowUp": "2026-06-08",
+      "nextFollowUp": "2026-06-09",
       "notes": "Watched video is interested and whatsapp call scheduled next week ",
-      "lastModified": "2026-06-03",
+      "lastModified": "2026-06-08",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T09:05:13.369Z"
     },
@@ -3599,5 +3599,5 @@
       "addedAt": "2026-06-06T14:48:59.746Z"
     }
   ],
-  "lastUpdated": "2026-06-08T17:33:24.038Z"
+  "lastUpdated": "2026-06-08T17:35:17.606Z"
 }
