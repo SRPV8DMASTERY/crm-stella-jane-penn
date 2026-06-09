@@ -4173,7 +4173,25 @@
       "lastModified": "2026-06-08",
       "dateAdded": "2026-06-08",
       "addedAt": "2026-06-08T20:35:35.320Z"
+    },
+    {
+      "id": "mq6as846grmi4xtuv3w",
+      "name": "Jamie Nash (2)",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-09",
+      "nextFollowUp": "2026-06-16",
+      "notes": "Message sent ",
+      "lastModified": "2026-06-09",
+      "dateAdded": "2026-06-09",
+      "addedAt": "2026-06-09T07:07:40.950Z"
     }
   ],
-  "lastUpdated": "2026-06-09T07:07:04.719Z"
+  "lastUpdated": "2026-06-09T07:07:40.950Z"
 }
