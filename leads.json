@@ -4559,12 +4559,12 @@
       "phone": "",
       "social": "",
       "source": "LinkedIn",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-09",
-      "nextFollowUp": "2026-06-16",
+      "nextFollowUp": "2026-06-10",
       "notes": "Message left \n",
       "lastModified": "2026-06-09",
       "dateAdded": "2026-06-09",
@@ -4625,5 +4625,5 @@
       "addedAt": "2026-06-09T14:52:22.331Z"
     }
   ],
-  "lastUpdated": "2026-06-09T14:52:22.331Z"
+  "lastUpdated": "2026-06-09T14:55:29.246Z"
 }
