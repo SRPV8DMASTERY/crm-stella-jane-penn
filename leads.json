@@ -4299,7 +4299,25 @@
       "lastModified": "2026-06-09",
       "dateAdded": "2026-06-09",
       "addedAt": "2026-06-09T14:24:04.690Z"
+    },
+    {
+      "id": "mq6qebm3whutn43h1h",
+      "name": "Lena Schiffer",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-09",
+      "nextFollowUp": "2026-06-16",
+      "notes": "Message left ",
+      "lastModified": "2026-06-09",
+      "dateAdded": "2026-06-09",
+      "addedAt": "2026-06-09T14:24:46.155Z"
     }
   ],
-  "lastUpdated": "2026-06-09T14:24:04.690Z"
+  "lastUpdated": "2026-06-09T14:24:46.155Z"
 }
