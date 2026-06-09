@@ -1331,24 +1331,6 @@
       "addedAt": "2026-06-02T09:02:37.593Z"
     },
     {
-      "id": "mpwewf4p9ks3nwbjwfa",
-      "name": "Thomas Ballantyne ",
-      "email": "",
-      "phone": "",
-      "social": "",
-      "source": "Facebook",
-      "status": "Not Interested",
-      "videoSent": true,
-      "temperature": "Warm",
-      "lastAction": "Scheduled Call",
-      "lastContact": "2026-06-09",
-      "nextFollowUp": null,
-      "notes": "Watched video is interested and whatsapp call scheduled next week ",
-      "lastModified": "2026-06-09",
-      "dateAdded": "2026-06-02",
-      "addedAt": "2026-06-02T09:05:13.369Z"
-    },
-    {
       "id": "mpwexji1snc7alb3jyr",
       "name": "Lisa Bryce ",
       "email": "",
@@ -4301,5 +4283,5 @@
       "addedAt": "2026-06-09T07:19:14.790Z"
     }
   ],
-  "lastUpdated": "2026-06-09T10:15:13.609Z"
+  "lastUpdated": "2026-06-09T10:15:28.617Z"
 }
