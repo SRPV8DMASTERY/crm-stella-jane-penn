@@ -4461,7 +4461,25 @@
       "lastModified": "2026-06-09",
       "dateAdded": "2026-06-09",
       "addedAt": "2026-06-09T14:38:51.203Z"
+    },
+    {
+      "id": "mq6qxs82s4686m1ar4",
+      "name": "Sarah Lowther ",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-09",
+      "nextFollowUp": null,
+      "notes": "Message sent ",
+      "lastModified": "2026-06-09",
+      "dateAdded": "2026-06-09",
+      "addedAt": "2026-06-09T14:39:54.146Z"
     }
   ],
-  "lastUpdated": "2026-06-09T14:38:51.203Z"
+  "lastUpdated": "2026-06-09T14:39:54.146Z"
 }
