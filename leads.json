@@ -4407,7 +4407,25 @@
       "lastModified": "2026-06-09",
       "dateAdded": "2026-06-09",
       "addedAt": "2026-06-09T14:32:39.858Z"
+    },
+    {
+      "id": "mq6qqpwymfnbsu8wy2",
+      "name": "Isela Juarez",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-09",
+      "nextFollowUp": "2026-06-16",
+      "notes": "message sent ",
+      "lastModified": "2026-06-09",
+      "dateAdded": "2026-06-09",
+      "addedAt": "2026-06-09T14:34:24.562Z"
     }
   ],
-  "lastUpdated": "2026-06-09T14:32:39.858Z"
+  "lastUpdated": "2026-06-09T14:34:24.562Z"
 }
