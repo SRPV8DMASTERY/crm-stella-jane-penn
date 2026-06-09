@@ -3785,14 +3785,14 @@
       "phone": "",
       "social": "",
       "source": "LinkedIn",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-06-08",
-      "nextFollowUp": "2026-06-15",
+      "lastContact": "2026-06-09",
+      "nextFollowUp": "2026-06-11",
       "notes": "Message sent ",
-      "lastModified": "2026-06-08",
+      "lastModified": "2026-06-09",
       "dateAdded": "2026-06-08",
       "addedAt": "2026-06-08T18:23:56.463Z"
     },
@@ -4265,5 +4265,5 @@
       "addedAt": "2026-06-09T07:19:14.790Z"
     }
   ],
-  "lastUpdated": "2026-06-09T14:11:13.764Z"
+  "lastUpdated": "2026-06-09T14:11:56.019Z"
 }
