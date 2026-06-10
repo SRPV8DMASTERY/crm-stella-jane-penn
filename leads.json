@@ -5433,7 +5433,25 @@
       "lastModified": "2026-06-10",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-10T13:14:10.377Z"
+    },
+    {
+      "id": "mq83kgncpf0hby3uw7",
+      "name": "Sarah Brentley",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": "2026-06-19",
+      "notes": "",
+      "lastModified": "2026-06-10",
+      "dateAdded": "2026-06-10",
+      "addedAt": "2026-06-10T13:21:13.800Z"
     }
   ],
-  "lastUpdated": "2026-06-10T13:14:10.377Z"
+  "lastUpdated": "2026-06-10T13:21:13.800Z"
 }
