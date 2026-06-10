@@ -4307,14 +4307,14 @@
       "phone": "",
       "social": "",
       "source": "LinkedIn",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-06-09",
+      "lastContact": "2026-06-10",
       "nextFollowUp": "2026-06-16",
       "notes": "Message sent ",
-      "lastModified": "2026-06-09",
+      "lastModified": "2026-06-10",
       "dateAdded": "2026-06-09",
       "addedAt": "2026-06-09T14:30:23.706Z"
     },
@@ -5453,5 +5453,5 @@
       "addedAt": "2026-06-10T13:21:13.800Z"
     }
   ],
-  "lastUpdated": "2026-06-10T13:21:13.800Z"
+  "lastUpdated": "2026-06-10T13:27:34.008Z"
 }
