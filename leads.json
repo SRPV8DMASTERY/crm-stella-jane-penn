@@ -5397,7 +5397,25 @@
       "lastModified": "2026-06-10",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-10T10:37:37.241Z"
+    },
+    {
+      "id": "mq7xrwg99pw9z491a9c",
+      "name": "Max Shabalala",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": "2026-06-17",
+      "notes": "",
+      "lastModified": "2026-06-10",
+      "dateAdded": "2026-06-10",
+      "addedAt": "2026-06-10T10:39:03.177Z"
     }
   ],
-  "lastUpdated": "2026-06-10T10:37:37.241Z"
+  "lastUpdated": "2026-06-10T10:39:03.177Z"
 }
