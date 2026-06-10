@@ -5037,7 +5037,25 @@
       "lastModified": "2026-06-10",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-10T10:19:31.825Z"
+    },
+    {
+      "id": "mq7x3sf729az2tyugiy",
+      "name": "Gerry Lindup",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": "2026-06-17",
+      "notes": "",
+      "lastModified": "2026-06-10",
+      "dateAdded": "2026-06-10",
+      "addedAt": "2026-06-10T10:20:18.211Z"
     }
   ],
-  "lastUpdated": "2026-06-10T10:19:31.825Z"
+  "lastUpdated": "2026-06-10T10:20:18.211Z"
 }
