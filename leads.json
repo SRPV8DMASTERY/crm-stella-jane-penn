@@ -1916,11 +1916,11 @@
       "status": "New Lead",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-06-03",
-      "nextFollowUp": "2026-06-09",
+      "lastAction": "Not Interested",
+      "lastContact": "2026-06-09",
+      "nextFollowUp": null,
       "notes": "Message sent ",
-      "lastModified": "2026-06-03",
+      "lastModified": "2026-06-10",
       "dateAdded": "2026-06-03",
       "addedAt": "2026-06-03T18:31:11.413Z"
     },
@@ -5417,5 +5417,5 @@
       "addedAt": "2026-06-10T10:39:03.177Z"
     }
   ],
-  "lastUpdated": "2026-06-10T10:45:47.745Z"
+  "lastUpdated": "2026-06-10T10:47:12.425Z"
 }
