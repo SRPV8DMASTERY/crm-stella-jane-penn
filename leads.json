@@ -5613,7 +5613,25 @@
       "lastModified": "2026-06-10",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-10T14:17:01.527Z"
+    },
+    {
+      "id": "mq85mkhj4ouy4taforu",
+      "name": "Lucia Poynter ",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": "2026-06-24",
+      "notes": "",
+      "lastModified": "2026-06-10",
+      "dateAdded": "2026-06-10",
+      "addedAt": "2026-06-10T14:18:51.319Z"
     }
   ],
-  "lastUpdated": "2026-06-10T14:17:01.527Z"
+  "lastUpdated": "2026-06-10T14:18:51.319Z"
 }
