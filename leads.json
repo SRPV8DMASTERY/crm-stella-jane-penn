@@ -4482,7 +4482,7 @@
     },
     {
       "id": "mq6r0k5h0uaiq2qdv8d",
-      "name": "Rene Hjortsh¯J Jorgensen",
+      "name": "Rene Hjortsh√∏J Jorgensen",
       "email": "",
       "phone": "",
       "social": "",
@@ -4590,7 +4590,7 @@
     },
     {
       "id": "mq6rdtizlfav6divfzn",
-      "name": "Erik GroﬂEkathˆFer",
+      "name": "Erik Gro√üEkath√∂Fer",
       "email": "",
       "phone": "",
       "social": "",
@@ -4605,7 +4605,25 @@
       "lastModified": "2026-06-09",
       "dateAdded": "2026-06-09",
       "addedAt": "2026-06-09T14:52:22.331Z"
+    },
+    {
+      "id": "mq7vde1fq9bkl7m298a",
+      "name": "Sadiq Ali ",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": "2026-06-15",
+      "notes": "Message sent ",
+      "lastModified": "2026-06-10",
+      "dateAdded": "2026-06-10",
+      "addedAt": "2026-06-10T09:31:46.900Z"
     }
   ],
-  "lastUpdated": "2026-06-09T16:14:37.498Z"
+  "lastUpdated": "2026-06-10T09:31:46.900Z"
 }
