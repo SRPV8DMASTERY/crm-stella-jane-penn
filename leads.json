@@ -5001,7 +5001,25 @@
       "lastModified": "2026-06-10",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-10T10:17:43.657Z"
+    },
+    {
+      "id": "mq7x1h952hlvhx2pm2r",
+      "name": "Keith Kelane ",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": "2026-06-15",
+      "notes": "",
+      "lastModified": "2026-06-10",
+      "dateAdded": "2026-06-10",
+      "addedAt": "2026-06-10T10:18:30.425Z"
     }
   ],
-  "lastUpdated": "2026-06-10T10:17:43.657Z"
+  "lastUpdated": "2026-06-10T10:18:30.425Z"
 }
