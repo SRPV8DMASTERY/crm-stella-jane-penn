@@ -5451,7 +5451,25 @@
       "lastModified": "2026-06-10",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-10T13:21:13.800Z"
+    },
+    {
+      "id": "mq84yhmgii8du5qtutg",
+      "name": "Duy Khahh Le",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": "2026-06-19",
+      "notes": "",
+      "lastModified": "2026-06-10",
+      "dateAdded": "2026-06-10",
+      "addedAt": "2026-06-10T14:00:07.864Z"
     }
   ],
-  "lastUpdated": "2026-06-10T13:48:32.096Z"
+  "lastUpdated": "2026-06-10T14:00:07.864Z"
 }
