@@ -5505,7 +5505,25 @@
       "lastModified": "2026-06-10",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-10T14:04:24.601Z"
+    },
+    {
+      "id": "mq855i0gxwkgyduj1vj",
+      "name": "Nikul Ranpariya",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": "2026-06-24",
+      "notes": "",
+      "lastModified": "2026-06-10",
+      "dateAdded": "2026-06-10",
+      "addedAt": "2026-06-10T14:05:34.960Z"
     }
   ],
-  "lastUpdated": "2026-06-10T14:04:24.601Z"
+  "lastUpdated": "2026-06-10T14:05:34.960Z"
 }
