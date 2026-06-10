@@ -5595,7 +5595,25 @@
       "lastModified": "2026-06-10",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-10T14:12:58.272Z"
+    },
+    {
+      "id": "mq85k7rr4e121eby3ng",
+      "name": "Nedas Galdikas ",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": "2026-06-17",
+      "notes": "",
+      "lastModified": "2026-06-10",
+      "dateAdded": "2026-06-10",
+      "addedAt": "2026-06-10T14:17:01.527Z"
     }
   ],
-  "lastUpdated": "2026-06-10T14:12:58.272Z"
+  "lastUpdated": "2026-06-10T14:17:01.527Z"
 }
