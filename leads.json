@@ -4418,11 +4418,11 @@
       "status": "New Lead",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-06-09",
-      "nextFollowUp": "2026-06-16",
+      "lastAction": "Not Interested",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": null,
       "notes": "Message sent ",
-      "lastModified": "2026-06-09",
+      "lastModified": "2026-06-10",
       "dateAdded": "2026-06-09",
       "addedAt": "2026-06-09T14:40:55.666Z"
     },
@@ -5453,5 +5453,5 @@
       "addedAt": "2026-06-10T13:21:13.800Z"
     }
   ],
-  "lastUpdated": "2026-06-10T13:27:34.008Z"
+  "lastUpdated": "2026-06-10T13:28:03.672Z"
 }
