@@ -4911,7 +4911,25 @@
       "lastModified": "2026-06-10",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-10T10:10:02.157Z"
+    },
+    {
+      "id": "mq7wsmb5iwoje9oakzm",
+      "name": "Hollie Ansell",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": "2026-06-17",
+      "notes": "",
+      "lastModified": "2026-06-10",
+      "dateAdded": "2026-06-10",
+      "addedAt": "2026-06-10T10:11:37.073Z"
     }
   ],
-  "lastUpdated": "2026-06-10T10:10:02.157Z"
+  "lastUpdated": "2026-06-10T10:11:37.073Z"
 }
