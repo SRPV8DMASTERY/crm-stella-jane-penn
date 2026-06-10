@@ -5379,7 +5379,25 @@
       "lastModified": "2026-06-10",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-10T10:39:03.177Z"
+    },
+    {
+      "id": "mq80cyaw6k6h9l504qg",
+      "name": "Jules Kay (1)",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": "2026-06-19",
+      "notes": "",
+      "lastModified": "2026-06-10",
+      "dateAdded": "2026-06-10",
+      "addedAt": "2026-06-10T11:51:24.585Z"
     }
   ],
-  "lastUpdated": "2026-06-10T11:50:59.560Z"
+  "lastUpdated": "2026-06-10T11:51:24.585Z"
 }
