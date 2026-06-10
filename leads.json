@@ -2817,10 +2817,10 @@
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-06-04",
-      "nextFollowUp": "2026-06-10",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": "2026-06-17",
       "notes": "Message sent ",
-      "lastModified": "2026-06-04",
+      "lastModified": "2026-06-10",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T08:53:26.774Z"
     },
@@ -5417,5 +5417,5 @@
       "addedAt": "2026-06-10T11:51:48.457Z"
     }
   ],
-  "lastUpdated": "2026-06-10T12:12:50.063Z"
+  "lastUpdated": "2026-06-10T12:13:48.000Z"
 }
