@@ -4695,7 +4695,25 @@
       "lastModified": "2026-06-10",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-10T09:55:05.282Z"
+    },
+    {
+      "id": "mq7wap817x5ybygaop",
+      "name": "Amanda Brown ",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": "2026-06-15",
+      "notes": "Initial Message sent ",
+      "lastModified": "2026-06-10",
+      "dateAdded": "2026-06-10",
+      "addedAt": "2026-06-10T09:57:41.041Z"
     }
   ],
-  "lastUpdated": "2026-06-10T09:55:05.282Z"
+  "lastUpdated": "2026-06-10T09:57:41.041Z"
 }
