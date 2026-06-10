@@ -4929,7 +4929,25 @@
       "lastModified": "2026-06-10",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-10T10:11:37.073Z"
+    },
+    {
+      "id": "mq7wuflc7syu8hiv5om",
+      "name": "Carla Bovingdon",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": "2026-06-15",
+      "notes": "",
+      "lastModified": "2026-06-10",
+      "dateAdded": "2026-06-10",
+      "addedAt": "2026-06-10T10:13:01.680Z"
     }
   ],
-  "lastUpdated": "2026-06-10T10:11:37.073Z"
+  "lastUpdated": "2026-06-10T10:13:01.680Z"
 }
