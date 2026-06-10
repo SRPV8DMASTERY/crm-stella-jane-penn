@@ -5073,7 +5073,25 @@
       "lastModified": "2026-06-10",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-10T10:22:43.593Z"
+    },
+    {
+      "id": "mq7x8edl29zd4cw788c",
+      "name": "Mike Pellegrini",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": "2026-06-17",
+      "notes": "",
+      "lastModified": "2026-06-10",
+      "dateAdded": "2026-06-10",
+      "addedAt": "2026-06-10T10:23:53.289Z"
     }
   ],
-  "lastUpdated": "2026-06-10T10:22:43.593Z"
+  "lastUpdated": "2026-06-10T10:23:53.289Z"
 }
