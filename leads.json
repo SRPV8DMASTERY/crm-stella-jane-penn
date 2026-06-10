@@ -1139,12 +1139,12 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Follow-up 1",
+      "lastAction": "Not Interested",
       "lastContact": "2026-06-10",
-      "nextFollowUp": "2026-06-24",
+      "nextFollowUp": null,
       "notes": "Message sent ",
       "lastModified": "2026-06-10",
       "dateAdded": "2026-06-02",
@@ -5399,5 +5399,5 @@
       "addedAt": "2026-06-10T11:51:48.457Z"
     }
   ],
-  "lastUpdated": "2026-06-10T13:09:45.727Z"
+  "lastUpdated": "2026-06-10T13:11:25.831Z"
 }
