@@ -5397,7 +5397,25 @@
       "lastModified": "2026-06-10",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-10T11:51:48.457Z"
+    },
+    {
+      "id": "mq83ahk0up1k41c7vsf",
+      "name": "Claire Stevenson",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": "2026-06-17",
+      "notes": "",
+      "lastModified": "2026-06-10",
+      "dateAdded": "2026-06-10",
+      "addedAt": "2026-06-10T13:13:28.416Z"
     }
   ],
-  "lastUpdated": "2026-06-10T13:11:25.831Z"
+  "lastUpdated": "2026-06-10T13:13:28.416Z"
 }
