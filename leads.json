@@ -5541,7 +5541,25 @@
       "lastModified": "2026-06-10",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-10T14:10:02.280Z"
+    },
+    {
+      "id": "mq85cgaw9qferz3scno",
+      "name": "Charlie McGuire",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": "2026-06-17",
+      "notes": "",
+      "lastModified": "2026-06-10",
+      "dateAdded": "2026-06-10",
+      "addedAt": "2026-06-10T14:10:59.336Z"
     }
   ],
-  "lastUpdated": "2026-06-10T14:10:02.280Z"
+  "lastUpdated": "2026-06-10T14:10:59.336Z"
 }
