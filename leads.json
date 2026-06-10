@@ -2759,12 +2759,12 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-06-10",
-      "nextFollowUp": "2026-07-10",
+      "nextFollowUp": null,
       "notes": "Message sent ",
       "lastModified": "2026-06-10",
       "dateAdded": "2026-06-04",
@@ -5633,5 +5633,5 @@
       "addedAt": "2026-06-10T14:18:51.319Z"
     }
   ],
-  "lastUpdated": "2026-06-10T14:29:43.585Z"
+  "lastUpdated": "2026-06-10T14:43:42.895Z"
 }
