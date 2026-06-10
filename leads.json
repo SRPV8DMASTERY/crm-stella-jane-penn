@@ -989,24 +989,6 @@
       "addedAt": "2026-06-02T07:37:02.938Z"
     },
     {
-      "id": "mpwca3zeio066cvp0t",
-      "name": "Karen Kritter",
-      "email": "",
-      "phone": "",
-      "social": "",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-06-02",
-      "nextFollowUp": "2026-06-09",
-      "notes": "Message sent ",
-      "lastModified": "2026-06-02",
-      "dateAdded": "2026-06-02",
-      "addedAt": "2026-06-02T07:51:53.258Z"
-    },
-    {
       "id": "mpwcudkyd5033nm8w0s",
       "name": "Gift Richard ",
       "email": "",
@@ -5399,5 +5381,5 @@
       "addedAt": "2026-06-10T10:39:03.177Z"
     }
   ],
-  "lastUpdated": "2026-06-10T11:28:27.999Z"
+  "lastUpdated": "2026-06-10T11:29:27.311Z"
 }
