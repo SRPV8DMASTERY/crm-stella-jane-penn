@@ -995,12 +995,12 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-06-10",
-      "nextFollowUp": "2026-06-17",
+      "nextFollowUp": null,
       "notes": "Message sent ",
       "lastModified": "2026-06-10",
       "dateAdded": "2026-06-02",
@@ -5633,5 +5633,5 @@
       "addedAt": "2026-06-10T14:18:51.319Z"
     }
   ],
-  "lastUpdated": "2026-06-10T15:35:16.742Z"
+  "lastUpdated": "2026-06-10T19:25:12.540Z"
 }
