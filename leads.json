@@ -4767,7 +4767,25 @@
       "lastModified": "2026-06-10",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-10T10:02:25.890Z"
+    },
+    {
+      "id": "mq7wi4td7xrdh63138g",
+      "name": "Talia Ethena ",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": "2026-06-17",
+      "notes": "Initial message sent ",
+      "lastModified": "2026-06-10",
+      "dateAdded": "2026-06-10",
+      "addedAt": "2026-06-10T10:03:27.842Z"
     }
   ],
-  "lastUpdated": "2026-06-10T10:02:25.890Z"
+  "lastUpdated": "2026-06-10T10:03:27.842Z"
 }
