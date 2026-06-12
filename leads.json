@@ -6063,7 +6063,25 @@
       "lastModified": "2026-06-12",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T13:04:30.765Z"
+    },
+    {
+      "id": "mqaxwbzpv8o4f00ye2a",
+      "name": "Charlotte Louise Roberts",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-12",
+      "nextFollowUp": "2026-06-26",
+      "notes": "",
+      "lastModified": "2026-06-12",
+      "dateAdded": "2026-06-12",
+      "addedAt": "2026-06-12T13:05:48.469Z"
     }
   ],
-  "lastUpdated": "2026-06-12T13:04:30.765Z"
+  "lastUpdated": "2026-06-12T13:05:48.469Z"
 }
