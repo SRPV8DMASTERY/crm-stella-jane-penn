@@ -5865,7 +5865,25 @@
       "lastModified": "2026-06-12",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T12:42:54.790Z"
+    },
+    {
+      "id": "mqax4699tx17rt5vff",
+      "name": "Matthew Bacos",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-12",
+      "nextFollowUp": "2026-06-19",
+      "notes": "",
+      "lastModified": "2026-06-12",
+      "dateAdded": "2026-06-12",
+      "addedAt": "2026-06-12T12:43:54.669Z"
     }
   ],
-  "lastUpdated": "2026-06-12T12:42:54.790Z"
+  "lastUpdated": "2026-06-12T12:43:54.669Z"
 }
