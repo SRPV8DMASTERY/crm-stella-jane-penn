@@ -6243,7 +6243,25 @@
       "lastModified": "2026-06-12",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T13:15:43.406Z"
+    },
+    {
+      "id": "mqayaqmu57znr88hiy",
+      "name": "Melanie Smith",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-12",
+      "nextFollowUp": "2026-06-26",
+      "notes": "",
+      "lastModified": "2026-06-12",
+      "dateAdded": "2026-06-12",
+      "addedAt": "2026-06-12T13:17:00.630Z"
     }
   ],
-  "lastUpdated": "2026-06-12T13:15:43.406Z"
+  "lastUpdated": "2026-06-12T13:17:00.630Z"
 }
