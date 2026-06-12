@@ -2800,9 +2800,9 @@
       "temperature": "Warm",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-10",
-      "nextFollowUp": "2026-06-12",
+      "nextFollowUp": "2026-06-13",
       "notes": "Message sent ",
-      "lastModified": "2026-06-10",
+      "lastModified": "2026-06-12",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T08:53:27.558Z"
     },
@@ -5669,5 +5669,5 @@
       "addedAt": "2026-06-11T13:12:19.900Z"
     }
   ],
-  "lastUpdated": "2026-06-12T07:16:25.784Z"
+  "lastUpdated": "2026-06-12T07:16:33.137Z"
 }
