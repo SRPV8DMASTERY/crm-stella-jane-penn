@@ -6153,7 +6153,25 @@
       "lastModified": "2026-06-12",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T13:09:25.679Z"
+    },
+    {
+      "id": "mqay3uv92j4vnj2lhcc",
+      "name": "Garry Yates",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-12",
+      "nextFollowUp": "2026-06-19",
+      "notes": "",
+      "lastModified": "2026-06-12",
+      "dateAdded": "2026-06-12",
+      "addedAt": "2026-06-12T13:11:39.525Z"
     }
   ],
-  "lastUpdated": "2026-06-12T13:09:25.679Z"
+  "lastUpdated": "2026-06-12T13:11:39.525Z"
 }
