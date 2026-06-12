@@ -5703,7 +5703,25 @@
       "lastModified": "2026-06-12",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T12:04:17.015Z"
+    },
+    {
+      "id": "mqaw497qb41z2g8njzi",
+      "name": "Oussama G",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-12",
+      "nextFollowUp": "2026-06-19",
+      "notes": "",
+      "lastModified": "2026-06-12",
+      "dateAdded": "2026-06-12",
+      "addedAt": "2026-06-12T12:15:58.886Z"
     }
   ],
-  "lastUpdated": "2026-06-12T12:04:17.015Z"
+  "lastUpdated": "2026-06-12T12:15:58.886Z"
 }
