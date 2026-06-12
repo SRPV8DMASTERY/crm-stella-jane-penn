@@ -5739,7 +5739,25 @@
       "lastModified": "2026-06-12",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T12:16:28.078Z"
+    },
+    {
+      "id": "mqaw5fi7nvze259nz0f",
+      "name": "Thi Thuy Linh Nguyen",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-12",
+      "nextFollowUp": "2026-06-19",
+      "notes": "",
+      "lastModified": "2026-06-12",
+      "dateAdded": "2026-06-12",
+      "addedAt": "2026-06-12T12:16:53.695Z"
     }
   ],
-  "lastUpdated": "2026-06-12T12:16:28.078Z"
+  "lastUpdated": "2026-06-12T12:16:53.695Z"
 }
