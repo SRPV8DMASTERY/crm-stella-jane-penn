@@ -6009,7 +6009,25 @@
       "lastModified": "2026-06-12",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T13:01:54.829Z"
+    },
+    {
+      "id": "mqaxs5wugzo7li14pm",
+      "name": "Rachel Nellis",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-12",
+      "nextFollowUp": "2026-06-19",
+      "notes": "",
+      "lastModified": "2026-06-12",
+      "dateAdded": "2026-06-12",
+      "addedAt": "2026-06-12T13:02:33.966Z"
     }
   ],
-  "lastUpdated": "2026-06-12T13:01:54.829Z"
+  "lastUpdated": "2026-06-12T13:02:33.966Z"
 }
