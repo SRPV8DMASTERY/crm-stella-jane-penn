@@ -5901,7 +5901,25 @@
       "lastModified": "2026-06-12",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T12:45:28.590Z"
+    },
+    {
+      "id": "mqaxl27q1bkw1d60d7x",
+      "name": "Jessie Emily Dando",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-12",
+      "nextFollowUp": "2026-06-26",
+      "notes": "",
+      "lastModified": "2026-06-12",
+      "dateAdded": "2026-06-12",
+      "addedAt": "2026-06-12T12:57:02.582Z"
     }
   ],
-  "lastUpdated": "2026-06-12T12:45:28.590Z"
+  "lastUpdated": "2026-06-12T12:57:02.582Z"
 }
