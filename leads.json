@@ -6189,7 +6189,25 @@
       "lastModified": "2026-06-12",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T13:12:39.709Z"
+    },
+    {
+      "id": "mqay6f9xpe986nup389",
+      "name": "Emma Bond",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-12",
+      "nextFollowUp": "2026-06-19",
+      "notes": "",
+      "lastModified": "2026-06-12",
+      "dateAdded": "2026-06-12",
+      "addedAt": "2026-06-12T13:13:39.285Z"
     }
   ],
-  "lastUpdated": "2026-06-12T13:12:39.709Z"
+  "lastUpdated": "2026-06-12T13:13:39.285Z"
 }
