@@ -6117,7 +6117,25 @@
       "lastModified": "2026-06-12",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T13:07:41.253Z"
+    },
+    {
+      "id": "mqaxztdactxgfwmmtxr",
+      "name": "Carole Beattie",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-12",
+      "nextFollowUp": "2026-06-26",
+      "notes": "",
+      "lastModified": "2026-06-12",
+      "dateAdded": "2026-06-12",
+      "addedAt": "2026-06-12T13:08:30.958Z"
     }
   ],
-  "lastUpdated": "2026-06-12T13:07:41.253Z"
+  "lastUpdated": "2026-06-12T13:08:30.958Z"
 }
