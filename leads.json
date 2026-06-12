@@ -5793,7 +5793,25 @@
       "lastModified": "2026-06-12",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T12:17:51.262Z"
+    },
+    {
+      "id": "mqawgfqed6s0t89hmrf",
+      "name": "Rebecca Freeman ",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-12",
+      "nextFollowUp": "2026-06-19",
+      "notes": "",
+      "lastModified": "2026-06-12",
+      "dateAdded": "2026-06-12",
+      "addedAt": "2026-06-12T12:25:27.206Z"
     }
   ],
-  "lastUpdated": "2026-06-12T12:18:50.206Z"
+  "lastUpdated": "2026-06-12T12:25:27.207Z"
 }
