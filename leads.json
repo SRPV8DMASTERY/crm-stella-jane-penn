@@ -5919,7 +5919,25 @@
       "lastModified": "2026-06-12",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T12:57:02.582Z"
+    },
+    {
+      "id": "mqaxmffymqgjquf6q3",
+      "name": "Jessica Louise Hazzard",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-12",
+      "nextFollowUp": "2026-06-26",
+      "notes": "",
+      "lastModified": "2026-06-12",
+      "dateAdded": "2026-06-12",
+      "addedAt": "2026-06-12T12:58:06.382Z"
     }
   ],
-  "lastUpdated": "2026-06-12T12:57:02.582Z"
+  "lastUpdated": "2026-06-12T12:58:06.382Z"
 }
