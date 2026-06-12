@@ -6171,7 +6171,25 @@
       "lastModified": "2026-06-12",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T13:11:39.525Z"
+    },
+    {
+      "id": "mqay55b1tlzztprwnup",
+      "name": "Jamie Taylor",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-12",
+      "nextFollowUp": "2026-06-19",
+      "notes": "",
+      "lastModified": "2026-06-12",
+      "dateAdded": "2026-06-12",
+      "addedAt": "2026-06-12T13:12:39.709Z"
     }
   ],
-  "lastUpdated": "2026-06-12T13:11:39.525Z"
+  "lastUpdated": "2026-06-12T13:12:39.709Z"
 }
