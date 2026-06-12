@@ -1718,9 +1718,9 @@
       "status": "Sent Video",
       "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Not Interested",
+      "lastAction": "Follow-up 1",
       "lastContact": "2026-06-12",
-      "nextFollowUp": "2026-06-14",
+      "nextFollowUp": "2026-06-16",
       "notes": "Message sent ",
       "lastModified": "2026-06-12",
       "dateAdded": "2026-06-03",
@@ -5813,5 +5813,5 @@
       "addedAt": "2026-06-12T12:25:27.206Z"
     }
   ],
-  "lastUpdated": "2026-06-12T12:25:27.207Z"
+  "lastUpdated": "2026-06-12T12:28:13.000Z"
 }
