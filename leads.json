@@ -5883,7 +5883,25 @@
       "lastModified": "2026-06-12",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T12:43:54.669Z"
+    },
+    {
+      "id": "mqax66q6ftsf5pjqmxr",
+      "name": "Seyi Adegok",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-12",
+      "nextFollowUp": "2026-06-19",
+      "notes": "",
+      "lastModified": "2026-06-12",
+      "dateAdded": "2026-06-12",
+      "addedAt": "2026-06-12T12:45:28.590Z"
     }
   ],
-  "lastUpdated": "2026-06-12T12:43:54.669Z"
+  "lastUpdated": "2026-06-12T12:45:28.590Z"
 }
