@@ -6333,7 +6333,25 @@
       "lastModified": "2026-06-12",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T13:20:20.480Z"
+    },
+    {
+      "id": "mqayg5fpb8i6204inl",
+      "name": "Michelle Bartlett",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-12",
+      "nextFollowUp": "2026-07-12",
+      "notes": "",
+      "lastModified": "2026-06-12",
+      "dateAdded": "2026-06-12",
+      "addedAt": "2026-06-12T13:21:13.093Z"
     }
   ],
-  "lastUpdated": "2026-06-12T13:20:20.480Z"
+  "lastUpdated": "2026-06-12T13:21:13.094Z"
 }
