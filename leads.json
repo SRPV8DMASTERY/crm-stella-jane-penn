@@ -5775,7 +5775,25 @@
       "lastModified": "2026-06-12",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T12:17:19.799Z"
+    },
+    {
+      "id": "mqaw6nxabpz5xzd83v",
+      "name": "Rafail Samiotis",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-12",
+      "nextFollowUp": "2026-06-19",
+      "notes": "",
+      "lastModified": "2026-06-12",
+      "dateAdded": "2026-06-12",
+      "addedAt": "2026-06-12T12:17:51.262Z"
     }
   ],
-  "lastUpdated": "2026-06-12T12:17:19.799Z"
+  "lastUpdated": "2026-06-12T12:17:51.262Z"
 }
