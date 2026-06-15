@@ -6405,7 +6405,25 @@
       "lastModified": "2026-06-15",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-15T10:45:07.280Z"
+    },
+    {
+      "id": "mqf6lyye88u629cndpe",
+      "name": "Quana Obryan",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-15",
+      "nextFollowUp": "2026-06-20",
+      "notes": "",
+      "lastModified": "2026-06-15",
+      "dateAdded": "2026-06-15",
+      "addedAt": "2026-06-15T12:20:46.262Z"
     }
   ],
-  "lastUpdated": "2026-06-15T10:45:07.280Z"
+  "lastUpdated": "2026-06-15T12:20:46.262Z"
 }
