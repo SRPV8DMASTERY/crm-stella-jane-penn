@@ -3374,11 +3374,11 @@
       "status": "Sent Video",
       "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Follow-up 1",
-      "lastContact": "2026-06-09",
-      "nextFollowUp": "2026-06-14",
+      "lastAction": "Follow-up 2",
+      "lastContact": "2026-06-15",
+      "nextFollowUp": "2026-06-20",
       "notes": "Message sent ",
-      "lastModified": "2026-06-09",
+      "lastModified": "2026-06-15",
       "dateAdded": "2026-06-06",
       "addedAt": "2026-06-06T12:32:20.192Z"
     },
@@ -6389,5 +6389,5 @@
       "addedAt": "2026-06-12T13:22:50.231Z"
     }
   ],
-  "lastUpdated": "2026-06-15T10:26:11.464Z"
+  "lastUpdated": "2026-06-15T10:39:33.776Z"
 }
