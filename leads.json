@@ -6395,14 +6395,14 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Warm",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-06-15",
-      "nextFollowUp": "2026-06-20",
+      "lastContact": "2026-06-16",
+      "nextFollowUp": "2026-06-18",
       "notes": "",
-      "lastModified": "2026-06-15",
+      "lastModified": "2026-06-16",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-15T10:45:07.280Z"
     },
@@ -6461,5 +6461,5 @@
       "addedAt": "2026-06-16T13:08:03.226Z"
     }
   ],
-  "lastUpdated": "2026-06-16T13:41:02.970Z"
+  "lastUpdated": "2026-06-16T13:41:17.977Z"
 }
