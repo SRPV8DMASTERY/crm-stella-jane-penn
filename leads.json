@@ -6441,7 +6441,25 @@
       "lastModified": "2026-06-15",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-15T17:29:19.277Z"
+    },
+    {
+      "id": "mqgnqmmy7by1ess3cb6",
+      "name": "Angel Ernesto De Oto",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-16",
+      "nextFollowUp": "2026-06-23",
+      "notes": "",
+      "lastModified": "2026-06-16",
+      "dateAdded": "2026-06-16",
+      "addedAt": "2026-06-16T13:08:03.226Z"
     }
   ],
-  "lastUpdated": "2026-06-15T18:33:26.908Z"
+  "lastUpdated": "2026-06-16T13:08:03.226Z"
 }
