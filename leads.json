@@ -3425,14 +3425,14 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-06-13",
-      "nextFollowUp": "2026-06-27",
+      "lastAction": "Not Interested",
+      "lastContact": "2026-06-17",
+      "nextFollowUp": null,
       "notes": "Message sent ",
-      "lastModified": "2026-06-13",
+      "lastModified": "2026-06-17",
       "dateAdded": "2026-06-06",
       "addedAt": "2026-06-06T14:32:00.842Z"
     },
@@ -6515,5 +6515,5 @@
       "addedAt": "2026-06-17T16:55:57.283Z"
     }
   ],
-  "lastUpdated": "2026-06-17T16:57:24.354Z"
+  "lastUpdated": "2026-06-17T16:59:05.962Z"
 }
