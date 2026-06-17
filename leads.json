@@ -6621,7 +6621,25 @@
       "lastModified": "2026-06-17",
       "dateAdded": "2026-06-17",
       "addedAt": "2026-06-17T17:09:08.267Z"
+    },
+    {
+      "id": "mqibuf3mqyaohzvmut",
+      "name": "Debbie Drennan",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-17",
+      "nextFollowUp": "2026-06-24",
+      "notes": "",
+      "lastModified": "2026-06-17",
+      "dateAdded": "2026-06-17",
+      "addedAt": "2026-06-17T17:10:37.042Z"
     }
   ],
-  "lastUpdated": "2026-06-17T17:09:08.267Z"
+  "lastUpdated": "2026-06-17T17:10:37.042Z"
 }
