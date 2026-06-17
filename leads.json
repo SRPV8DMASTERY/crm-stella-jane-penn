@@ -6711,7 +6711,25 @@
       "lastModified": "2026-06-17",
       "dateAdded": "2026-06-17",
       "addedAt": "2026-06-17T17:19:44.579Z"
+    },
+    {
+      "id": "mqic8igaoj4mqur6zaq",
+      "name": "Esther Davies",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-17",
+      "nextFollowUp": "2026-06-24",
+      "notes": "",
+      "lastModified": "2026-06-17",
+      "dateAdded": "2026-06-17",
+      "addedAt": "2026-06-17T17:21:34.570Z"
     }
   ],
-  "lastUpdated": "2026-06-17T17:19:44.579Z"
+  "lastUpdated": "2026-06-17T17:21:34.570Z"
 }
