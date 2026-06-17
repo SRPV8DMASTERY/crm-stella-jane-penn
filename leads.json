@@ -6513,7 +6513,25 @@
       "lastModified": "2026-06-17",
       "dateAdded": "2026-06-17",
       "addedAt": "2026-06-17T16:55:57.283Z"
+    },
+    {
+      "id": "mqibk30jqco7c24mln",
+      "name": "Chuck Bluestein",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-17",
+      "nextFollowUp": "2026-06-24",
+      "notes": "",
+      "lastModified": "2026-06-17",
+      "dateAdded": "2026-06-17",
+      "addedAt": "2026-06-17T17:02:34.819Z"
     }
   ],
-  "lastUpdated": "2026-06-17T16:59:05.962Z"
+  "lastUpdated": "2026-06-17T17:02:34.819Z"
 }
