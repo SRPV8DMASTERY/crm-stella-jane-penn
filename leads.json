@@ -4420,9 +4420,9 @@
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-09",
-      "nextFollowUp": "2026-06-16",
+      "nextFollowUp": "2026-06-19",
       "notes": "Mesage sent ",
-      "lastModified": "2026-06-09",
+      "lastModified": "2026-06-17",
       "dateAdded": "2026-06-09",
       "addedAt": "2026-06-09T14:44:26.492Z"
     },
@@ -6479,5 +6479,5 @@
       "addedAt": "2026-06-17T10:23:53.326Z"
     }
   ],
-  "lastUpdated": "2026-06-17T10:27:45.078Z"
+  "lastUpdated": "2026-06-17T10:27:52.734Z"
 }
