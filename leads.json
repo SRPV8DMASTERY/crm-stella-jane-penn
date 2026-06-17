@@ -6549,7 +6549,25 @@
       "lastModified": "2026-06-17",
       "dateAdded": "2026-06-17",
       "addedAt": "2026-06-17T17:03:28.531Z"
+    },
+    {
+      "id": "mqibmmgzwepwxel4jk9",
+      "name": "Juliane Swartz",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-17",
+      "nextFollowUp": "2026-06-24",
+      "notes": "",
+      "lastModified": "2026-06-17",
+      "dateAdded": "2026-06-17",
+      "addedAt": "2026-06-17T17:04:33.347Z"
     }
   ],
-  "lastUpdated": "2026-06-17T17:03:28.531Z"
+  "lastUpdated": "2026-06-17T17:04:33.347Z"
 }
