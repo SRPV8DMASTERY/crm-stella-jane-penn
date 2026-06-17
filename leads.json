@@ -6495,7 +6495,25 @@
       "lastModified": "2026-06-17",
       "dateAdded": "2026-06-17",
       "addedAt": "2026-06-17T16:54:40.555Z"
+    },
+    {
+      "id": "mqibbk9v1jbd2pzrrdxk",
+      "name": "Martinn Emilyy",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-17",
+      "nextFollowUp": "2026-06-24",
+      "notes": "",
+      "lastModified": "2026-06-17",
+      "dateAdded": "2026-06-17",
+      "addedAt": "2026-06-17T16:55:57.283Z"
     }
   ],
-  "lastUpdated": "2026-06-17T16:54:40.555Z"
+  "lastUpdated": "2026-06-17T16:55:57.283Z"
 }
