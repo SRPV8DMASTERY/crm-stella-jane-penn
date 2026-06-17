@@ -6567,7 +6567,25 @@
       "lastModified": "2026-06-17",
       "dateAdded": "2026-06-17",
       "addedAt": "2026-06-17T17:04:33.347Z"
+    },
+    {
+      "id": "mqibo1qi4bd4z9vcf7g",
+      "name": "Lindsey Salmon",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-17",
+      "nextFollowUp": "2026-06-24",
+      "notes": "",
+      "lastModified": "2026-06-17",
+      "dateAdded": "2026-06-17",
+      "addedAt": "2026-06-17T17:05:39.786Z"
     }
   ],
-  "lastUpdated": "2026-06-17T17:04:33.347Z"
+  "lastUpdated": "2026-06-17T17:05:39.786Z"
 }
