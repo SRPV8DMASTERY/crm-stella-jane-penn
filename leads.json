@@ -6431,12 +6431,12 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Warm",
-      "lastAction": "Follow-up 1",
+      "lastAction": "Not Interested",
       "lastContact": "2026-06-17",
-      "nextFollowUp": "2026-06-20",
+      "nextFollowUp": null,
       "notes": "",
       "lastModified": "2026-06-17",
       "dateAdded": "2026-06-16",
@@ -6461,5 +6461,5 @@
       "addedAt": "2026-06-17T10:23:53.326Z"
     }
   ],
-  "lastUpdated": "2026-06-17T10:36:03.470Z"
+  "lastUpdated": "2026-06-17T12:48:19.246Z"
 }
