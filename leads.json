@@ -6819,7 +6819,25 @@
       "lastModified": "2026-06-18",
       "dateAdded": "2026-06-18",
       "addedAt": "2026-06-18T12:24:27.217Z"
+    },
+    {
+      "id": "mqjq6j0vjdyt4l8ah4",
+      "name": "Lindsy Porter",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-18",
+      "nextFollowUp": "2026-07-02",
+      "notes": "",
+      "lastModified": "2026-06-18",
+      "dateAdded": "2026-06-18",
+      "addedAt": "2026-06-18T16:39:42.799Z"
     }
   ],
-  "lastUpdated": "2026-06-18T12:24:27.217Z"
+  "lastUpdated": "2026-06-18T16:39:42.799Z"
 }
