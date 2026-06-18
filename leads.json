@@ -6891,7 +6891,25 @@
       "lastModified": "2026-06-18",
       "dateAdded": "2026-06-18",
       "addedAt": "2026-06-18T16:42:47.790Z"
+    },
+    {
+      "id": "mqjqbgqoz6znjqfa1m",
+      "name": "Farhana Uddin",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-18",
+      "nextFollowUp": "2026-06-25",
+      "notes": "",
+      "lastModified": "2026-06-18",
+      "dateAdded": "2026-06-18",
+      "addedAt": "2026-06-18T16:43:33.121Z"
     }
   ],
-  "lastUpdated": "2026-06-18T16:42:47.790Z"
+  "lastUpdated": "2026-06-18T16:43:33.121Z"
 }
