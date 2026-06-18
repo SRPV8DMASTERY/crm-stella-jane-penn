@@ -6783,7 +6783,25 @@
       "lastModified": "2026-06-18",
       "dateAdded": "2026-06-18",
       "addedAt": "2026-06-18T12:21:02.056Z"
+    },
+    {
+      "id": "mqjh069cgcdf2izbbza",
+      "name": "David Harry",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-18",
+      "nextFollowUp": "2026-06-25",
+      "notes": "",
+      "lastModified": "2026-06-18",
+      "dateAdded": "2026-06-18",
+      "addedAt": "2026-06-18T12:22:49.776Z"
     }
   ],
-  "lastUpdated": "2026-06-18T12:21:02.056Z"
+  "lastUpdated": "2026-06-18T12:22:49.776Z"
 }
