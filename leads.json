@@ -7331,17 +7331,17 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Warm",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-19",
-      "nextFollowUp": "2026-07-19",
+      "nextFollowUp": "2026-06-22",
       "notes": "",
       "lastModified": "2026-06-19",
       "dateAdded": "2026-06-19",
       "addedAt": "2026-06-19T16:43:04.870Z"
     }
   ],
-  "lastUpdated": "2026-06-19T16:43:04.870Z"
+  "lastUpdated": "2026-06-19T18:09:08.956Z"
 }
