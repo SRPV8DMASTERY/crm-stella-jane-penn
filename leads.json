@@ -7017,7 +7017,25 @@
       "lastModified": "2026-06-18",
       "dateAdded": "2026-06-18",
       "addedAt": "2026-06-18T16:54:39.838Z"
+    },
+    {
+      "id": "mql3cc4f273uxowpuhq",
+      "name": "Ilham Yasya",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-19",
+      "nextFollowUp": "2026-07-03",
+      "notes": "",
+      "lastModified": "2026-06-19",
+      "dateAdded": "2026-06-19",
+      "addedAt": "2026-06-19T15:35:54.975Z"
     }
   ],
-  "lastUpdated": "2026-06-18T16:54:39.838Z"
+  "lastUpdated": "2026-06-19T15:35:54.976Z"
 }
