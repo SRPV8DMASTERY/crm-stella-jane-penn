@@ -7233,7 +7233,25 @@
       "lastModified": "2026-06-19",
       "dateAdded": "2026-06-19",
       "addedAt": "2026-06-19T16:14:46.230Z"
+    },
+    {
+      "id": "mql4s8bis7y84krg4t",
+      "name": "Safda Khan",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-19",
+      "nextFollowUp": "2026-07-19",
+      "notes": "",
+      "lastModified": "2026-06-19",
+      "dateAdded": "2026-06-19",
+      "addedAt": "2026-06-19T16:16:16.158Z"
     }
   ],
-  "lastUpdated": "2026-06-19T16:14:46.230Z"
+  "lastUpdated": "2026-06-19T16:16:16.158Z"
 }
