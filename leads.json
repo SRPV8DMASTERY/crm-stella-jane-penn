@@ -7269,7 +7269,25 @@
       "lastModified": "2026-06-19",
       "dateAdded": "2026-06-19",
       "addedAt": "2026-06-19T16:17:55.654Z"
+    },
+    {
+      "id": "mql511fbmye5k1mkgel",
+      "name": "Kambeer Khoso",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-19",
+      "nextFollowUp": "2026-07-19",
+      "notes": "",
+      "lastModified": "2026-06-19",
+      "dateAdded": "2026-06-19",
+      "addedAt": "2026-06-19T16:23:07.127Z"
     }
   ],
-  "lastUpdated": "2026-06-19T16:17:55.654Z"
+  "lastUpdated": "2026-06-19T16:23:07.127Z"
 }
