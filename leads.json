@@ -7323,7 +7323,25 @@
       "lastModified": "2026-06-19",
       "dateAdded": "2026-06-19",
       "addedAt": "2026-06-19T16:42:02.998Z"
+    },
+    {
+      "id": "mql5qply98vw8ock4lf",
+      "name": "Sirajjhg Jarwar",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-19",
+      "nextFollowUp": "2026-07-19",
+      "notes": "",
+      "lastModified": "2026-06-19",
+      "dateAdded": "2026-06-19",
+      "addedAt": "2026-06-19T16:43:04.870Z"
     }
   ],
-  "lastUpdated": "2026-06-19T16:42:02.998Z"
+  "lastUpdated": "2026-06-19T16:43:04.870Z"
 }
