@@ -7035,7 +7035,25 @@
       "lastModified": "2026-06-19",
       "dateAdded": "2026-06-19",
       "addedAt": "2026-06-19T15:35:54.975Z"
+    },
+    {
+      "id": "mql3d1yvbgeqsi5e0y",
+      "name": "James Hillier ",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-19",
+      "nextFollowUp": "2026-07-03",
+      "notes": "",
+      "lastModified": "2026-06-19",
+      "dateAdded": "2026-06-19",
+      "addedAt": "2026-06-19T15:36:28.471Z"
     }
   ],
-  "lastUpdated": "2026-06-19T15:35:54.976Z"
+  "lastUpdated": "2026-06-19T15:36:28.471Z"
 }
