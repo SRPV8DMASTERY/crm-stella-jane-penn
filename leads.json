@@ -7169,12 +7169,12 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-19",
-      "nextFollowUp": "2026-07-19",
+      "nextFollowUp": "2026-06-22",
       "notes": "",
       "lastModified": "2026-06-19",
       "dateAdded": "2026-06-19",
@@ -7307,5 +7307,5 @@
       "addedAt": "2026-06-19T16:23:51.734Z"
     }
   ],
-  "lastUpdated": "2026-06-19T16:28:17.375Z"
+  "lastUpdated": "2026-06-19T16:34:52.213Z"
 }
