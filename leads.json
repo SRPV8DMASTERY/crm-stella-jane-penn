@@ -7665,7 +7665,25 @@
       "lastModified": "2026-06-22",
       "dateAdded": "2026-06-22",
       "addedAt": "2026-06-22T14:14:47.726Z"
+    },
+    {
+      "id": "mqpat4xjfv75gwpdq2v",
+      "name": "Sanket Bhagwant Lavate",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-22",
+      "nextFollowUp": "2026-07-06",
+      "notes": "",
+      "lastModified": "2026-06-22",
+      "dateAdded": "2026-06-22",
+      "addedAt": "2026-06-22T14:16:00.823Z"
     }
   ],
-  "lastUpdated": "2026-06-22T14:14:47.726Z"
+  "lastUpdated": "2026-06-22T14:16:00.823Z"
 }
