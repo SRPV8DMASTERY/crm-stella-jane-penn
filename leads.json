@@ -7467,7 +7467,25 @@
       "lastModified": "2026-06-22",
       "dateAdded": "2026-06-22",
       "addedAt": "2026-06-22T13:53:44.327Z"
+    },
+    {
+      "id": "mqpa1jtacekge3zou2",
+      "name": "Avni Rajput",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-22",
+      "nextFollowUp": "2026-06-29",
+      "notes": "",
+      "lastModified": "2026-06-22",
+      "dateAdded": "2026-06-22",
+      "addedAt": "2026-06-22T13:54:33.742Z"
     }
   ],
-  "lastUpdated": "2026-06-22T13:53:44.327Z"
+  "lastUpdated": "2026-06-22T13:54:33.742Z"
 }
