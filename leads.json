@@ -7593,7 +7593,25 @@
       "lastModified": "2026-06-22",
       "dateAdded": "2026-06-22",
       "addedAt": "2026-06-22T14:00:57.455Z"
+    },
+    {
+      "id": "mqpaayzzw7cg06j1jn",
+      "name": "Sudeer Khan Jakhrani",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-22",
+      "nextFollowUp": "2026-07-06",
+      "notes": "",
+      "lastModified": "2026-06-22",
+      "dateAdded": "2026-06-22",
+      "addedAt": "2026-06-22T14:01:53.327Z"
     }
   ],
-  "lastUpdated": "2026-06-22T14:00:57.455Z"
+  "lastUpdated": "2026-06-22T14:01:53.327Z"
 }
