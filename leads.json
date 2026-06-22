@@ -7899,7 +7899,25 @@
       "lastModified": "2026-06-22",
       "dateAdded": "2026-06-22",
       "addedAt": "2026-06-22T14:31:23.999Z"
+    },
+    {
+      "id": "mqpbe24fmgzwmgsgcs",
+      "name": "Yasmin Akhtar",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-22",
+      "nextFollowUp": "2026-07-06",
+      "notes": "",
+      "lastModified": "2026-06-22",
+      "dateAdded": "2026-06-22",
+      "addedAt": "2026-06-22T14:32:16.959Z"
     }
   ],
-  "lastUpdated": "2026-06-22T14:31:23.999Z"
+  "lastUpdated": "2026-06-22T14:32:16.959Z"
 }
