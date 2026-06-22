@@ -7359,7 +7359,25 @@
       "lastModified": "2026-06-22",
       "dateAdded": "2026-06-22",
       "addedAt": "2026-06-22T13:49:01.918Z"
+    },
+    {
+      "id": "mqp9vd0unczo8qe304",
+      "name": "Thomas Williams",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-22",
+      "nextFollowUp": "2026-06-29",
+      "notes": "",
+      "lastModified": "2026-06-22",
+      "dateAdded": "2026-06-22",
+      "addedAt": "2026-06-22T13:49:45.006Z"
     }
   ],
-  "lastUpdated": "2026-06-22T13:49:01.918Z"
+  "lastUpdated": "2026-06-22T13:49:45.006Z"
 }
