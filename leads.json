@@ -7485,7 +7485,25 @@
       "lastModified": "2026-06-22",
       "dateAdded": "2026-06-22",
       "addedAt": "2026-06-22T13:54:33.742Z"
+    },
+    {
+      "id": "mqpa2nsuw1qa2zjlctq",
+      "name": "Sarjana Muda",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-22",
+      "nextFollowUp": "2026-07-06",
+      "notes": "",
+      "lastModified": "2026-06-22",
+      "dateAdded": "2026-06-22",
+      "addedAt": "2026-06-22T13:55:25.567Z"
     }
   ],
-  "lastUpdated": "2026-06-22T13:54:33.742Z"
+  "lastUpdated": "2026-06-22T13:55:25.567Z"
 }
