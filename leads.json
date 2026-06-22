@@ -7755,7 +7755,25 @@
       "lastModified": "2026-06-22",
       "dateAdded": "2026-06-22",
       "addedAt": "2026-06-22T14:20:44.279Z"
+    },
+    {
+      "id": "mqpb2b27r02rhvuaqi",
+      "name": "Ahmed Jan",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-22",
+      "nextFollowUp": "2026-07-06",
+      "notes": "",
+      "lastModified": "2026-06-22",
+      "dateAdded": "2026-06-22",
+      "addedAt": "2026-06-22T14:23:08.671Z"
     }
   ],
-  "lastUpdated": "2026-06-22T14:20:44.279Z"
+  "lastUpdated": "2026-06-22T14:23:08.671Z"
 }
