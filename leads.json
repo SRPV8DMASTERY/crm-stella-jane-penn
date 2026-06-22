@@ -7575,7 +7575,25 @@
       "lastModified": "2026-06-22",
       "dateAdded": "2026-06-22",
       "addedAt": "2026-06-22T14:00:00.407Z"
+    },
+    {
+      "id": "mqpa9rvz3a3qp74zixc",
+      "name": "Malik Khali",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-22",
+      "nextFollowUp": "2026-07-06",
+      "notes": "",
+      "lastModified": "2026-06-22",
+      "dateAdded": "2026-06-22",
+      "addedAt": "2026-06-22T14:00:57.455Z"
     }
   ],
-  "lastUpdated": "2026-06-22T14:00:00.407Z"
+  "lastUpdated": "2026-06-22T14:00:57.455Z"
 }
