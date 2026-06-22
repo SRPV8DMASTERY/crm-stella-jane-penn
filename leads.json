@@ -7683,7 +7683,25 @@
       "lastModified": "2026-06-22",
       "dateAdded": "2026-06-22",
       "addedAt": "2026-06-22T14:16:00.823Z"
+    },
+    {
+      "id": "mqpaupnbfcuvfu0zpz9",
+      "name": "Moneymantra Research",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-22",
+      "nextFollowUp": "2026-07-06",
+      "notes": "",
+      "lastModified": "2026-06-22",
+      "dateAdded": "2026-06-22",
+      "addedAt": "2026-06-22T14:17:14.327Z"
     }
   ],
-  "lastUpdated": "2026-06-22T14:16:00.823Z"
+  "lastUpdated": "2026-06-22T14:17:14.327Z"
 }
