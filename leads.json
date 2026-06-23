@@ -7874,11 +7874,11 @@
       "status": "Sent Video",
       "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-06-22",
-      "nextFollowUp": "2026-06-23",
+      "lastAction": "Follow-up 1",
+      "lastContact": "2026-06-23",
+      "nextFollowUp": "2026-07-07",
       "notes": "",
-      "lastModified": "2026-06-22",
+      "lastModified": "2026-06-23",
       "dateAdded": "2026-06-22",
       "addedAt": "2026-06-22T14:30:20.247Z"
     },
@@ -7973,5 +7973,5 @@
       "addedAt": "2026-06-23T11:53:27.840Z"
     }
   ],
-  "lastUpdated": "2026-06-23T11:55:28.943Z"
+  "lastUpdated": "2026-06-23T11:56:20.215Z"
 }
