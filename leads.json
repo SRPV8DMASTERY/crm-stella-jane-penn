@@ -7953,7 +7953,25 @@
       "lastModified": "2026-06-22",
       "dateAdded": "2026-06-22",
       "addedAt": "2026-06-22T14:35:30.534Z"
+    },
+    {
+      "id": "mqql5o2npd1hh92njh",
+      "name": "Shereen Strachan",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-23",
+      "nextFollowUp": "2026-07-07",
+      "notes": "",
+      "lastModified": "2026-06-23",
+      "dateAdded": "2026-06-23",
+      "addedAt": "2026-06-23T11:53:27.840Z"
     }
   ],
-  "lastUpdated": "2026-06-22T18:00:41.433Z"
+  "lastUpdated": "2026-06-23T11:53:27.840Z"
 }
