@@ -8187,7 +8187,25 @@
       "lastModified": "2026-06-23",
       "dateAdded": "2026-06-23",
       "addedAt": "2026-06-23T12:43:49.903Z"
+    },
+    {
+      "id": "mqqn20bcvwhvbpn6itb",
+      "name": "Claire Ceej Johnson",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-23",
+      "nextFollowUp": "2026-07-07",
+      "notes": "",
+      "lastModified": "2026-06-23",
+      "dateAdded": "2026-06-23",
+      "addedAt": "2026-06-23T12:46:36.312Z"
     }
   ],
-  "lastUpdated": "2026-06-23T12:43:49.903Z"
+  "lastUpdated": "2026-06-23T12:46:36.312Z"
 }
