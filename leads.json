@@ -7703,24 +7703,6 @@
       "addedAt": "2026-06-22T14:17:14.327Z"
     },
     {
-      "id": "mqpawn6m8yjg0jwf0na",
-      "name": "Mra Mra",
-      "email": "",
-      "phone": "",
-      "social": "",
-      "source": "Facebook",
-      "status": "Not Interested",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Not Interested",
-      "lastContact": "2026-06-22",
-      "nextFollowUp": null,
-      "notes": "",
-      "lastModified": "2026-06-23",
-      "dateAdded": "2026-06-22",
-      "addedAt": "2026-06-22T14:18:44.446Z"
-    },
-    {
       "id": "mqpaxq3ascpleo78i4",
       "name": "Jessica Hilson",
       "email": "",
@@ -8315,5 +8297,5 @@
       "addedAt": "2026-06-23T15:14:15.524Z"
     }
   ],
-  "lastUpdated": "2026-06-23T17:19:32.635Z"
+  "lastUpdated": "2026-06-23T17:19:38.859Z"
 }
