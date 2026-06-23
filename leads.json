@@ -7989,7 +7989,25 @@
       "lastModified": "2026-06-23",
       "dateAdded": "2026-06-23",
       "addedAt": "2026-06-23T12:05:19.167Z"
+    },
+    {
+      "id": "mqqmk9bs49b7pdmiozu",
+      "name": "Snehal Waghela",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-23",
+      "nextFollowUp": "2026-07-07",
+      "notes": "",
+      "lastModified": "2026-06-23",
+      "dateAdded": "2026-06-23",
+      "addedAt": "2026-06-23T12:32:48.184Z"
     }
   ],
-  "lastUpdated": "2026-06-23T12:16:18.241Z"
+  "lastUpdated": "2026-06-23T12:32:48.184Z"
 }
