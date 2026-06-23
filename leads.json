@@ -8259,7 +8259,25 @@
       "lastModified": "2026-06-23",
       "dateAdded": "2026-06-23",
       "addedAt": "2026-06-23T15:11:56.441Z"
+    },
+    {
+      "id": "mqqsa1caeokq494kt37",
+      "name": "Clare Louise Dix",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-23",
+      "nextFollowUp": "2026-07-07",
+      "notes": "",
+      "lastModified": "2026-06-23",
+      "dateAdded": "2026-06-23",
+      "addedAt": "2026-06-23T15:12:48.970Z"
     }
   ],
-  "lastUpdated": "2026-06-23T15:11:56.441Z"
+  "lastUpdated": "2026-06-23T15:12:48.970Z"
 }
