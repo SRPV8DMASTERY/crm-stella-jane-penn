@@ -7182,19 +7182,19 @@
     },
     {
       "id": "mql4llwm5401i8t0y9x",
-      "name": "Mera Sukoon M",
+      "name": "Mera Sukoon ",
       "email": "",
       "phone": "",
       "social": "",
       "source": "Facebook",
       "status": "Sent Video",
-      "videoSent": true,
+      "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-06-22",
-      "nextFollowUp": "2026-06-29",
+      "lastContact": "2026-06-23",
+      "nextFollowUp": "2026-07-07",
       "notes": "",
-      "lastModified": "2026-06-22",
+      "lastModified": "2026-06-23",
       "dateAdded": "2026-06-19",
       "addedAt": "2026-06-19T16:11:07.174Z"
     },
@@ -7973,5 +7973,5 @@
       "addedAt": "2026-06-23T11:53:27.840Z"
     }
   ],
-  "lastUpdated": "2026-06-23T11:58:44.103Z"
+  "lastUpdated": "2026-06-23T12:01:20.687Z"
 }
