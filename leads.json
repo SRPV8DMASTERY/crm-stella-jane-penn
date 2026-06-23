@@ -8025,7 +8025,25 @@
       "lastModified": "2026-06-23",
       "dateAdded": "2026-06-23",
       "addedAt": "2026-06-23T12:33:29.207Z"
+    },
+    {
+      "id": "mqqmmub5h6e5j7mr2na",
+      "name": "Ajmal Khan Ali",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-23",
+      "nextFollowUp": "2026-07-07",
+      "notes": "",
+      "lastModified": "2026-06-23",
+      "dateAdded": "2026-06-23",
+      "addedAt": "2026-06-23T12:34:48.689Z"
     }
   ],
-  "lastUpdated": "2026-06-23T12:33:46.384Z"
+  "lastUpdated": "2026-06-23T12:34:48.689Z"
 }
