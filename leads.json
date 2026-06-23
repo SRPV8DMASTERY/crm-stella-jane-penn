@@ -8115,7 +8115,25 @@
       "lastModified": "2026-06-23",
       "dateAdded": "2026-06-23",
       "addedAt": "2026-06-23T12:39:31.751Z"
+    },
+    {
+      "id": "mqqmttmb7onvvj15au8",
+      "name": "Glarian Shenz",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-23",
+      "nextFollowUp": "2026-07-07",
+      "notes": "",
+      "lastModified": "2026-06-23",
+      "dateAdded": "2026-06-23",
+      "addedAt": "2026-06-23T12:40:14.387Z"
     }
   ],
-  "lastUpdated": "2026-06-23T12:39:31.752Z"
+  "lastUpdated": "2026-06-23T12:40:14.387Z"
 }
