@@ -8151,7 +8151,25 @@
       "lastModified": "2026-06-23",
       "dateAdded": "2026-06-23",
       "addedAt": "2026-06-23T12:42:21.648Z"
+    },
+    {
+      "id": "mqqmxf4x42nsggko6c2",
+      "name": "Affiliated Cane ",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-23",
+      "nextFollowUp": "2026-07-07",
+      "notes": "",
+      "lastModified": "2026-06-23",
+      "dateAdded": "2026-06-23",
+      "addedAt": "2026-06-23T12:43:02.241Z"
     }
   ],
-  "lastUpdated": "2026-06-23T12:42:21.648Z"
+  "lastUpdated": "2026-06-23T12:43:02.241Z"
 }
