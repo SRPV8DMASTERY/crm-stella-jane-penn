@@ -8241,7 +8241,25 @@
       "lastModified": "2026-06-23",
       "dateAdded": "2026-06-23",
       "addedAt": "2026-06-23T12:54:28.128Z"
+    },
+    {
+      "id": "mqqs8wt5e7h94d96ddt",
+      "name": "Vlad And Michelle Antshym",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-23",
+      "nextFollowUp": "2026-07-07",
+      "notes": "",
+      "lastModified": "2026-06-23",
+      "dateAdded": "2026-06-23",
+      "addedAt": "2026-06-23T15:11:56.441Z"
     }
   ],
-  "lastUpdated": "2026-06-23T12:54:28.128Z"
+  "lastUpdated": "2026-06-23T15:11:56.441Z"
 }
