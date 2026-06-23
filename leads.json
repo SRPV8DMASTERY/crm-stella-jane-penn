@@ -8285,12 +8285,12 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
+      "lastAction": "Not Interested",
       "lastContact": "2026-06-23",
-      "nextFollowUp": "2026-07-07",
+      "nextFollowUp": null,
       "notes": "",
       "lastModified": "2026-06-23",
       "dateAdded": "2026-06-23",
@@ -8315,5 +8315,5 @@
       "addedAt": "2026-06-23T15:14:15.524Z"
     }
   ],
-  "lastUpdated": "2026-06-23T15:14:15.524Z"
+  "lastUpdated": "2026-06-23T15:25:56.245Z"
 }
