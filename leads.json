@@ -7349,14 +7349,14 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Warm",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-06-22",
-      "nextFollowUp": "2026-07-06",
+      "lastContact": "2026-06-23",
+      "nextFollowUp": "2026-06-24",
       "notes": "",
-      "lastModified": "2026-06-22",
+      "lastModified": "2026-06-23",
       "dateAdded": "2026-06-22",
       "addedAt": "2026-06-22T13:49:01.918Z"
     },
@@ -8315,5 +8315,5 @@
       "addedAt": "2026-06-23T15:14:15.524Z"
     }
   ],
-  "lastUpdated": "2026-06-23T15:25:56.245Z"
+  "lastUpdated": "2026-06-23T17:10:40.803Z"
 }
