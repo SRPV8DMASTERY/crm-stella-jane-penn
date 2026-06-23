@@ -5315,14 +5315,14 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-06-10",
-      "nextFollowUp": "2026-06-23",
+      "lastAction": "Not Interested",
+      "lastContact": "2026-06-23",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-10",
+      "lastModified": "2026-06-23",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-10T11:51:48.457Z"
     },
@@ -7991,5 +7991,5 @@
       "addedAt": "2026-06-23T12:05:19.167Z"
     }
   ],
-  "lastUpdated": "2026-06-23T12:14:46.783Z"
+  "lastUpdated": "2026-06-23T12:16:18.241Z"
 }
