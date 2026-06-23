@@ -8205,7 +8205,25 @@
       "lastModified": "2026-06-23",
       "dateAdded": "2026-06-23",
       "addedAt": "2026-06-23T12:46:36.312Z"
+    },
+    {
+      "id": "mqqn8upcmjrd0l92gy",
+      "name": "Country Dadof",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-23",
+      "nextFollowUp": "2026-07-07",
+      "notes": "",
+      "lastModified": "2026-06-23",
+      "dateAdded": "2026-06-23",
+      "addedAt": "2026-06-23T12:51:55.632Z"
     }
   ],
-  "lastUpdated": "2026-06-23T12:46:36.312Z"
+  "lastUpdated": "2026-06-23T12:51:55.632Z"
 }
