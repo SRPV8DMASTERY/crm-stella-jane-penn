@@ -8475,7 +8475,25 @@
       "lastModified": "2026-06-24",
       "dateAdded": "2026-06-24",
       "addedAt": "2026-06-24T16:38:56.524Z"
+    },
+    {
+      "id": "mqsaweslc0wlw32lu08",
+      "name": "Lukhanyo Novoyi",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-24",
+      "nextFollowUp": "2026-07-08",
+      "notes": "",
+      "lastModified": "2026-06-24",
+      "dateAdded": "2026-06-24",
+      "addedAt": "2026-06-24T16:41:52.101Z"
     }
   ],
-  "lastUpdated": "2026-06-24T16:38:56.524Z"
+  "lastUpdated": "2026-06-24T16:41:52.101Z"
 }
