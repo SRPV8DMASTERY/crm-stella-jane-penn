@@ -8295,7 +8295,25 @@
       "lastModified": "2026-06-23",
       "dateAdded": "2026-06-23",
       "addedAt": "2026-06-23T15:14:15.524Z"
+    },
+    {
+      "id": "mqsa8w5yyi4ehj1xp4",
+      "name": "Amy Lea",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-24",
+      "nextFollowUp": "2026-07-01",
+      "notes": "",
+      "lastModified": "2026-06-24",
+      "dateAdded": "2026-06-24",
+      "addedAt": "2026-06-24T16:23:34.870Z"
     }
   ],
-  "lastUpdated": "2026-06-24T16:21:13.259Z"
+  "lastUpdated": "2026-06-24T16:23:34.870Z"
 }
