@@ -8313,7 +8313,25 @@
       "lastModified": "2026-06-24",
       "dateAdded": "2026-06-24",
       "addedAt": "2026-06-24T16:23:34.870Z"
+    },
+    {
+      "id": "mqsaay38on1jtrago77",
+      "name": "Daszx Guews",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-24",
+      "nextFollowUp": "2026-07-08",
+      "notes": "",
+      "lastModified": "2026-06-24",
+      "dateAdded": "2026-06-24",
+      "addedAt": "2026-06-24T16:25:10.676Z"
     }
   ],
-  "lastUpdated": "2026-06-24T16:23:46.444Z"
+  "lastUpdated": "2026-06-24T16:25:10.676Z"
 }
