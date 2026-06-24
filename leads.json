@@ -8421,7 +8421,25 @@
       "lastModified": "2026-06-24",
       "dateAdded": "2026-06-24",
       "addedAt": "2026-06-24T16:29:27.365Z"
+    },
+    {
+      "id": "mqsaoi84e0cruvb59ms",
+      "name": "Maria Gracia",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-24",
+      "nextFollowUp": "2026-07-08",
+      "notes": "",
+      "lastModified": "2026-06-24",
+      "dateAdded": "2026-06-24",
+      "addedAt": "2026-06-24T16:35:43.300Z"
     }
   ],
-  "lastUpdated": "2026-06-24T16:29:27.365Z"
+  "lastUpdated": "2026-06-24T16:35:43.300Z"
 }
