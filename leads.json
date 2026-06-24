@@ -8349,7 +8349,25 @@
       "lastModified": "2026-06-24",
       "dateAdded": "2026-06-24",
       "addedAt": "2026-06-24T16:26:27.364Z"
+    },
+    {
+      "id": "mqsadjbg8x93ccht4zx",
+      "name": "John Mccann",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-24",
+      "nextFollowUp": "2026-07-08",
+      "notes": "",
+      "lastModified": "2026-06-24",
+      "dateAdded": "2026-06-24",
+      "addedAt": "2026-06-24T16:27:11.500Z"
     }
   ],
-  "lastUpdated": "2026-06-24T16:26:27.364Z"
+  "lastUpdated": "2026-06-24T16:27:11.500Z"
 }
