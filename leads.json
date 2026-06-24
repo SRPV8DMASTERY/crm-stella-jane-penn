@@ -8457,7 +8457,25 @@
       "lastModified": "2026-06-24",
       "dateAdded": "2026-06-24",
       "addedAt": "2026-06-24T16:37:28.939Z"
+    },
+    {
+      "id": "mqsasnbgmbho4kyrfv",
+      "name": "Linda Michael",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-24",
+      "nextFollowUp": "2026-07-08",
+      "notes": "",
+      "lastModified": "2026-06-24",
+      "dateAdded": "2026-06-24",
+      "addedAt": "2026-06-24T16:38:56.524Z"
     }
   ],
-  "lastUpdated": "2026-06-24T16:37:28.939Z"
+  "lastUpdated": "2026-06-24T16:38:56.524Z"
 }
