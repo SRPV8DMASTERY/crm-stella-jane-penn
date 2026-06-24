@@ -8331,7 +8331,25 @@
       "lastModified": "2026-06-24",
       "dateAdded": "2026-06-24",
       "addedAt": "2026-06-24T16:25:10.676Z"
+    },
+    {
+      "id": "mqsacl9guot69a4at5",
+      "name": "Andy Hurst",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-24",
+      "nextFollowUp": "2026-07-08",
+      "notes": "",
+      "lastModified": "2026-06-24",
+      "dateAdded": "2026-06-24",
+      "addedAt": "2026-06-24T16:26:27.364Z"
     }
   ],
-  "lastUpdated": "2026-06-24T16:25:10.676Z"
+  "lastUpdated": "2026-06-24T16:26:27.364Z"
 }
