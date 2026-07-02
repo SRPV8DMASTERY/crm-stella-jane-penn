@@ -3065,14 +3065,14 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-06-13",
-      "nextFollowUp": "2026-06-27",
+      "lastContact": "2026-07-02",
+      "nextFollowUp": null,
       "notes": "Message sent ",
-      "lastModified": "2026-06-13",
+      "lastModified": "2026-07-02",
       "dateAdded": "2026-06-05",
       "addedAt": "2026-06-05T17:55:44.716Z"
     },
@@ -8513,5 +8513,5 @@
       "addedAt": "2026-06-24T17:11:10.708Z"
     }
   ],
-  "lastUpdated": "2026-07-02T14:43:22.588Z"
+  "lastUpdated": "2026-07-02T14:44:00.037Z"
 }
