@@ -6449,12 +6449,12 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Prospect",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-07-02",
-      "nextFollowUp": "2026-08-01",
+      "nextFollowUp": "2026-07-06",
       "notes": "",
       "lastModified": "2026-07-02",
       "dateAdded": "2026-06-17",
@@ -8513,5 +8513,5 @@
       "addedAt": "2026-06-24T17:11:10.708Z"
     }
   ],
-  "lastUpdated": "2026-07-02T14:50:21.060Z"
+  "lastUpdated": "2026-07-02T14:52:33.197Z"
 }
