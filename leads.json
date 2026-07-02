@@ -8709,7 +8709,25 @@
       "lastModified": "2026-07-02",
       "dateAdded": "2026-07-02",
       "addedAt": "2026-07-02T15:03:06.141Z"
+    },
+    {
+      "id": "mr3nkl5io3831anbfy",
+      "name": "Alexander Rasaq",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-02",
+      "nextFollowUp": "2026-07-09",
+      "notes": "",
+      "lastModified": "2026-07-02",
+      "dateAdded": "2026-07-02",
+      "addedAt": "2026-07-02T15:22:03.414Z"
     }
   ],
-  "lastUpdated": "2026-07-02T15:09:32.564Z"
+  "lastUpdated": "2026-07-02T15:22:03.414Z"
 }
