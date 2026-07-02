@@ -8799,7 +8799,25 @@
       "lastModified": "2026-07-02",
       "dateAdded": "2026-07-02",
       "addedAt": "2026-07-02T15:28:46.798Z"
+    },
+    {
+      "id": "mr3nubtq1arjxrhlqsg",
+      "name": "Eshwar Musina ",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-02",
+      "nextFollowUp": "2026-07-09",
+      "notes": "",
+      "lastModified": "2026-07-02",
+      "dateAdded": "2026-07-02",
+      "addedAt": "2026-07-02T15:29:37.886Z"
     }
   ],
-  "lastUpdated": "2026-07-02T15:28:46.798Z"
+  "lastUpdated": "2026-07-02T15:29:37.886Z"
 }
