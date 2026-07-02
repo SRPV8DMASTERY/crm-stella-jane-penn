@@ -980,11 +980,11 @@
       "status": "Sent Video",
       "videoSent": true,
       "temperature": "Warm",
-      "lastAction": "Follow-up 2",
-      "lastContact": "2026-06-19",
-      "nextFollowUp": "2026-06-26",
+      "lastAction": "Follow-up 3",
+      "lastContact": "2026-07-02",
+      "nextFollowUp": "2026-08-01",
       "notes": "Message Sent ",
-      "lastModified": "2026-06-19",
+      "lastModified": "2026-07-02",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T07:37:02.938Z"
     },
@@ -8513,5 +8513,5 @@
       "addedAt": "2026-06-24T17:11:10.708Z"
     }
   ],
-  "lastUpdated": "2026-07-02T14:11:25.284Z"
+  "lastUpdated": "2026-07-02T14:12:39.732Z"
 }
