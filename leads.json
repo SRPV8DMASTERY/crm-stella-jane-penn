@@ -6415,12 +6415,12 @@
       "source": "Facebook",
       "status": "Not Interested",
       "videoSent": true,
-      "temperature": "Warm",
+      "temperature": "Cold",
       "lastAction": "Not Interested",
       "lastContact": "2026-06-17",
       "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-17",
+      "lastModified": "2026-07-02",
       "dateAdded": "2026-06-16",
       "addedAt": "2026-06-16T13:08:03.226Z"
     },
@@ -8819,5 +8819,5 @@
       "addedAt": "2026-07-02T15:29:37.886Z"
     }
   ],
-  "lastUpdated": "2026-07-02T16:16:16.406Z"
+  "lastUpdated": "2026-07-02T16:16:32.760Z"
 }
