@@ -2942,11 +2942,11 @@
       "status": "New Lead",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-06-13",
-      "nextFollowUp": "2026-06-27",
+      "lastAction": "Follow-up 2",
+      "lastContact": "2026-07-02",
+      "nextFollowUp": "2026-08-01",
       "notes": "Message sent ",
-      "lastModified": "2026-06-13",
+      "lastModified": "2026-07-02",
       "dateAdded": "2026-06-05",
       "addedAt": "2026-06-05T17:50:32.606Z"
     },
@@ -8513,5 +8513,5 @@
       "addedAt": "2026-06-24T17:11:10.708Z"
     }
   ],
-  "lastUpdated": "2026-07-02T14:39:25.453Z"
+  "lastUpdated": "2026-07-02T14:40:02.901Z"
 }
