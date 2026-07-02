@@ -8619,7 +8619,25 @@
       "lastModified": "2026-07-02",
       "dateAdded": "2026-07-02",
       "addedAt": "2026-07-02T14:58:51.765Z"
+    },
+    {
+      "id": "mr3mrnn2j1y17raz0w",
+      "name": "Camille Anaru",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-02",
+      "nextFollowUp": "2026-07-09",
+      "notes": "",
+      "lastModified": "2026-07-02",
+      "dateAdded": "2026-07-02",
+      "addedAt": "2026-07-02T14:59:33.614Z"
     }
   ],
-  "lastUpdated": "2026-07-02T14:58:51.765Z"
+  "lastUpdated": "2026-07-02T14:59:33.614Z"
 }
