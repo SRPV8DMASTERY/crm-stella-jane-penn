@@ -8727,7 +8727,25 @@
       "lastModified": "2026-07-02",
       "dateAdded": "2026-07-02",
       "addedAt": "2026-07-02T15:22:03.414Z"
+    },
+    {
+      "id": "mr3nmngdu02yhmh9fki",
+      "name": "Oluwaseyitan Fuad Alabi",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-02",
+      "nextFollowUp": "2026-07-09",
+      "notes": "",
+      "lastModified": "2026-07-02",
+      "dateAdded": "2026-07-02",
+      "addedAt": "2026-07-02T15:23:39.709Z"
     }
   ],
-  "lastUpdated": "2026-07-02T15:22:03.414Z"
+  "lastUpdated": "2026-07-02T15:23:39.709Z"
 }
