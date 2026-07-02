@@ -6449,7 +6449,7 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "Prospect",
+      "status": "Sent Video",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
@@ -8513,5 +8513,5 @@
       "addedAt": "2026-06-24T17:11:10.708Z"
     }
   ],
-  "lastUpdated": "2026-07-02T14:52:33.197Z"
+  "lastUpdated": "2026-07-02T14:52:49.940Z"
 }
