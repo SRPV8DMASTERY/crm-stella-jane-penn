@@ -8547,7 +8547,25 @@
       "lastModified": "2026-07-02",
       "dateAdded": "2026-07-02",
       "addedAt": "2026-07-02T14:55:32.229Z"
+    },
+    {
+      "id": "mr3mo1i54f2is3yf7jq",
+      "name": "Steven Ebinepre Afekafe",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-02",
+      "nextFollowUp": "2026-07-09",
+      "notes": "",
+      "lastModified": "2026-07-02",
+      "dateAdded": "2026-07-02",
+      "addedAt": "2026-07-02T14:56:44.957Z"
     }
   ],
-  "lastUpdated": "2026-07-02T14:55:32.229Z"
+  "lastUpdated": "2026-07-02T14:56:44.957Z"
 }
