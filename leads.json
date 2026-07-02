@@ -8529,7 +8529,25 @@
       "lastModified": "2026-07-02",
       "dateAdded": "2026-07-02",
       "addedAt": "2026-07-02T14:54:24.613Z"
+    },
+    {
+      "id": "mr3mmhdx3qfb2t76av7",
+      "name": "Salli Maddalo ",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-02",
+      "nextFollowUp": "2026-07-09",
+      "notes": "",
+      "lastModified": "2026-07-02",
+      "dateAdded": "2026-07-02",
+      "addedAt": "2026-07-02T14:55:32.229Z"
     }
   ],
-  "lastUpdated": "2026-07-02T14:54:24.613Z"
+  "lastUpdated": "2026-07-02T14:55:32.229Z"
 }
