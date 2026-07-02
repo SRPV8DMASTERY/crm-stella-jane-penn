@@ -1,1 +1,1 @@
-# GitHub Actions
+GitHub Actions workflow enabled for Pages deployment
