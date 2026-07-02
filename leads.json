@@ -8565,7 +8565,25 @@
       "lastModified": "2026-07-02",
       "dateAdded": "2026-07-02",
       "addedAt": "2026-07-02T14:56:44.957Z"
+    },
+    {
+      "id": "mr3mp4zheu25ithzvii",
+      "name": "Eli Jah",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-02",
+      "nextFollowUp": "2026-07-09",
+      "notes": "",
+      "lastModified": "2026-07-02",
+      "dateAdded": "2026-07-02",
+      "addedAt": "2026-07-02T14:57:36.125Z"
     }
   ],
-  "lastUpdated": "2026-07-02T14:56:44.957Z"
+  "lastUpdated": "2026-07-02T14:57:36.125Z"
 }
