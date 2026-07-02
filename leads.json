@@ -8771,12 +8771,12 @@
       "phone": "",
       "social": "",
       "source": "LinkedIn",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-02",
-      "nextFollowUp": "2026-07-09",
+      "nextFollowUp": "2026-07-06",
       "notes": "",
       "lastModified": "2026-07-02",
       "dateAdded": "2026-07-02",
@@ -8819,5 +8819,5 @@
       "addedAt": "2026-07-02T15:29:37.886Z"
     }
   ],
-  "lastUpdated": "2026-07-02T15:48:53.558Z"
+  "lastUpdated": "2026-07-02T16:06:01.798Z"
 }
