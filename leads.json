@@ -3140,11 +3140,11 @@
       "status": "New Lead",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-06-13",
-      "nextFollowUp": "2026-06-27",
+      "lastAction": "Follow-up 3",
+      "lastContact": "2026-07-02",
+      "nextFollowUp": "2026-07-16",
       "notes": "Message sent ",
-      "lastModified": "2026-06-13",
+      "lastModified": "2026-07-02",
       "dateAdded": "2026-06-05",
       "addedAt": "2026-06-05T18:04:41.205Z"
     },
@@ -8513,5 +8513,5 @@
       "addedAt": "2026-06-24T17:11:10.708Z"
     }
   ],
-  "lastUpdated": "2026-07-02T14:45:17.084Z"
+  "lastUpdated": "2026-07-02T14:46:01.429Z"
 }
