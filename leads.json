@@ -8511,7 +8511,25 @@
       "lastModified": "2026-06-24",
       "dateAdded": "2026-06-24",
       "addedAt": "2026-06-24T17:11:10.708Z"
+    },
+    {
+      "id": "mr3ml17pf0ssqtidwq",
+      "name": "Anna Clark ",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-02",
+      "nextFollowUp": "2026-07-09",
+      "notes": "",
+      "lastModified": "2026-07-02",
+      "dateAdded": "2026-07-02",
+      "addedAt": "2026-07-02T14:54:24.613Z"
     }
   ],
-  "lastUpdated": "2026-07-02T14:52:49.940Z"
+  "lastUpdated": "2026-07-02T14:54:24.613Z"
 }
