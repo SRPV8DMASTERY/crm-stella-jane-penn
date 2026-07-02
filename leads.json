@@ -2366,11 +2366,11 @@
       "status": "New Lead",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Follow-up 1",
-      "lastContact": "2026-06-10",
-      "nextFollowUp": "2026-06-25",
+      "lastAction": "Not Interested",
+      "lastContact": "2026-07-02",
+      "nextFollowUp": null,
       "notes": "Message sent ",
-      "lastModified": "2026-06-24",
+      "lastModified": "2026-07-02",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T08:29:28.663Z"
     },
@@ -8513,5 +8513,5 @@
       "addedAt": "2026-06-24T17:11:10.708Z"
     }
   ],
-  "lastUpdated": "2026-07-02T14:20:48.853Z"
+  "lastUpdated": "2026-07-02T14:21:48.404Z"
 }
