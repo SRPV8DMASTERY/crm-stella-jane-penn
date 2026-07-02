@@ -5831,24 +5831,6 @@
       "addedAt": "2026-06-12T12:41:51.606Z"
     },
     {
-      "id": "mqax2w1ysnukjksvrvc",
-      "name": "Cameron Gill",
-      "email": "",
-      "phone": "",
-      "social": "",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-06-12",
-      "nextFollowUp": "2026-06-25",
-      "notes": "",
-      "lastModified": "2026-06-19",
-      "dateAdded": "2026-06-12",
-      "addedAt": "2026-06-12T12:42:54.790Z"
-    },
-    {
       "id": "mqax4699tx17rt5vff",
       "name": "Matthew Bacos",
       "email": "",
@@ -8531,5 +8513,5 @@
       "addedAt": "2026-06-24T17:11:10.708Z"
     }
   ],
-  "lastUpdated": "2026-07-02T14:01:48.940Z"
+  "lastUpdated": "2026-07-02T14:02:05.523Z"
 }
