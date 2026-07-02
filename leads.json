@@ -6971,12 +6971,12 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-07-02",
-      "nextFollowUp": "2026-07-09",
+      "nextFollowUp": null,
       "notes": "",
       "lastModified": "2026-07-02",
       "dateAdded": "2026-06-18",
@@ -8531,5 +8531,5 @@
       "addedAt": "2026-06-24T17:11:10.708Z"
     }
   ],
-  "lastUpdated": "2026-07-02T13:46:51.500Z"
+  "lastUpdated": "2026-07-02T13:47:40.284Z"
 }
