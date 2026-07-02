@@ -8763,7 +8763,25 @@
       "lastModified": "2026-07-02",
       "dateAdded": "2026-07-02",
       "addedAt": "2026-07-02T15:25:31.246Z"
+    },
+    {
+      "id": "mr3nr1jq5bj2aal6pjn",
+      "name": "Asha Singh",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-02",
+      "nextFollowUp": "2026-07-09",
+      "notes": "",
+      "lastModified": "2026-07-02",
+      "dateAdded": "2026-07-02",
+      "addedAt": "2026-07-02T15:27:04.598Z"
     }
   ],
-  "lastUpdated": "2026-07-02T15:25:31.246Z"
+  "lastUpdated": "2026-07-02T15:27:04.598Z"
 }
