@@ -1196,11 +1196,11 @@
       "status": "Sent Video",
       "videoSent": true,
       "temperature": "Warm",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-06-02",
-      "nextFollowUp": "2026-07-03",
+      "lastAction": "Follow-up 1",
+      "lastContact": "2026-07-03",
+      "nextFollowUp": "2026-07-10",
       "notes": "Message sent ",
-      "lastModified": "2026-06-02",
+      "lastModified": "2026-07-03",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T08:47:14.194Z"
     },
@@ -8927,5 +8927,5 @@
       "addedAt": "2026-07-03T07:48:19.738Z"
     }
   ],
-  "lastUpdated": "2026-07-03T14:58:13.202Z"
+  "lastUpdated": "2026-07-03T14:58:29.665Z"
 }
