@@ -2111,12 +2111,12 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Warm",
       "lastAction": "Follow-up 4",
       "lastContact": "2026-07-03",
-      "nextFollowUp": "2026-07-10",
+      "nextFollowUp": null,
       "notes": "Message sent ",
       "lastModified": "2026-07-03",
       "dateAdded": "2026-06-04",
@@ -8927,5 +8927,5 @@
       "addedAt": "2026-07-03T07:48:19.738Z"
     }
   ],
-  "lastUpdated": "2026-07-03T14:55:54.313Z"
+  "lastUpdated": "2026-07-03T14:58:13.202Z"
 }
