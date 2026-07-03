@@ -8817,7 +8817,25 @@
       "lastModified": "2026-07-02",
       "dateAdded": "2026-07-02",
       "addedAt": "2026-07-02T15:29:37.886Z"
+    },
+    {
+      "id": "mr4mm0tncwjnc25gi86",
+      "name": "Santhosh Rohith",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-03",
+      "nextFollowUp": "2026-07-10",
+      "notes": "",
+      "lastModified": "2026-07-03",
+      "dateAdded": "2026-07-03",
+      "addedAt": "2026-07-03T07:42:56.939Z"
     }
   ],
-  "lastUpdated": "2026-07-03T07:15:54.668Z"
+  "lastUpdated": "2026-07-03T07:42:56.939Z"
 }
