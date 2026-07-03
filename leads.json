@@ -8835,7 +8835,25 @@
       "lastModified": "2026-07-03",
       "dateAdded": "2026-07-03",
       "addedAt": "2026-07-03T07:42:56.939Z"
+    },
+    {
+      "id": "mr4mojffe7dxf9lv9yl",
+      "name": "Chirag Anand",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-03",
+      "nextFollowUp": "2026-07-10",
+      "notes": "",
+      "lastModified": "2026-07-03",
+      "dateAdded": "2026-07-03",
+      "addedAt": "2026-07-03T07:44:54.363Z"
     }
   ],
-  "lastUpdated": "2026-07-03T07:42:56.939Z"
+  "lastUpdated": "2026-07-03T07:44:54.364Z"
 }
