@@ -8853,7 +8853,25 @@
       "lastModified": "2026-07-03",
       "dateAdded": "2026-07-03",
       "addedAt": "2026-07-03T07:44:54.363Z"
+    },
+    {
+      "id": "mr4mpn6zaw0r7wrr88d",
+      "name": "Srinivas Reddy Police",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-03",
+      "nextFollowUp": "2026-07-10",
+      "notes": "",
+      "lastModified": "2026-07-03",
+      "dateAdded": "2026-07-03",
+      "addedAt": "2026-07-03T07:45:45.899Z"
     }
   ],
-  "lastUpdated": "2026-07-03T07:44:54.364Z"
+  "lastUpdated": "2026-07-03T07:45:45.899Z"
 }
