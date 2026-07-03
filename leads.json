@@ -1013,14 +1013,14 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-06-19",
-      "nextFollowUp": "2026-07-03",
+      "nextFollowUp": null,
       "notes": "Message sent ",
-      "lastModified": "2026-06-19",
+      "lastModified": "2026-07-03",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T08:09:33.411Z"
     },
@@ -8927,5 +8927,5 @@
       "addedAt": "2026-07-03T07:48:19.738Z"
     }
   ],
-  "lastUpdated": "2026-07-03T14:58:29.665Z"
+  "lastUpdated": "2026-07-03T14:59:19.928Z"
 }
