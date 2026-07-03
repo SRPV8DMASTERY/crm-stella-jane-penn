@@ -8843,12 +8843,12 @@
       "phone": "",
       "social": "",
       "source": "LinkedIn",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-03",
-      "nextFollowUp": "2026-07-10",
+      "nextFollowUp": "2026-07-07",
       "notes": "",
       "lastModified": "2026-07-03",
       "dateAdded": "2026-07-03",
@@ -8927,5 +8927,5 @@
       "addedAt": "2026-07-03T07:48:19.738Z"
     }
   ],
-  "lastUpdated": "2026-07-03T07:55:31.506Z"
+  "lastUpdated": "2026-07-03T14:46:07.808Z"
 }
