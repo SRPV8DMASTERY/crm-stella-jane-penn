@@ -8961,7 +8961,25 @@
       "lastModified": "2026-07-03",
       "dateAdded": "2026-07-03",
       "addedAt": "2026-07-03T15:04:59.296Z"
+    },
+    {
+      "id": "mr52fhzkdr6062i42g",
+      "name": "Luz M. Montanez",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-03",
+      "nextFollowUp": "2026-07-07",
+      "notes": "",
+      "lastModified": "2026-07-03",
+      "dateAdded": "2026-07-03",
+      "addedAt": "2026-07-03T15:05:46.448Z"
     }
   ],
-  "lastUpdated": "2026-07-03T15:04:59.296Z"
+  "lastUpdated": "2026-07-03T15:05:46.448Z"
 }
