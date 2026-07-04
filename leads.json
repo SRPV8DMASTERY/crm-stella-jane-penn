@@ -8645,14 +8645,14 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
+      "lastAction": "Not Interested",
       "lastContact": "2026-07-02",
-      "nextFollowUp": "2026-07-09",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-07-02",
+      "lastModified": "2026-07-04",
       "dateAdded": "2026-07-02",
       "addedAt": "2026-07-02T15:00:07.861Z"
     },
@@ -8999,5 +8999,5 @@
       "addedAt": "2026-07-03T15:06:37.000Z"
     }
   ],
-  "lastUpdated": "2026-07-03T15:06:37.000Z"
+  "lastUpdated": "2026-07-04T08:18:30.407Z"
 }
