@@ -3167,24 +3167,6 @@
       "addedAt": "2026-06-06T07:33:31.725Z"
     },
     {
-      "id": "mq21fbpppncaatlsxge",
-      "name": "Nicola Montalbano",
-      "email": "",
-      "phone": "",
-      "social": "",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Follow-up 3",
-      "lastContact": "2026-07-02",
-      "nextFollowUp": "2026-08-01",
-      "notes": "Mesage sent ",
-      "lastModified": "2026-07-02",
-      "dateAdded": "2026-06-06",
-      "addedAt": "2026-06-06T07:34:37.837Z"
-    },
-    {
       "id": "mq21iewtttscwkxtwm",
       "name": "Jameel R. Hodges II",
       "email": "",
@@ -8999,5 +8981,5 @@
       "addedAt": "2026-07-03T15:06:37.000Z"
     }
   ],
-  "lastUpdated": "2026-07-04T08:18:30.407Z"
+  "lastUpdated": "2026-07-04T08:19:17.733Z"
 }
