@@ -9123,7 +9123,25 @@
       "lastModified": "2026-07-06",
       "dateAdded": "2026-07-06",
       "addedAt": "2026-07-06T16:20:27.269Z"
+    },
+    {
+      "id": "mr9fg5y3ll6a4f1osw",
+      "name": "Jake Bradford",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-06",
+      "nextFollowUp": "2026-07-13",
+      "notes": "",
+      "lastModified": "2026-07-06",
+      "dateAdded": "2026-07-06",
+      "addedAt": "2026-07-06T16:21:17.211Z"
     }
   ],
-  "lastUpdated": "2026-07-06T16:20:27.269Z"
+  "lastUpdated": "2026-07-06T16:21:17.211Z"
 }
