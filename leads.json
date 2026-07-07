@@ -9285,7 +9285,25 @@
       "lastModified": "2026-07-07",
       "dateAdded": "2026-07-07",
       "addedAt": "2026-07-07T15:54:02.926Z"
+    },
+    {
+      "id": "mraub22vx62ggytqu9i",
+      "name": "Muhammad Haider Nasir",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-07",
+      "nextFollowUp": "2026-07-14",
+      "notes": "",
+      "lastModified": "2026-07-07",
+      "dateAdded": "2026-07-07",
+      "addedAt": "2026-07-07T16:04:59.335Z"
     }
   ],
-  "lastUpdated": "2026-07-07T16:03:27.767Z"
+  "lastUpdated": "2026-07-07T16:04:59.335Z"
 }
