@@ -7892,11 +7892,11 @@
       "status": "Sent Video",
       "videoSent": true,
       "temperature": "Warm",
-      "lastAction": "Follow-up 1",
-      "lastContact": "2026-06-23",
-      "nextFollowUp": "2026-07-07",
+      "lastAction": "Follow-up 3",
+      "lastContact": "2026-07-07",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-23",
+      "lastModified": "2026-07-07",
       "dateAdded": "2026-06-22",
       "addedAt": "2026-06-22T14:35:30.534Z"
     },
@@ -9197,5 +9197,5 @@
       "addedAt": "2026-07-06T16:23:44.763Z"
     }
   ],
-  "lastUpdated": "2026-07-06T16:27:25.195Z"
+  "lastUpdated": "2026-07-07T12:15:47.202Z"
 }
