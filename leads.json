@@ -9293,12 +9293,12 @@
       "phone": "",
       "social": "",
       "source": "LinkedIn",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-07",
-      "nextFollowUp": "2026-07-14",
+      "nextFollowUp": "2026-07-09",
       "notes": "",
       "lastModified": "2026-07-07",
       "dateAdded": "2026-07-07",
@@ -9629,5 +9629,5 @@
       "addedAt": "2026-07-07T17:06:42.582Z"
     }
   ],
-  "lastUpdated": "2026-07-07T17:09:34.407Z"
+  "lastUpdated": "2026-07-07T17:10:23.759Z"
 }
