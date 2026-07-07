@@ -9321,7 +9321,25 @@
       "lastModified": "2026-07-07",
       "dateAdded": "2026-07-07",
       "addedAt": "2026-07-07T16:06:19.526Z"
+    },
+    {
+      "id": "mraudydyi82mw5g5mwj",
+      "name": "Supriya Venkatesh",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-07",
+      "nextFollowUp": "2026-07-14",
+      "notes": "",
+      "lastModified": "2026-07-07",
+      "dateAdded": "2026-07-07",
+      "addedAt": "2026-07-07T16:07:14.518Z"
     }
   ],
-  "lastUpdated": "2026-07-07T16:06:19.526Z"
+  "lastUpdated": "2026-07-07T16:07:14.518Z"
 }
