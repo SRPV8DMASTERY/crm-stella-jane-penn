@@ -7154,11 +7154,11 @@
       "status": "Sent Video",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
+      "lastAction": "Follow-up 3",
       "lastContact": "2026-06-23",
-      "nextFollowUp": "2026-07-07",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-23",
+      "lastModified": "2026-07-07",
       "dateAdded": "2026-06-19",
       "addedAt": "2026-06-19T16:11:07.174Z"
     },
@@ -9197,5 +9197,5 @@
       "addedAt": "2026-07-06T16:23:44.763Z"
     }
   ],
-  "lastUpdated": "2026-07-07T12:17:15.794Z"
+  "lastUpdated": "2026-07-07T12:18:33.787Z"
 }
