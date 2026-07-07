@@ -9411,7 +9411,25 @@
       "lastModified": "2026-07-07",
       "dateAdded": "2026-07-07",
       "addedAt": "2026-07-07T16:55:02.031Z"
+    },
+    {
+      "id": "mraw4l321fsbarm7w6b",
+      "name": "Snegha Ravi ",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-07",
+      "nextFollowUp": "2026-07-14",
+      "notes": "",
+      "lastModified": "2026-07-07",
+      "dateAdded": "2026-07-07",
+      "addedAt": "2026-07-07T16:55:56.606Z"
     }
   ],
-  "lastUpdated": "2026-07-07T16:55:02.031Z"
+  "lastUpdated": "2026-07-07T16:55:56.606Z"
 }
