@@ -8879,14 +8879,14 @@
       "phone": "",
       "social": "",
       "source": "LinkedIn",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-07-03",
-      "nextFollowUp": "2026-07-10",
+      "lastAction": "Follow-up 1",
+      "lastContact": "2026-07-07",
+      "nextFollowUp": "2026-07-14",
       "notes": "",
-      "lastModified": "2026-07-03",
+      "lastModified": "2026-07-07",
       "dateAdded": "2026-07-03",
       "addedAt": "2026-07-03T07:47:47.579Z"
     },
@@ -9359,5 +9359,5 @@
       "addedAt": "2026-07-07T16:09:51.310Z"
     }
   ],
-  "lastUpdated": "2026-07-07T16:13:15.606Z"
+  "lastUpdated": "2026-07-07T16:14:35.310Z"
 }
