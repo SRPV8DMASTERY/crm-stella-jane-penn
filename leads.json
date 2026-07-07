@@ -9519,7 +9519,25 @@
       "lastModified": "2026-07-07",
       "dateAdded": "2026-07-07",
       "addedAt": "2026-07-07T17:00:25.191Z"
+    },
+    {
+      "id": "mrawbahjhs2woacfx5f",
+      "name": "Komal Gosavi ",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-07",
+      "nextFollowUp": "2026-07-14",
+      "notes": "",
+      "lastModified": "2026-07-07",
+      "dateAdded": "2026-07-07",
+      "addedAt": "2026-07-07T17:01:09.463Z"
     }
   ],
-  "lastUpdated": "2026-07-07T17:00:25.191Z"
+  "lastUpdated": "2026-07-07T17:01:09.463Z"
 }
