@@ -9303,7 +9303,25 @@
       "lastModified": "2026-07-07",
       "dateAdded": "2026-07-07",
       "addedAt": "2026-07-07T16:04:59.335Z"
+    },
+    {
+      "id": "mraucrye4zu6kqmquzg",
+      "name": "Muhammad Anas Saleem ",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-07",
+      "nextFollowUp": "2026-07-14",
+      "notes": "",
+      "lastModified": "2026-07-07",
+      "dateAdded": "2026-07-07",
+      "addedAt": "2026-07-07T16:06:19.526Z"
     }
   ],
-  "lastUpdated": "2026-07-07T16:04:59.335Z"
+  "lastUpdated": "2026-07-07T16:06:19.526Z"
 }
