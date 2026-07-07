@@ -9591,7 +9591,25 @@
       "lastModified": "2026-07-07",
       "dateAdded": "2026-07-07",
       "addedAt": "2026-07-07T17:04:30.464Z"
+    },
+    {
+      "id": "mrawh8if1fm1tym5po2",
+      "name": "Riddhi Prajapati",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-07",
+      "nextFollowUp": "2026-07-14",
+      "notes": "",
+      "lastModified": "2026-07-07",
+      "dateAdded": "2026-07-07",
+      "addedAt": "2026-07-07T17:05:46.839Z"
     }
   ],
-  "lastUpdated": "2026-07-07T17:04:30.464Z"
+  "lastUpdated": "2026-07-07T17:05:46.839Z"
 }
