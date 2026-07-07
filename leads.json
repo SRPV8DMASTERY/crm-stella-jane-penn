@@ -9143,24 +9143,6 @@
       "addedAt": "2026-07-06T16:21:17.211Z"
     },
     {
-      "id": "mr9fhtzoqpaot053yb",
-      "name": "Maooz Ahmad Reels",
-      "email": "",
-      "phone": "",
-      "social": "",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-07-06",
-      "nextFollowUp": "2026-07-13",
-      "notes": "",
-      "lastModified": "2026-07-06",
-      "dateAdded": "2026-07-06",
-      "addedAt": "2026-07-06T16:22:35.028Z"
-    },
-    {
       "id": "mr9filojdre068al68p",
       "name": "Adam Warminski",
       "email": "",
@@ -9233,5 +9215,5 @@
       "addedAt": "2026-07-07T13:50:44.316Z"
     }
   ],
-  "lastUpdated": "2026-07-07T15:40:40.349Z"
+  "lastUpdated": "2026-07-07T15:40:48.947Z"
 }
