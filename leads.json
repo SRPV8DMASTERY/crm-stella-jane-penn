@@ -9275,17 +9275,17 @@
       "phone": "",
       "social": "",
       "source": "LinkedIn",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-07",
-      "nextFollowUp": "2026-07-14",
+      "nextFollowUp": "2026-07-09",
       "notes": "",
       "lastModified": "2026-07-07",
       "dateAdded": "2026-07-07",
       "addedAt": "2026-07-07T15:54:02.926Z"
     }
   ],
-  "lastUpdated": "2026-07-07T15:55:03.238Z"
+  "lastUpdated": "2026-07-07T16:03:27.767Z"
 }
