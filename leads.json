@@ -9213,7 +9213,25 @@
       "lastModified": "2026-07-07",
       "dateAdded": "2026-07-07",
       "addedAt": "2026-07-07T13:49:57.796Z"
+    },
+    {
+      "id": "mrapiescry07w2t33hb",
+      "name": "Arnie Gray ",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-07",
+      "nextFollowUp": "2026-07-14",
+      "notes": "",
+      "lastModified": "2026-07-07",
+      "dateAdded": "2026-07-07",
+      "addedAt": "2026-07-07T13:50:44.316Z"
     }
   ],
-  "lastUpdated": "2026-07-07T13:49:57.796Z"
+  "lastUpdated": "2026-07-07T13:50:44.316Z"
 }
