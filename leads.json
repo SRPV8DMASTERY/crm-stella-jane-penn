@@ -9275,12 +9275,12 @@
       "phone": "",
       "social": "",
       "source": "LinkedIn",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-07",
-      "nextFollowUp": "2026-07-09",
+      "nextFollowUp": null,
       "notes": "",
       "lastModified": "2026-07-07",
       "dateAdded": "2026-07-07",
@@ -9341,5 +9341,5 @@
       "addedAt": "2026-07-07T16:07:14.518Z"
     }
   ],
-  "lastUpdated": "2026-07-07T16:07:14.518Z"
+  "lastUpdated": "2026-07-07T16:08:56.039Z"
 }
