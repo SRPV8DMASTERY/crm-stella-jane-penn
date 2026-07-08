@@ -9645,7 +9645,25 @@
       "lastModified": "2026-07-08",
       "dateAdded": "2026-07-08",
       "addedAt": "2026-07-08T16:29:14.482Z"
+    },
+    {
+      "id": "mrcancd5wshtk16enyn",
+      "name": "Kyle Hutchison",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-08",
+      "nextFollowUp": "2026-07-15",
+      "notes": "",
+      "lastModified": "2026-07-08",
+      "dateAdded": "2026-07-08",
+      "addedAt": "2026-07-08T16:30:12.570Z"
     }
   ],
-  "lastUpdated": "2026-07-08T16:29:14.482Z"
+  "lastUpdated": "2026-07-08T16:30:12.570Z"
 }
