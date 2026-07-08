@@ -9599,14 +9599,14 @@
       "phone": "",
       "social": "",
       "source": "LinkedIn",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-07-07",
-      "nextFollowUp": "2026-07-14",
+      "lastContact": "2026-07-08",
+      "nextFollowUp": "2026-07-10",
       "notes": "",
-      "lastModified": "2026-07-07",
+      "lastModified": "2026-07-08",
       "dateAdded": "2026-07-07",
       "addedAt": "2026-07-07T17:05:46.839Z"
     },
@@ -9683,5 +9683,5 @@
       "addedAt": "2026-07-08T16:30:54.273Z"
     }
   ],
-  "lastUpdated": "2026-07-08T16:30:54.273Z"
+  "lastUpdated": "2026-07-08T16:32:25.417Z"
 }
