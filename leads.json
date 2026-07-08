@@ -9627,7 +9627,25 @@
       "lastModified": "2026-07-07",
       "dateAdded": "2026-07-07",
       "addedAt": "2026-07-07T17:06:42.582Z"
+    },
+    {
+      "id": "mrcam3jmtr6zrdq0x8a",
+      "name": "Anthony Peters ",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-08",
+      "nextFollowUp": "2026-07-15",
+      "notes": "",
+      "lastModified": "2026-07-08",
+      "dateAdded": "2026-07-08",
+      "addedAt": "2026-07-08T16:29:14.482Z"
     }
   ],
-  "lastUpdated": "2026-07-08T16:24:30.922Z"
+  "lastUpdated": "2026-07-08T16:29:14.482Z"
 }
