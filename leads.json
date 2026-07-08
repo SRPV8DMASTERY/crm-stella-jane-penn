@@ -9653,12 +9653,12 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-08",
-      "nextFollowUp": "2026-07-15",
+      "nextFollowUp": null,
       "notes": "",
       "lastModified": "2026-07-08",
       "dateAdded": "2026-07-08",
@@ -9683,5 +9683,5 @@
       "addedAt": "2026-07-08T16:30:54.273Z"
     }
   ],
-  "lastUpdated": "2026-07-08T16:32:25.417Z"
+  "lastUpdated": "2026-07-08T16:46:26.923Z"
 }
