@@ -1427,14 +1427,14 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Warm",
-      "lastAction": "Follow-up 2",
-      "lastContact": "2026-06-17",
-      "nextFollowUp": "2026-07-17",
+      "lastAction": "Follow-up 3",
+      "lastContact": "2026-07-09",
+      "nextFollowUp": null,
       "notes": "Message sent as viewed my story",
-      "lastModified": "2026-06-17",
+      "lastModified": "2026-07-08",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T10:06:58.817Z"
     },
@@ -9683,5 +9683,5 @@
       "addedAt": "2026-07-08T16:30:54.273Z"
     }
   ],
-  "lastUpdated": "2026-07-09T06:28:32.100Z"
+  "lastUpdated": "2026-07-09T06:29:21.397Z"
 }
