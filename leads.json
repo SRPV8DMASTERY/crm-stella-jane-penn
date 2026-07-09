@@ -2795,14 +2795,14 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Warm",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-06-22",
-      "nextFollowUp": "2026-07-22",
+      "lastAction": "Follow-up 3",
+      "lastContact": "2026-07-09",
+      "nextFollowUp": null,
       "notes": "Message sent ",
-      "lastModified": "2026-06-22",
+      "lastModified": "2026-07-08",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T08:53:27.558Z"
     },
@@ -9683,5 +9683,5 @@
       "addedAt": "2026-07-08T16:30:54.273Z"
     }
   ],
-  "lastUpdated": "2026-07-09T06:29:41.135Z"
+  "lastUpdated": "2026-07-09T06:30:14.429Z"
 }
