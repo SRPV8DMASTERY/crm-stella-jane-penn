@@ -1715,14 +1715,14 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Follow-up 2",
+      "lastAction": "Follow-up 3",
       "lastContact": "2026-07-03",
-      "nextFollowUp": "2026-07-17",
+      "nextFollowUp": null,
       "notes": "Message sent ",
-      "lastModified": "2026-07-03",
+      "lastModified": "2026-07-08",
       "dateAdded": "2026-06-03",
       "addedAt": "2026-06-03T18:22:59.597Z"
     },
@@ -9683,5 +9683,5 @@
       "addedAt": "2026-07-08T16:30:54.273Z"
     }
   ],
-  "lastUpdated": "2026-07-09T06:19:16.037Z"
+  "lastUpdated": "2026-07-09T06:20:30.828Z"
 }
