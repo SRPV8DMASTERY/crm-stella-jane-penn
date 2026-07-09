@@ -6665,14 +6665,14 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Follow-up 2",
-      "lastContact": "2026-07-07",
-      "nextFollowUp": "2026-07-14",
+      "lastAction": "Follow-up 3",
+      "lastContact": "2026-07-09",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-07-07",
+      "lastModified": "2026-07-08",
       "dateAdded": "2026-06-17",
       "addedAt": "2026-06-17T17:19:44.579Z"
     },
@@ -9683,5 +9683,5 @@
       "addedAt": "2026-07-08T16:30:54.273Z"
     }
   ],
-  "lastUpdated": "2026-07-09T06:37:47.020Z"
+  "lastUpdated": "2026-07-09T06:38:23.876Z"
 }
