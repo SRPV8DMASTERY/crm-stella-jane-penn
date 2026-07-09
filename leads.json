@@ -1355,14 +1355,14 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Warm",
-      "lastAction": "Follow-up 2",
+      "lastAction": "Follow-up 3",
       "lastContact": "2026-06-17",
-      "nextFollowUp": "2026-07-17",
+      "nextFollowUp": null,
       "notes": "Message sent as viewed my story",
-      "lastModified": "2026-06-17",
+      "lastModified": "2026-07-08",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T10:03:47.865Z"
     },
@@ -9683,5 +9683,5 @@
       "addedAt": "2026-07-08T16:30:54.273Z"
     }
   ],
-  "lastUpdated": "2026-07-09T06:20:30.828Z"
+  "lastUpdated": "2026-07-09T06:20:51.164Z"
 }
