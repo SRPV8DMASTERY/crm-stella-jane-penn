@@ -1193,14 +1193,14 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Warm",
-      "lastAction": "Follow-up 1",
+      "lastAction": "Follow-up 3",
       "lastContact": "2026-07-03",
-      "nextFollowUp": "2026-07-10",
+      "nextFollowUp": null,
       "notes": "Message sent ",
-      "lastModified": "2026-07-03",
+      "lastModified": "2026-07-08",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T08:47:14.194Z"
     },
@@ -9683,5 +9683,5 @@
       "addedAt": "2026-07-08T16:30:54.273Z"
     }
   ],
-  "lastUpdated": "2026-07-09T06:23:48.374Z"
+  "lastUpdated": "2026-07-09T06:26:06.214Z"
 }
