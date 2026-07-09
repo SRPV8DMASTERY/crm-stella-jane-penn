@@ -9296,11 +9296,11 @@
       "status": "Sent Video",
       "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-07-07",
-      "nextFollowUp": "2026-07-09",
+      "lastAction": "Follow-up 1",
+      "lastContact": "2026-07-08",
+      "nextFollowUp": "2026-07-16",
       "notes": "",
-      "lastModified": "2026-07-07",
+      "lastModified": "2026-07-08",
       "dateAdded": "2026-07-07",
       "addedAt": "2026-07-07T16:04:59.335Z"
     },
@@ -9701,5 +9701,5 @@
       "addedAt": "2026-07-09T06:48:32.053Z"
     }
   ],
-  "lastUpdated": "2026-07-09T06:49:42.310Z"
+  "lastUpdated": "2026-07-09T06:50:16.622Z"
 }
