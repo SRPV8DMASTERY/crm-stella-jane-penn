@@ -779,14 +779,14 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Warm",
       "lastAction": "Follow-up 3",
       "lastContact": "2026-06-10",
-      "nextFollowUp": "2026-07-10",
+      "nextFollowUp": null,
       "notes": "1st follow up call done ",
-      "lastModified": "2026-06-10",
+      "lastModified": "2026-07-08",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-29T20:02:56.244Z"
     },
@@ -9683,5 +9683,5 @@
       "addedAt": "2026-07-08T16:30:54.273Z"
     }
   ],
-  "lastUpdated": "2026-07-09T06:20:51.164Z"
+  "lastUpdated": "2026-07-09T06:21:38.380Z"
 }
