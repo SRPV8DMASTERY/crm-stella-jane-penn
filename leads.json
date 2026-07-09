@@ -6343,7 +6343,7 @@
       "source": "Facebook",
       "status": "Not Interested",
       "videoSent": true,
-      "temperature": "Warm",
+      "temperature": "Cold",
       "lastAction": "Follow-up 3",
       "lastContact": "2026-07-07",
       "nextFollowUp": null,
@@ -9683,5 +9683,5 @@
       "addedAt": "2026-07-08T16:30:54.273Z"
     }
   ],
-  "lastUpdated": "2026-07-09T06:18:58.325Z"
+  "lastUpdated": "2026-07-09T06:19:16.037Z"
 }
