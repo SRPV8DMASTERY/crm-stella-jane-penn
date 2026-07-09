@@ -7583,14 +7583,14 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-07-02",
-      "nextFollowUp": "2026-07-09",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-07-02",
+      "lastModified": "2026-07-09",
       "dateAdded": "2026-06-22",
       "addedAt": "2026-06-22T14:11:42.135Z"
     },
@@ -10025,5 +10025,5 @@
       "addedAt": "2026-07-09T07:25:08.518Z"
     }
   ],
-  "lastUpdated": "2026-07-09T09:18:24.719Z"
+  "lastUpdated": "2026-07-09T09:18:38.478Z"
 }
