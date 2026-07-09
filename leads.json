@@ -9959,12 +9959,12 @@
       "phone": "",
       "social": "",
       "source": "LinkedIn",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-09",
-      "nextFollowUp": "2026-07-16",
+      "nextFollowUp": "2026-07-13",
       "notes": "",
       "lastModified": "2026-07-09",
       "dateAdded": "2026-07-09",
@@ -10025,5 +10025,5 @@
       "addedAt": "2026-07-09T07:25:08.518Z"
     }
   ],
-  "lastUpdated": "2026-07-09T07:25:08.518Z"
+  "lastUpdated": "2026-07-09T07:27:30.989Z"
 }
