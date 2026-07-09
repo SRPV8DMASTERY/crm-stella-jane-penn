@@ -9753,7 +9753,25 @@
       "lastModified": "2026-07-09",
       "dateAdded": "2026-07-09",
       "addedAt": "2026-07-09T07:10:21.319Z"
+    },
+    {
+      "id": "mrd65kgt83b92k75nqp",
+      "name": "Greeshma Salin",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-09",
+      "nextFollowUp": "2026-07-16",
+      "notes": "",
+      "lastModified": "2026-07-09",
+      "dateAdded": "2026-07-09",
+      "addedAt": "2026-07-09T07:12:10.973Z"
     }
   ],
-  "lastUpdated": "2026-07-09T07:10:34.412Z"
+  "lastUpdated": "2026-07-09T07:12:10.973Z"
 }
