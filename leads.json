@@ -115,7 +115,7 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Not Interested",
       "lastContact": "2026-06-24",
@@ -9683,5 +9683,5 @@
       "addedAt": "2026-07-08T16:30:54.273Z"
     }
   ],
-  "lastUpdated": "2026-07-09T06:21:54.060Z"
+  "lastUpdated": "2026-07-09T06:22:06.295Z"
 }
