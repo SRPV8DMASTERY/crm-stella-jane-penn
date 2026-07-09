@@ -5567,14 +5567,14 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Warm",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-06-12",
-      "nextFollowUp": "2026-07-12",
+      "lastContact": "2026-07-09",
+      "nextFollowUp": null,
       "notes": "Said can't afford it",
-      "lastModified": "2026-06-12",
+      "lastModified": "2026-07-08",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-11T06:48:39.006Z"
     },
@@ -9683,5 +9683,5 @@
       "addedAt": "2026-07-08T16:30:54.273Z"
     }
   ],
-  "lastUpdated": "2026-07-09T06:34:28.686Z"
+  "lastUpdated": "2026-07-09T06:34:48.134Z"
 }
