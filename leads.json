@@ -7,13 +7,13 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Nurture",
       "lastContact": "2026-06-10",
-      "nextFollowUp": "2026-07-10",
+      "nextFollowUp": null,
       "notes": "2nd follow up message sent ",
-      "lastModified": "2026-06-10",
+      "lastModified": "2026-07-08",
       "dateAdded": "2026-05-26",
       "addedAt": "2026-05-26T16:48:55.590Z",
       "videoSent": true
@@ -9683,5 +9683,5 @@
       "addedAt": "2026-07-08T16:30:54.273Z"
     }
   ],
-  "lastUpdated": "2026-07-09T06:21:38.380Z"
+  "lastUpdated": "2026-07-09T06:21:54.060Z"
 }
