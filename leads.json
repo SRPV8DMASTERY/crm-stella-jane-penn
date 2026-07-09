@@ -9825,7 +9825,25 @@
       "lastModified": "2026-07-09",
       "dateAdded": "2026-07-09",
       "addedAt": "2026-07-09T07:14:28.141Z"
+    },
+    {
+      "id": "mrd69dul6syd1c2fdtn",
+      "name": "Arpita Patel",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-09",
+      "nextFollowUp": "2026-07-16",
+      "notes": "",
+      "lastModified": "2026-07-09",
+      "dateAdded": "2026-07-09",
+      "addedAt": "2026-07-09T07:15:09.021Z"
     }
   ],
-  "lastUpdated": "2026-07-09T07:14:28.141Z"
+  "lastUpdated": "2026-07-09T07:15:09.021Z"
 }
