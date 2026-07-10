@@ -10383,7 +10383,25 @@
       "lastModified": "2026-07-10",
       "dateAdded": "2026-07-10",
       "addedAt": "2026-07-10T13:16:14.402Z"
+    },
+    {
+      "id": "mrezuy7pn7aa2cdgoye",
+      "name": "Terkuma Uulugh ",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-10",
+      "nextFollowUp": "2026-07-13",
+      "notes": "",
+      "lastModified": "2026-07-10",
+      "dateAdded": "2026-07-10",
+      "addedAt": "2026-07-10T13:51:30.229Z"
     }
   ],
-  "lastUpdated": "2026-07-10T13:17:33.599Z"
+  "lastUpdated": "2026-07-10T13:51:30.229Z"
 }
