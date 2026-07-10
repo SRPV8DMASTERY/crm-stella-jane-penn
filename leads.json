@@ -10149,7 +10149,25 @@
       "lastModified": "2026-07-10",
       "dateAdded": "2026-07-10",
       "addedAt": "2026-07-10T12:59:07.717Z"
+    },
+    {
+      "id": "mrey0fj8speq2gnkx6m",
+      "name": "Hamza Arshad",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-10",
+      "nextFollowUp": "2026-07-17",
+      "notes": "",
+      "lastModified": "2026-07-10",
+      "dateAdded": "2026-07-10",
+      "addedAt": "2026-07-10T12:59:46.724Z"
     }
   ],
-  "lastUpdated": "2026-07-10T12:59:07.717Z"
+  "lastUpdated": "2026-07-10T12:59:46.724Z"
 }
