@@ -10203,7 +10203,25 @@
       "lastModified": "2026-07-10",
       "dateAdded": "2026-07-10",
       "addedAt": "2026-07-10T13:01:02.013Z"
+    },
+    {
+      "id": "mrey2uq4nzftkgfc11",
+      "name": "Mark Peters",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-10",
+      "nextFollowUp": "2026-07-17",
+      "notes": "",
+      "lastModified": "2026-07-10",
+      "dateAdded": "2026-07-10",
+      "addedAt": "2026-07-10T13:01:39.725Z"
     }
   ],
-  "lastUpdated": "2026-07-10T13:01:02.013Z"
+  "lastUpdated": "2026-07-10T13:01:39.725Z"
 }
