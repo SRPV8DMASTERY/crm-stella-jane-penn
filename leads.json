@@ -10293,7 +10293,25 @@
       "lastModified": "2026-07-10",
       "dateAdded": "2026-07-10",
       "addedAt": "2026-07-10T13:09:39.295Z"
+    },
+    {
+      "id": "mreye0u6hrjpx2frqea",
+      "name": "Jarina Rai",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-10",
+      "nextFollowUp": "2026-07-17",
+      "notes": "",
+      "lastModified": "2026-07-10",
+      "dateAdded": "2026-07-10",
+      "addedAt": "2026-07-10T13:10:20.862Z"
     }
   ],
-  "lastUpdated": "2026-07-10T13:09:39.295Z"
+  "lastUpdated": "2026-07-10T13:10:20.862Z"
 }
