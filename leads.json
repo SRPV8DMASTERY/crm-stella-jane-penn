@@ -9491,14 +9491,14 @@
       "phone": "",
       "social": "",
       "source": "LinkedIn",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-07-08",
-      "nextFollowUp": "2026-07-16",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-07-08",
+      "lastModified": "2026-07-10",
       "dateAdded": "2026-07-07",
       "addedAt": "2026-07-07T16:59:23.487Z"
     },
@@ -10403,5 +10403,5 @@
       "addedAt": "2026-07-10T13:51:30.229Z"
     }
   ],
-  "lastUpdated": "2026-07-10T13:51:30.229Z"
+  "lastUpdated": "2026-07-10T13:53:04.565Z"
 }
