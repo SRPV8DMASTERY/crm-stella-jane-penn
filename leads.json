@@ -10563,7 +10563,25 @@
       "lastModified": "2026-07-11",
       "dateAdded": "2026-07-11",
       "addedAt": "2026-07-11T08:10:48.380Z"
+    },
+    {
+      "id": "mrg35khg4tjtzk42l0l",
+      "name": "Sivan Raju",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-11",
+      "nextFollowUp": "2026-07-18",
+      "notes": "",
+      "lastModified": "2026-07-11",
+      "dateAdded": "2026-07-11",
+      "addedAt": "2026-07-11T08:11:30.676Z"
     }
   ],
-  "lastUpdated": "2026-07-11T08:10:48.380Z"
+  "lastUpdated": "2026-07-11T08:11:30.676Z"
 }
