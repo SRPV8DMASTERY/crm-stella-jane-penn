@@ -474,13 +474,13 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Not Interested",
       "lastContact": "2026-06-10",
       "nextFollowUp": null,
       "notes": "2nd follow up message sent ",
-      "lastModified": "2026-06-10",
+      "lastModified": "2026-07-11",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-27T08:28:05.083Z",
       "videoSent": true
@@ -10421,5 +10421,5 @@
       "addedAt": "2026-07-11T07:36:44.413Z"
     }
   ],
-  "lastUpdated": "2026-07-11T07:42:59.268Z"
+  "lastUpdated": "2026-07-11T07:43:23.556Z"
 }
