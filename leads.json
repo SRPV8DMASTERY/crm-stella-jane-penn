@@ -10743,7 +10743,25 @@
       "lastModified": "2026-07-11",
       "dateAdded": "2026-07-11",
       "addedAt": "2026-07-11T08:38:23.021Z"
+    },
+    {
+      "id": "mrg45ak5uvd3baaxlm",
+      "name": "Larry Appiah",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-11",
+      "nextFollowUp": "2026-07-18",
+      "notes": "",
+      "lastModified": "2026-07-11",
+      "dateAdded": "2026-07-11",
+      "addedAt": "2026-07-11T08:39:17.429Z"
     }
   ],
-  "lastUpdated": "2026-07-11T08:38:23.021Z"
+  "lastUpdated": "2026-07-11T08:39:17.429Z"
 }
