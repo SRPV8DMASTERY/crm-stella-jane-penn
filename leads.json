@@ -7601,14 +7601,14 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Warm",
       "lastAction": "Not Interested",
       "lastContact": "2026-06-23",
       "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-07-07",
+      "lastModified": "2026-07-11",
       "dateAdded": "2026-06-22",
       "addedAt": "2026-06-22T14:12:44.079Z"
     },
@@ -10421,5 +10421,5 @@
       "addedAt": "2026-07-11T07:36:44.413Z"
     }
   ],
-  "lastUpdated": "2026-07-11T07:44:50.716Z"
+  "lastUpdated": "2026-07-11T07:45:00.419Z"
 }
