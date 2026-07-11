@@ -5387,14 +5387,14 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 3",
       "lastContact": "2026-07-09",
       "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-07-08",
+      "lastModified": "2026-07-11",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-10T14:01:01.546Z"
     },
@@ -10421,5 +10421,5 @@
       "addedAt": "2026-07-11T07:36:44.413Z"
     }
   ],
-  "lastUpdated": "2026-07-11T07:44:08.349Z"
+  "lastUpdated": "2026-07-11T07:44:15.388Z"
 }
