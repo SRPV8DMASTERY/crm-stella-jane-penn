@@ -64,10 +64,10 @@
       "status": "New Lead",
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-07-03",
-      "nextFollowUp": "2026-07-10",
+      "lastContact": "2026-07-11",
+      "nextFollowUp": "2026-08-10",
       "notes": "1st Follow UP Call Sent gone on holiday to Poland ",
-      "lastModified": "2026-07-03",
+      "lastModified": "2026-07-11",
       "dateAdded": "2026-05-26",
       "addedAt": "2026-05-26T16:55:55.621Z",
       "videoSent": false
@@ -10403,5 +10403,5 @@
       "addedAt": "2026-07-10T13:51:30.229Z"
     }
   ],
-  "lastUpdated": "2026-07-11T07:33:10.683Z"
+  "lastUpdated": "2026-07-11T07:33:17.411Z"
 }
