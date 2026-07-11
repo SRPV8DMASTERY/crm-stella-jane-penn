@@ -330,13 +330,13 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Follow-up 4",
       "lastContact": "2026-06-10",
       "nextFollowUp": null,
       "notes": "Video sent follow up now done",
-      "lastModified": "2026-06-10",
+      "lastModified": "2026-07-11",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-27T07:57:57.804Z",
       "videoSent": false
@@ -10421,5 +10421,5 @@
       "addedAt": "2026-07-11T07:36:44.413Z"
     }
   ],
-  "lastUpdated": "2026-07-11T07:43:41.596Z"
+  "lastUpdated": "2026-07-11T07:43:50.973Z"
 }
