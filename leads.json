@@ -7475,14 +7475,14 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Warm",
       "lastAction": "Follow-up 3",
       "lastContact": "2026-07-09",
       "nextFollowUp": null,
       "notes": "Can't get access to internet no data!!",
-      "lastModified": "2026-07-08",
+      "lastModified": "2026-07-11",
       "dateAdded": "2026-06-22",
       "addedAt": "2026-06-22T13:57:12.678Z"
     },
@@ -10421,5 +10421,5 @@
       "addedAt": "2026-07-11T07:36:44.413Z"
     }
   ],
-  "lastUpdated": "2026-07-11T07:44:23.531Z"
+  "lastUpdated": "2026-07-11T07:44:50.716Z"
 }
