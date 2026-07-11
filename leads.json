@@ -10527,7 +10527,25 @@
       "lastModified": "2026-07-11",
       "dateAdded": "2026-07-11",
       "addedAt": "2026-07-11T08:09:12.101Z"
+    },
+    {
+      "id": "mrg33iy89b7rqxl82t8",
+      "name": "Bhakti Vegad",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-11",
+      "nextFollowUp": "2026-07-18",
+      "notes": "",
+      "lastModified": "2026-07-11",
+      "dateAdded": "2026-07-11",
+      "addedAt": "2026-07-11T08:09:55.376Z"
     }
   ],
-  "lastUpdated": "2026-07-11T08:09:12.101Z"
+  "lastUpdated": "2026-07-11T08:09:55.376Z"
 }
