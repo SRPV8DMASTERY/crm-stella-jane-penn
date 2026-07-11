@@ -10247,14 +10247,14 @@
       "phone": "",
       "social": "",
       "source": "LinkedIn",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-07-10",
-      "nextFollowUp": "2026-07-17",
+      "lastContact": "2026-07-09",
+      "nextFollowUp": "2026-07-13",
       "notes": "",
-      "lastModified": "2026-07-10",
+      "lastModified": "2026-07-11",
       "dateAdded": "2026-07-10",
       "addedAt": "2026-07-10T13:04:00.509Z"
     },
@@ -10403,5 +10403,5 @@
       "addedAt": "2026-07-10T13:51:30.229Z"
     }
   ],
-  "lastUpdated": "2026-07-11T07:01:29.179Z"
+  "lastUpdated": "2026-07-11T07:01:56.355Z"
 }
