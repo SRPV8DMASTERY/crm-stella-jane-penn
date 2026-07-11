@@ -7889,14 +7889,14 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Warm",
       "lastAction": "Follow-up 3",
       "lastContact": "2026-07-07",
       "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-07-07",
+      "lastModified": "2026-07-11",
       "dateAdded": "2026-06-22",
       "addedAt": "2026-06-22T14:35:30.534Z"
     },
@@ -10421,5 +10421,5 @@
       "addedAt": "2026-07-11T07:36:44.413Z"
     }
   ],
-  "lastUpdated": "2026-07-11T07:45:00.419Z"
+  "lastUpdated": "2026-07-11T07:45:14.316Z"
 }
