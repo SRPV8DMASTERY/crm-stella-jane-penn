@@ -10661,8 +10661,8 @@
       "phone": "",
       "social": "",
       "source": "LinkedIn",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-11",
@@ -10799,5 +10799,5 @@
       "addedAt": "2026-07-11T08:41:32.949Z"
     }
   ],
-  "lastUpdated": "2026-07-11T08:41:32.949Z"
+  "lastUpdated": "2026-07-11T08:48:10.308Z"
 }
