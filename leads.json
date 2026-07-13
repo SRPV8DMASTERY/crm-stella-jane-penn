@@ -9674,11 +9674,11 @@
       "status": "New Lead",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-07-08",
-      "nextFollowUp": "2026-07-13",
+      "lastAction": "Follow-up 1",
+      "lastContact": "2026-07-13",
+      "nextFollowUp": "2026-07-20",
       "notes": "",
-      "lastModified": "2026-07-08",
+      "lastModified": "2026-07-13",
       "dateAdded": "2026-07-08",
       "addedAt": "2026-07-08T16:30:54.273Z"
     },
@@ -10961,5 +10961,5 @@
       "addedAt": "2026-07-13T10:56:29.048Z"
     }
   ],
-  "lastUpdated": "2026-07-13T10:57:45.399Z"
+  "lastUpdated": "2026-07-13T10:58:58.725Z"
 }
