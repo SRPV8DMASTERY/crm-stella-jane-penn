@@ -9134,11 +9134,11 @@
       "status": "New Lead",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-07-06",
-      "nextFollowUp": "2026-07-13",
+      "lastAction": "Follow-up 1",
+      "lastContact": "2026-07-13",
+      "nextFollowUp": "2026-07-20",
       "notes": "",
-      "lastModified": "2026-07-06",
+      "lastModified": "2026-07-13",
       "dateAdded": "2026-07-06",
       "addedAt": "2026-07-06T16:21:17.211Z"
     },
@@ -10961,5 +10961,5 @@
       "addedAt": "2026-07-13T10:56:29.048Z"
     }
   ],
-  "lastUpdated": "2026-07-13T11:03:18.416Z"
+  "lastUpdated": "2026-07-13T11:03:48.831Z"
 }
