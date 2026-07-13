@@ -10553,14 +10553,14 @@
       "phone": "",
       "social": "",
       "source": "LinkedIn",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-07-11",
-      "nextFollowUp": "2026-07-18",
+      "lastContact": "2026-07-13",
+      "nextFollowUp": "2026-07-16",
       "notes": "",
-      "lastModified": "2026-07-11",
+      "lastModified": "2026-07-13",
       "dateAdded": "2026-07-11",
       "addedAt": "2026-07-11T08:10:48.380Z"
     },
@@ -10961,5 +10961,5 @@
       "addedAt": "2026-07-13T10:56:29.048Z"
     }
   ],
-  "lastUpdated": "2026-07-13T10:56:29.048Z"
+  "lastUpdated": "2026-07-13T10:57:22.600Z"
 }
