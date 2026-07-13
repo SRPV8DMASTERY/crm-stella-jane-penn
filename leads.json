@@ -10733,14 +10733,14 @@
       "phone": "",
       "social": "",
       "source": "LinkedIn",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-07-11",
-      "nextFollowUp": "2026-07-18",
+      "lastContact": "2026-07-13",
+      "nextFollowUp": "2026-07-16",
       "notes": "",
-      "lastModified": "2026-07-11",
+      "lastModified": "2026-07-13",
       "dateAdded": "2026-07-11",
       "addedAt": "2026-07-11T08:38:23.021Z"
     },
@@ -10997,5 +10997,5 @@
       "addedAt": "2026-07-13T11:12:13.663Z"
     }
   ],
-  "lastUpdated": "2026-07-13T11:16:07.199Z"
+  "lastUpdated": "2026-07-13T15:13:59.549Z"
 }
