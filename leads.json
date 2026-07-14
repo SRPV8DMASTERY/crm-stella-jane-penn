@@ -9962,11 +9962,11 @@
       "status": "Sent Video",
       "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-07-09",
-      "nextFollowUp": "2026-07-14",
+      "lastAction": "Follow-up 2",
+      "lastContact": "2026-07-14",
+      "nextFollowUp": "2026-07-28",
       "notes": "",
-      "lastModified": "2026-07-11",
+      "lastModified": "2026-07-14",
       "dateAdded": "2026-07-09",
       "addedAt": "2026-07-09T07:22:19.215Z"
     },
@@ -10997,5 +10997,5 @@
       "addedAt": "2026-07-13T11:12:13.663Z"
     }
   ],
-  "lastUpdated": "2026-07-14T11:53:33.737Z"
+  "lastUpdated": "2026-07-14T11:57:28.787Z"
 }
