@@ -7820,11 +7820,11 @@
       "status": "Sent Video",
       "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Follow-up 2",
-      "lastContact": "2026-07-07",
-      "nextFollowUp": "2026-07-14",
+      "lastAction": "Follow-up 3",
+      "lastContact": "2026-07-14",
+      "nextFollowUp": "2026-07-28",
       "notes": "",
-      "lastModified": "2026-07-07",
+      "lastModified": "2026-07-14",
       "dateAdded": "2026-06-22",
       "addedAt": "2026-06-22T14:30:20.247Z"
     },
@@ -10997,5 +10997,5 @@
       "addedAt": "2026-07-13T11:12:13.663Z"
     }
   ],
-  "lastUpdated": "2026-07-14T12:17:32.320Z"
+  "lastUpdated": "2026-07-14T12:18:15.116Z"
 }
