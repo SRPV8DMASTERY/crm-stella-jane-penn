@@ -9576,7 +9576,7 @@
     },
     {
       "id": "mrawflkw13bobxkwj1uk",
-      "name": "Chouh Dry Umar Nisar",
+      "name": "Chouhdry Umar Nisar",
       "email": "",
       "phone": "",
       "social": "",
@@ -9584,11 +9584,11 @@
       "status": "New Lead",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-07-07",
-      "nextFollowUp": "2026-07-14",
+      "lastAction": "Follow-up 1",
+      "lastContact": "2026-07-14",
+      "nextFollowUp": "2026-07-28",
       "notes": "",
-      "lastModified": "2026-07-07",
+      "lastModified": "2026-07-14",
       "dateAdded": "2026-07-07",
       "addedAt": "2026-07-07T17:04:30.464Z"
     },
@@ -10997,5 +10997,5 @@
       "addedAt": "2026-07-13T11:12:13.663Z"
     }
   ],
-  "lastUpdated": "2026-07-14T12:05:49.465Z"
+  "lastUpdated": "2026-07-14T12:07:15.922Z"
 }
