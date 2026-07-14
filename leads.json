@@ -11085,7 +11085,25 @@
       "lastModified": "2026-07-14",
       "dateAdded": "2026-07-14",
       "addedAt": "2026-07-14T12:34:19.443Z"
+    },
+    {
+      "id": "mrkmxvk3ik6n9i4urm",
+      "name": "Deepashree K",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-14",
+      "nextFollowUp": "2026-07-21",
+      "notes": "",
+      "lastModified": "2026-07-14",
+      "dateAdded": "2026-07-14",
+      "addedAt": "2026-07-14T12:36:28.803Z"
     }
   ],
-  "lastUpdated": "2026-07-14T12:34:19.443Z"
+  "lastUpdated": "2026-07-14T12:36:28.803Z"
 }
