@@ -11211,7 +11211,25 @@
       "lastModified": "2026-07-15",
       "dateAdded": "2026-07-15",
       "addedAt": "2026-07-15T16:06:14.520Z"
+    },
+    {
+      "id": "mrm9wgu7ulkms09x3z",
+      "name": "Zaina Faruq",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-15",
+      "nextFollowUp": "2026-07-22",
+      "notes": "",
+      "lastModified": "2026-07-15",
+      "dateAdded": "2026-07-15",
+      "addedAt": "2026-07-15T16:07:00.415Z"
     }
   ],
-  "lastUpdated": "2026-07-15T16:06:14.520Z"
+  "lastUpdated": "2026-07-15T16:07:00.415Z"
 }
