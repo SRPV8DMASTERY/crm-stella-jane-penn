@@ -10175,14 +10175,14 @@
       "phone": "",
       "social": "",
       "source": "LinkedIn",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-07-10",
-      "nextFollowUp": "2026-07-17",
+      "lastContact": "2026-07-15",
+      "nextFollowUp": "2026-07-20",
       "notes": "",
-      "lastModified": "2026-07-10",
+      "lastModified": "2026-07-15",
       "dateAdded": "2026-07-10",
       "addedAt": "2026-07-10T13:00:23.485Z"
     },
@@ -11195,5 +11195,5 @@
       "addedAt": "2026-07-14T12:41:00.957Z"
     }
   ],
-  "lastUpdated": "2026-07-15T15:59:29.736Z"
+  "lastUpdated": "2026-07-15T16:04:46.463Z"
 }
