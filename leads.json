@@ -11283,7 +11283,25 @@
       "lastModified": "2026-07-15",
       "dateAdded": "2026-07-15",
       "addedAt": "2026-07-15T16:24:09.311Z"
+    },
+    {
+      "id": "mrmb07lzz07lq61du3",
+      "name": "Seena Pitta",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-15",
+      "nextFollowUp": "2026-07-22",
+      "notes": "",
+      "lastModified": "2026-07-15",
+      "dateAdded": "2026-07-15",
+      "addedAt": "2026-07-15T16:37:54.695Z"
     }
   ],
-  "lastUpdated": "2026-07-15T16:24:09.311Z"
+  "lastUpdated": "2026-07-15T16:37:54.695Z"
 }
