@@ -10877,14 +10877,14 @@
       "phone": "",
       "social": "",
       "source": "LinkedIn",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-07-13",
+      "lastContact": "2026-07-16",
       "nextFollowUp": "2026-07-20",
       "notes": "",
-      "lastModified": "2026-07-13",
+      "lastModified": "2026-07-16",
       "dateAdded": "2026-07-13",
       "addedAt": "2026-07-13T10:53:08.541Z"
     },
@@ -11303,5 +11303,5 @@
       "addedAt": "2026-07-15T16:37:54.695Z"
     }
   ],
-  "lastUpdated": "2026-07-16T08:36:30.151Z"
+  "lastUpdated": "2026-07-16T08:37:59.007Z"
 }
