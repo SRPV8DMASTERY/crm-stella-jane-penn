@@ -3137,14 +3137,14 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Follow-up 3",
-      "lastContact": "2026-07-02",
-      "nextFollowUp": "2026-07-16",
+      "lastAction": "Follow-up 4",
+      "lastContact": "2026-07-16",
+      "nextFollowUp": null,
       "notes": "Message sent ",
-      "lastModified": "2026-07-02",
+      "lastModified": "2026-07-16",
       "dateAdded": "2026-06-05",
       "addedAt": "2026-06-05T18:04:41.205Z"
     },
@@ -11303,5 +11303,5 @@
       "addedAt": "2026-07-15T16:37:54.695Z"
     }
   ],
-  "lastUpdated": "2026-07-16T07:21:36.596Z"
+  "lastUpdated": "2026-07-16T07:22:38.762Z"
 }
