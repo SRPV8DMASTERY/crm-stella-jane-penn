@@ -11363,12 +11363,12 @@
       "phone": "",
       "social": "",
       "source": "LinkedIn",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-16",
-      "nextFollowUp": "2026-07-30",
+      "nextFollowUp": "2026-07-20",
       "notes": "",
       "lastModified": "2026-07-16",
       "dateAdded": "2026-07-16",
@@ -11465,5 +11465,5 @@
       "addedAt": "2026-07-16T08:52:04.552Z"
     }
   ],
-  "lastUpdated": "2026-07-16T08:52:04.552Z"
+  "lastUpdated": "2026-07-16T08:53:24.559Z"
 }
