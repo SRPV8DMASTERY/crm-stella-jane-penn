@@ -3029,14 +3029,14 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Follow-up 2",
-      "lastContact": "2026-07-02",
-      "nextFollowUp": "2026-07-16",
+      "lastAction": "Follow-up 3",
+      "lastContact": "2026-07-16",
+      "nextFollowUp": null,
       "notes": "Message sent ",
-      "lastModified": "2026-07-02",
+      "lastModified": "2026-07-16",
       "dateAdded": "2026-06-05",
       "addedAt": "2026-06-05T17:54:14.292Z"
     },
@@ -11303,5 +11303,5 @@
       "addedAt": "2026-07-15T16:37:54.695Z"
     }
   ],
-  "lastUpdated": "2026-07-16T07:16:39.811Z"
+  "lastUpdated": "2026-07-16T07:18:11.851Z"
 }
