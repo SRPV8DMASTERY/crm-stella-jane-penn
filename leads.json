@@ -11319,7 +11319,25 @@
       "lastModified": "2026-07-16",
       "dateAdded": "2026-07-16",
       "addedAt": "2026-07-16T08:45:11.015Z"
+    },
+    {
+      "id": "mrn9ll3cgc6kepze8f7",
+      "name": "Josemar Rodrigues De Oliveira",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-16",
+      "nextFollowUp": "2026-07-30",
+      "notes": "",
+      "lastModified": "2026-07-16",
+      "dateAdded": "2026-07-16",
+      "addedAt": "2026-07-16T08:46:18.888Z"
     }
   ],
-  "lastUpdated": "2026-07-16T08:45:11.015Z"
+  "lastUpdated": "2026-07-16T08:46:18.888Z"
 }
