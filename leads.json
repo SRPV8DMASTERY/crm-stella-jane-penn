@@ -11409,7 +11409,25 @@
       "lastModified": "2026-07-16",
       "dateAdded": "2026-07-16",
       "addedAt": "2026-07-16T08:49:52.296Z"
+    },
+    {
+      "id": "mrn9r3gwfv0anmlsvoc",
+      "name": "Mounika Manne",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-16",
+      "nextFollowUp": "2026-07-30",
+      "notes": "",
+      "lastModified": "2026-07-16",
+      "dateAdded": "2026-07-16",
+      "addedAt": "2026-07-16T08:50:35.984Z"
     }
   ],
-  "lastUpdated": "2026-07-16T08:49:52.296Z"
+  "lastUpdated": "2026-07-16T08:50:35.984Z"
 }
