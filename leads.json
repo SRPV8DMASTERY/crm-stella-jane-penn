@@ -8720,11 +8720,11 @@
       "status": "Sent Video",
       "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-07-06",
-      "nextFollowUp": "2026-07-16",
+      "lastAction": "Follow-up 2",
+      "lastContact": "2026-07-16",
+      "nextFollowUp": "2026-07-23",
       "notes": "",
-      "lastModified": "2026-07-11",
+      "lastModified": "2026-07-16",
       "dateAdded": "2026-07-02",
       "addedAt": "2026-07-02T15:23:39.709Z"
     },
@@ -11303,5 +11303,5 @@
       "addedAt": "2026-07-15T16:37:54.695Z"
     }
   ],
-  "lastUpdated": "2026-07-16T08:34:41.711Z"
+  "lastUpdated": "2026-07-16T08:35:28.479Z"
 }
