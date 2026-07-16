@@ -11355,7 +11355,25 @@
       "lastModified": "2026-07-16",
       "dateAdded": "2026-07-16",
       "addedAt": "2026-07-16T08:47:26.791Z"
+    },
+    {
+      "id": "mrn9o6lc1k10radgaiu",
+      "name": "SaiCharan Reddy",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-16",
+      "nextFollowUp": "2026-07-30",
+      "notes": "",
+      "lastModified": "2026-07-16",
+      "dateAdded": "2026-07-16",
+      "addedAt": "2026-07-16T08:48:20.064Z"
     }
   ],
-  "lastUpdated": "2026-07-16T08:47:26.791Z"
+  "lastUpdated": "2026-07-16T08:48:20.064Z"
 }
