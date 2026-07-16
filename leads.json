@@ -11481,7 +11481,25 @@
       "lastModified": "2026-07-16",
       "dateAdded": "2026-07-16",
       "addedAt": "2026-07-16T08:57:03.688Z"
+    },
+    {
+      "id": "mrna0mu84sn4jz9ww3o",
+      "name": "Jessamine Arietty",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-16",
+      "nextFollowUp": "2026-07-30",
+      "notes": "",
+      "lastModified": "2026-07-16",
+      "dateAdded": "2026-07-16",
+      "addedAt": "2026-07-16T08:58:00.992Z"
     }
   ],
-  "lastUpdated": "2026-07-16T08:57:03.688Z"
+  "lastUpdated": "2026-07-16T08:58:00.992Z"
 }
