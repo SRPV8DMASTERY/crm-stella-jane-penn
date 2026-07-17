@@ -11517,7 +11517,25 @@
       "lastModified": "2026-07-17",
       "dateAdded": "2026-07-17",
       "addedAt": "2026-07-17T16:18:12.641Z"
+    },
+    {
+      "id": "mrp58azxw9dxj9va5h",
+      "name": "Krishna Patadiya",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-17",
+      "nextFollowUp": "2026-07-24",
+      "notes": "",
+      "lastModified": "2026-07-17",
+      "dateAdded": "2026-07-17",
+      "addedAt": "2026-07-17T16:19:33.165Z"
     }
   ],
-  "lastUpdated": "2026-07-17T16:18:12.641Z"
+  "lastUpdated": "2026-07-17T16:19:33.165Z"
 }
