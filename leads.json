@@ -11553,7 +11553,25 @@
       "lastModified": "2026-07-17",
       "dateAdded": "2026-07-17",
       "addedAt": "2026-07-17T16:20:18.777Z"
+    },
+    {
+      "id": "mrp5abvooe73eyjxugg",
+      "name": "Kolakani Pavithra",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-17",
+      "nextFollowUp": "2026-07-24",
+      "notes": "",
+      "lastModified": "2026-07-17",
+      "dateAdded": "2026-07-17",
+      "addedAt": "2026-07-17T16:21:07.620Z"
     }
   ],
-  "lastUpdated": "2026-07-17T16:20:18.777Z"
+  "lastUpdated": "2026-07-17T16:21:07.620Z"
 }
