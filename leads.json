@@ -9476,11 +9476,11 @@
       "status": "Sent Video",
       "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Follow-up 2",
-      "lastContact": "2026-07-16",
-      "nextFollowUp": "2026-07-23",
+      "lastAction": "Not Interested",
+      "lastContact": "2026-07-17",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-07-16",
+      "lastModified": "2026-07-17",
       "dateAdded": "2026-07-07",
       "addedAt": "2026-07-07T16:58:39.487Z"
     },
@@ -11501,5 +11501,5 @@
       "addedAt": "2026-07-16T08:58:00.992Z"
     }
   ],
-  "lastUpdated": "2026-07-17T16:08:21.905Z"
+  "lastUpdated": "2026-07-17T16:09:25.649Z"
 }
