@@ -8828,11 +8828,11 @@
       "status": "Sent Video",
       "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Follow-up 3",
-      "lastContact": "2026-07-14",
-      "nextFollowUp": "2026-08-13",
+      "lastAction": "Not Interested",
+      "lastContact": "2026-07-17",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-07-14",
+      "lastModified": "2026-07-17",
       "dateAdded": "2026-07-03",
       "addedAt": "2026-07-03T07:44:54.363Z"
     },
@@ -11501,5 +11501,5 @@
       "addedAt": "2026-07-16T08:58:00.992Z"
     }
   ],
-  "lastUpdated": "2026-07-17T16:09:25.649Z"
+  "lastUpdated": "2026-07-17T16:10:56.305Z"
 }
