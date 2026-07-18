@@ -11895,7 +11895,25 @@
       "lastModified": "2026-07-18",
       "dateAdded": "2026-07-18",
       "addedAt": "2026-07-18T11:22:07.487Z"
+    },
+    {
+      "id": "mrqa2pzpqwk1utdepd",
+      "name": "Maqbool Bava",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-18",
+      "nextFollowUp": "2026-07-25",
+      "notes": "",
+      "lastModified": "2026-07-18",
+      "dateAdded": "2026-07-18",
+      "addedAt": "2026-07-18T11:22:56.917Z"
     }
   ],
-  "lastUpdated": "2026-07-18T11:22:07.487Z"
+  "lastUpdated": "2026-07-18T11:22:56.917Z"
 }
