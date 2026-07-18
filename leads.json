@@ -11805,7 +11805,25 @@
       "lastModified": "2026-07-18",
       "dateAdded": "2026-07-18",
       "addedAt": "2026-07-18T11:18:26.846Z"
+    },
+    {
+      "id": "mrq9xuvhfwkzp3kposp",
+      "name": "Szabolcs TöRöK",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-18",
+      "nextFollowUp": "2026-07-25",
+      "notes": "",
+      "lastModified": "2026-07-18",
+      "dateAdded": "2026-07-18",
+      "addedAt": "2026-07-18T11:19:09.965Z"
     }
   ],
-  "lastUpdated": "2026-07-18T11:18:26.846Z"
+  "lastUpdated": "2026-07-18T11:19:09.965Z"
 }
