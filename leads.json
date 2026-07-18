@@ -11823,7 +11823,25 @@
       "lastModified": "2026-07-18",
       "dateAdded": "2026-07-18",
       "addedAt": "2026-07-18T11:19:09.965Z"
+    },
+    {
+      "id": "mrq9z08lwl0a3u6gyg",
+      "name": "Kelvin Gitonga",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-18",
+      "nextFollowUp": "2026-07-25",
+      "notes": "",
+      "lastModified": "2026-07-18",
+      "dateAdded": "2026-07-18",
+      "addedAt": "2026-07-18T11:20:03.573Z"
     }
   ],
-  "lastUpdated": "2026-07-18T11:19:09.965Z"
+  "lastUpdated": "2026-07-18T11:20:03.573Z"
 }
