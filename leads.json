@@ -9995,14 +9995,14 @@
       "phone": "",
       "social": "",
       "source": "LinkedIn",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
-      "lastContact": "2026-07-16",
-      "nextFollowUp": "2026-07-23",
+      "lastContact": "2026-07-20",
+      "nextFollowUp": "2026-07-22",
       "notes": "",
-      "lastModified": "2026-07-16",
+      "lastModified": "2026-07-20",
       "dateAdded": "2026-07-09",
       "addedAt": "2026-07-09T07:23:46.414Z"
     },
@@ -11933,5 +11933,5 @@
       "addedAt": "2026-07-18T11:23:39.814Z"
     }
   ],
-  "lastUpdated": "2026-07-20T13:55:24.619Z"
+  "lastUpdated": "2026-07-20T13:55:59.375Z"
 }
