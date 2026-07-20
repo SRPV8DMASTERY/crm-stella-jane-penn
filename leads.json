@@ -4356,7 +4356,7 @@
     },
     {
       "id": "mq6r0k5h0uaiq2qdv8d",
-      "name": "Rene HjortshøJ Jorgensen",
+      "name": "Rene HjortshÃ¸J Jorgensen",
       "email": "",
       "phone": "",
       "social": "",
@@ -4464,7 +4464,7 @@
     },
     {
       "id": "mq6rdtizlfav6divfzn",
-      "name": "Erik GroßEkathöFer",
+      "name": "Erik GroÃEkathÃ¶Fer",
       "email": "",
       "phone": "",
       "social": "",
@@ -7281,10 +7281,10 @@
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-06-19",
-      "nextFollowUp": "2026-07-19",
+      "lastContact": "2026-07-20",
+      "nextFollowUp": "2026-07-27",
       "notes": "",
-      "lastModified": "2026-06-19",
+      "lastModified": "2026-07-20",
       "dateAdded": "2026-06-19",
       "addedAt": "2026-06-19T16:42:02.998Z"
     },
@@ -11808,7 +11808,7 @@
     },
     {
       "id": "mrq9xuvhfwkzp3kposp",
-      "name": "Szabolcs T�R�K",
+      "name": "Szabolcs TöRöK",
       "email": "",
       "phone": "",
       "social": "",
@@ -11933,5 +11933,5 @@
       "addedAt": "2026-07-18T11:23:39.814Z"
     }
   ],
-  "lastUpdated": "2026-07-18T11:25:01.052Z"
+  "lastUpdated": "2026-07-20T13:39:52.344Z"
 }
