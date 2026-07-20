@@ -12111,7 +12111,25 @@
       "lastModified": "2026-07-20",
       "dateAdded": "2026-07-20",
       "addedAt": "2026-07-20T14:05:01.240Z"
+    },
+    {
+      "id": "mrtasmo9sjh6ac0bab",
+      "name": "Andrew Pius Shevo",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-20",
+      "nextFollowUp": "2026-07-27",
+      "notes": "",
+      "lastModified": "2026-07-20",
+      "dateAdded": "2026-07-20",
+      "addedAt": "2026-07-20T14:06:24.201Z"
     }
   ],
-  "lastUpdated": "2026-07-20T14:05:01.240Z"
+  "lastUpdated": "2026-07-20T14:06:24.201Z"
 }
