@@ -12057,7 +12057,25 @@
       "lastModified": "2026-07-20",
       "dateAdded": "2026-07-20",
       "addedAt": "2026-07-20T14:03:01.304Z"
+    },
+    {
+      "id": "mrtap9o892djg8gf3bl",
+      "name": "Mohammad Basit Nazir",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-20",
+      "nextFollowUp": "2026-07-27",
+      "notes": "",
+      "lastModified": "2026-07-20",
+      "dateAdded": "2026-07-20",
+      "addedAt": "2026-07-20T14:03:47.384Z"
     }
   ],
-  "lastUpdated": "2026-07-20T14:03:01.304Z"
+  "lastUpdated": "2026-07-20T14:03:47.384Z"
 }
