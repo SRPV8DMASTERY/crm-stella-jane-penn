@@ -11967,7 +11967,25 @@
       "lastModified": "2026-07-20",
       "dateAdded": "2026-07-20",
       "addedAt": "2026-07-20T13:58:57.071Z"
+    },
+    {
+      "id": "mrtak63spgw6mr3812",
+      "name": "Srija S",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-20",
+      "nextFollowUp": "2026-07-27",
+      "notes": "",
+      "lastModified": "2026-07-20",
+      "dateAdded": "2026-07-20",
+      "addedAt": "2026-07-20T13:59:49.480Z"
     }
   ],
-  "lastUpdated": "2026-07-20T13:58:57.071Z"
+  "lastUpdated": "2026-07-20T13:59:49.480Z"
 }
