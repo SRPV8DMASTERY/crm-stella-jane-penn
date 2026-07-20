@@ -12201,7 +12201,25 @@
       "lastModified": "2026-07-20",
       "dateAdded": "2026-07-20",
       "addedAt": "2026-07-20T14:09:49.218Z"
+    },
+    {
+      "id": "mrtay2jciswvmprgj5p",
+      "name": "Muhammad Hassan 1st Degree Connection",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-20",
+      "nextFollowUp": "2026-07-27",
+      "notes": "",
+      "lastModified": "2026-07-20",
+      "dateAdded": "2026-07-20",
+      "addedAt": "2026-07-20T14:10:38.040Z"
     }
   ],
-  "lastUpdated": "2026-07-20T14:09:49.218Z"
+  "lastUpdated": "2026-07-20T14:10:38.040Z"
 }
