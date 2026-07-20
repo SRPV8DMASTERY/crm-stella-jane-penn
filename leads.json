@@ -12381,7 +12381,25 @@
       "lastModified": "2026-07-20",
       "dateAdded": "2026-07-20",
       "addedAt": "2026-07-20T14:18:07.304Z"
+    },
+    {
+      "id": "mrtb8ktkvd13qwr9v1",
+      "name": "Kallol Mukherjee",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-20",
+      "nextFollowUp": "2026-07-27",
+      "notes": "",
+      "lastModified": "2026-07-20",
+      "dateAdded": "2026-07-20",
+      "addedAt": "2026-07-20T14:18:48.296Z"
     }
   ],
-  "lastUpdated": "2026-07-20T14:18:07.304Z"
+  "lastUpdated": "2026-07-20T14:18:48.296Z"
 }
