@@ -12389,12 +12389,12 @@
       "phone": "",
       "social": "",
       "source": "LinkedIn",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-20",
-      "nextFollowUp": "2026-07-27",
+      "nextFollowUp": "2026-07-22",
       "notes": "",
       "lastModified": "2026-07-20",
       "dateAdded": "2026-07-20",
@@ -12473,5 +12473,5 @@
       "addedAt": "2026-07-20T14:25:19.943Z"
     }
   ],
-  "lastUpdated": "2026-07-20T14:25:19.943Z"
+  "lastUpdated": "2026-07-20T15:45:45.864Z"
 }
