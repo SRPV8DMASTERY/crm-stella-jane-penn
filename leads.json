@@ -12165,7 +12165,25 @@
       "lastModified": "2026-07-20",
       "dateAdded": "2026-07-20",
       "addedAt": "2026-07-20T14:08:19.784Z"
+    },
+    {
+      "id": "mrtaw3tkhisgpsqgwei",
+      "name": "Bahram Vahidi",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-20",
+      "nextFollowUp": "2026-07-27",
+      "notes": "",
+      "lastModified": "2026-07-20",
+      "dateAdded": "2026-07-20",
+      "addedAt": "2026-07-20T14:09:06.392Z"
     }
   ],
-  "lastUpdated": "2026-07-20T14:08:19.784Z"
+  "lastUpdated": "2026-07-20T14:09:06.392Z"
 }
