@@ -12309,7 +12309,25 @@
       "lastModified": "2026-07-20",
       "dateAdded": "2026-07-20",
       "addedAt": "2026-07-20T14:14:25.816Z"
+    },
+    {
+      "id": "mrtb47nkuieekqi4e4d",
+      "name": "Marcelo Morales Delgado",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-20",
+      "nextFollowUp": "2026-07-27",
+      "notes": "",
+      "lastModified": "2026-07-20",
+      "dateAdded": "2026-07-20",
+      "addedAt": "2026-07-20T14:15:24.608Z"
     }
   ],
-  "lastUpdated": "2026-07-20T14:14:25.816Z"
+  "lastUpdated": "2026-07-20T14:15:24.608Z"
 }
