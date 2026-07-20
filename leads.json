@@ -12093,7 +12093,25 @@
       "lastModified": "2026-07-20",
       "dateAdded": "2026-07-20",
       "addedAt": "2026-07-20T14:04:27.864Z"
+    },
+    {
+      "id": "mrtaquns1mr6h7a2yww",
+      "name": "Ori Gjoni",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-20",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-07-20",
+      "dateAdded": "2026-07-20",
+      "addedAt": "2026-07-20T14:05:01.240Z"
     }
   ],
-  "lastUpdated": "2026-07-20T14:04:27.864Z"
+  "lastUpdated": "2026-07-20T14:05:01.240Z"
 }
