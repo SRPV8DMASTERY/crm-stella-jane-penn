@@ -12399,7 +12399,25 @@
       "lastModified": "2026-07-20",
       "dateAdded": "2026-07-20",
       "addedAt": "2026-07-20T14:18:48.296Z"
+    },
+    {
+      "id": "mrtba3exaizejo980w5",
+      "name": "Joy Charitoo",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-20",
+      "nextFollowUp": "2026-07-27",
+      "notes": "",
+      "lastModified": "2026-07-20",
+      "dateAdded": "2026-07-20",
+      "addedAt": "2026-07-20T14:19:59.049Z"
     }
   ],
-  "lastUpdated": "2026-07-20T14:18:48.296Z"
+  "lastUpdated": "2026-07-20T14:19:59.049Z"
 }
