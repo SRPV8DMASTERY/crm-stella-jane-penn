@@ -11931,7 +11931,25 @@
       "lastModified": "2026-07-18",
       "dateAdded": "2026-07-18",
       "addedAt": "2026-07-18T11:23:39.814Z"
+    },
+    {
+      "id": "mrtahu808hxgxwa4gs",
+      "name": "Joel Williams Ekon",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-20",
+      "nextFollowUp": "2026-07-27",
+      "notes": "",
+      "lastModified": "2026-07-20",
+      "dateAdded": "2026-07-20",
+      "addedAt": "2026-07-20T13:58:00.768Z"
     }
   ],
-  "lastUpdated": "2026-07-20T13:57:10.791Z"
+  "lastUpdated": "2026-07-20T13:58:00.768Z"
 }
