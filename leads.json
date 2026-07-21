@@ -12561,7 +12561,25 @@
       "lastModified": "2026-07-21",
       "dateAdded": "2026-07-21",
       "addedAt": "2026-07-21T08:25:18.836Z"
+    },
+    {
+      "id": "mrue2tc4th1wrq3oyqr",
+      "name": "Kehinde Shotayo",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-21",
+      "nextFollowUp": "2026-07-28",
+      "notes": "",
+      "lastModified": "2026-07-21",
+      "dateAdded": "2026-07-21",
+      "addedAt": "2026-07-21T08:26:04.420Z"
     }
   ],
-  "lastUpdated": "2026-07-21T08:25:18.836Z"
+  "lastUpdated": "2026-07-21T08:26:04.420Z"
 }
