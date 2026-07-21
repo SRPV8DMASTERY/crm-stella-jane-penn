@@ -10733,14 +10733,14 @@
       "phone": "",
       "social": "",
       "source": "LinkedIn",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
-      "lastContact": "2026-07-16",
-      "nextFollowUp": "2026-07-23",
+      "lastContact": "2026-07-21",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-07-16",
+      "lastModified": "2026-07-21",
       "dateAdded": "2026-07-11",
       "addedAt": "2026-07-11T08:38:23.021Z"
     },
@@ -12473,5 +12473,5 @@
       "addedAt": "2026-07-20T14:25:19.943Z"
     }
   ],
-  "lastUpdated": "2026-07-21T07:02:38.924Z"
+  "lastUpdated": "2026-07-21T07:03:22.524Z"
 }
