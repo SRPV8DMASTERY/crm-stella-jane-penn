@@ -12248,11 +12248,11 @@
       "status": "New Lead",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-07-20",
-      "nextFollowUp": "2026-07-27",
+      "lastAction": "Follow-up 1",
+      "lastContact": "2026-07-21",
+      "nextFollowUp": "2026-07-28",
       "notes": "",
-      "lastModified": "2026-07-20",
+      "lastModified": "2026-07-21",
       "dateAdded": "2026-07-20",
       "addedAt": "2026-07-20T14:12:07.257Z"
     },
@@ -12473,5 +12473,5 @@
       "addedAt": "2026-07-20T14:25:19.943Z"
     }
   ],
-  "lastUpdated": "2026-07-21T07:40:07.555Z"
+  "lastUpdated": "2026-07-21T07:41:05.468Z"
 }
