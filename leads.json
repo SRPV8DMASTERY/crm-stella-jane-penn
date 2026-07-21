@@ -12525,7 +12525,25 @@
       "lastModified": "2026-07-21",
       "dateAdded": "2026-07-21",
       "addedAt": "2026-07-21T08:23:23.236Z"
+    },
+    {
+      "id": "mrue10j2ir7tli992cq",
+      "name": "Enda Cusack",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-21",
+      "nextFollowUp": "2026-07-28",
+      "notes": "",
+      "lastModified": "2026-07-21",
+      "dateAdded": "2026-07-21",
+      "addedAt": "2026-07-21T08:24:40.430Z"
     }
   ],
-  "lastUpdated": "2026-07-21T08:23:23.236Z"
+  "lastUpdated": "2026-07-21T08:24:40.430Z"
 }
