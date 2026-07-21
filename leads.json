@@ -11183,12 +11183,12 @@
       "phone": "",
       "social": "",
       "source": "LinkedIn",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-07-21",
-      "nextFollowUp": "2026-07-28",
+      "nextFollowUp": "2026-07-24",
       "notes": "",
       "lastModified": "2026-07-21",
       "dateAdded": "2026-07-14",
@@ -12617,5 +12617,5 @@
       "addedAt": "2026-07-21T08:27:39.406Z"
     }
   ],
-  "lastUpdated": "2026-07-21T12:24:16.030Z"
+  "lastUpdated": "2026-07-21T12:25:06.781Z"
 }
