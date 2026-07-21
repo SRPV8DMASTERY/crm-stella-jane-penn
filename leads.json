@@ -12651,7 +12651,25 @@
       "lastModified": "2026-07-21",
       "dateAdded": "2026-07-21",
       "addedAt": "2026-07-21T12:30:38.605Z"
+    },
+    {
+      "id": "mrumujppuxzu9lto8mn",
+      "name": "Michele Molin",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-21",
+      "nextFollowUp": "2026-07-28",
+      "notes": "",
+      "lastModified": "2026-07-21",
+      "dateAdded": "2026-07-21",
+      "addedAt": "2026-07-21T12:31:35.245Z"
     }
   ],
-  "lastUpdated": "2026-07-21T12:30:38.605Z"
+  "lastUpdated": "2026-07-21T12:31:35.245Z"
 }
