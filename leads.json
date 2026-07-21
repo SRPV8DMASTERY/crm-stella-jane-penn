@@ -12507,7 +12507,25 @@
       "lastModified": "2026-07-21",
       "dateAdded": "2026-07-21",
       "addedAt": "2026-07-21T08:22:21.364Z"
+    },
+    {
+      "id": "mrudzcysr8jb6f1xfr",
+      "name": "Bhavitha Lingala",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-21",
+      "nextFollowUp": "2026-07-28",
+      "notes": "",
+      "lastModified": "2026-07-21",
+      "dateAdded": "2026-07-21",
+      "addedAt": "2026-07-21T08:23:23.236Z"
     }
   ],
-  "lastUpdated": "2026-07-21T08:22:21.364Z"
+  "lastUpdated": "2026-07-21T08:23:23.236Z"
 }
