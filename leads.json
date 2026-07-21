@@ -12669,7 +12669,25 @@
       "lastModified": "2026-07-21",
       "dateAdded": "2026-07-21",
       "addedAt": "2026-07-21T12:31:35.245Z"
+    },
+    {
+      "id": "mrumvmbx24a2kpta8wj",
+      "name": "Saul Peralta",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-21",
+      "nextFollowUp": "2026-07-28",
+      "notes": "",
+      "lastModified": "2026-07-21",
+      "dateAdded": "2026-07-21",
+      "addedAt": "2026-07-21T12:32:25.293Z"
     }
   ],
-  "lastUpdated": "2026-07-21T12:31:35.245Z"
+  "lastUpdated": "2026-07-21T12:32:25.293Z"
 }
