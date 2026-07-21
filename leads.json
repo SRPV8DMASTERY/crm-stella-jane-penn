@@ -12633,7 +12633,25 @@
       "lastModified": "2026-07-21",
       "dateAdded": "2026-07-21",
       "addedAt": "2026-07-21T12:28:43.021Z"
+    },
+    {
+      "id": "mrumtc0d3b2y4j34gg3",
+      "name": "Sanckar Pathmanathan",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-21",
+      "nextFollowUp": "2026-07-28",
+      "notes": "",
+      "lastModified": "2026-07-21",
+      "dateAdded": "2026-07-21",
+      "addedAt": "2026-07-21T12:30:38.605Z"
     }
   ],
-  "lastUpdated": "2026-07-21T12:28:43.021Z"
+  "lastUpdated": "2026-07-21T12:30:38.605Z"
 }
