@@ -12777,7 +12777,25 @@
       "lastModified": "2026-07-22",
       "dateAdded": "2026-07-22",
       "addedAt": "2026-07-22T11:22:51.244Z"
+    },
+    {
+      "id": "mrvzv0hvxd9s217crqq",
+      "name": "ROBI J",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-22",
+      "nextFollowUp": "2026-07-29",
+      "notes": "",
+      "lastModified": "2026-07-22",
+      "dateAdded": "2026-07-22",
+      "addedAt": "2026-07-22T11:23:38.179Z"
     }
   ],
-  "lastUpdated": "2026-07-22T11:22:51.244Z"
+  "lastUpdated": "2026-07-22T11:23:38.179Z"
 }
