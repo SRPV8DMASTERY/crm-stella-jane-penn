@@ -12723,7 +12723,25 @@
       "lastModified": "2026-07-21",
       "dateAdded": "2026-07-21",
       "addedAt": "2026-07-21T12:33:55.557Z"
+    },
+    {
+      "id": "mrvzrv2bg95p9vfsgj",
+      "name": "Milos Portic",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-22",
+      "nextFollowUp": "2026-07-29",
+      "notes": "",
+      "lastModified": "2026-07-22",
+      "dateAdded": "2026-07-22",
+      "addedAt": "2026-07-22T11:21:11.171Z"
     }
   ],
-  "lastUpdated": "2026-07-22T11:20:26.714Z"
+  "lastUpdated": "2026-07-22T11:21:11.171Z"
 }
