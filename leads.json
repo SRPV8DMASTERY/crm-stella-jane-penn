@@ -12821,12 +12821,12 @@
       "phone": "",
       "social": "",
       "source": "LinkedIn",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-22",
-      "nextFollowUp": "2026-07-29",
+      "nextFollowUp": "2026-07-24",
       "notes": "",
       "lastModified": "2026-07-22",
       "dateAdded": "2026-07-22",
@@ -12905,5 +12905,5 @@
       "addedAt": "2026-07-22T11:29:13.011Z"
     }
   ],
-  "lastUpdated": "2026-07-22T12:45:15.491Z"
+  "lastUpdated": "2026-07-22T12:46:10.851Z"
 }
