@@ -12813,7 +12813,25 @@
       "lastModified": "2026-07-22",
       "dateAdded": "2026-07-22",
       "addedAt": "2026-07-22T11:24:13.539Z"
+    },
+    {
+      "id": "mrvzx66r41gchmz4k6x",
+      "name": "Sumit Shah",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-22",
+      "nextFollowUp": "2026-07-29",
+      "notes": "",
+      "lastModified": "2026-07-22",
+      "dateAdded": "2026-07-22",
+      "addedAt": "2026-07-22T11:25:18.867Z"
     }
   ],
-  "lastUpdated": "2026-07-22T11:24:13.539Z"
+  "lastUpdated": "2026-07-22T11:25:18.867Z"
 }
