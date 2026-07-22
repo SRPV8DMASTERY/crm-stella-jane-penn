@@ -12083,14 +12083,14 @@
       "phone": "",
       "social": "",
       "source": "LinkedIn",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-20",
-      "nextFollowUp": "2026-07-27",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-07-20",
+      "lastModified": "2026-07-22",
       "dateAdded": "2026-07-20",
       "addedAt": "2026-07-20T14:04:27.864Z"
     },
@@ -12905,5 +12905,5 @@
       "addedAt": "2026-07-22T11:29:13.011Z"
     }
   ],
-  "lastUpdated": "2026-07-22T12:46:10.851Z"
+  "lastUpdated": "2026-07-22T12:59:05.971Z"
 }
