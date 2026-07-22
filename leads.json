@@ -12759,7 +12759,25 @@
       "lastModified": "2026-07-22",
       "dateAdded": "2026-07-22",
       "addedAt": "2026-07-22T11:22:08.132Z"
+    },
+    {
+      "id": "mrvzu0a402519v8oipys",
+      "name": "Katekani Mhlanga",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-22",
+      "nextFollowUp": "2026-07-29",
+      "notes": "",
+      "lastModified": "2026-07-22",
+      "dateAdded": "2026-07-22",
+      "addedAt": "2026-07-22T11:22:51.244Z"
     }
   ],
-  "lastUpdated": "2026-07-22T11:22:08.132Z"
+  "lastUpdated": "2026-07-22T11:22:51.244Z"
 }
