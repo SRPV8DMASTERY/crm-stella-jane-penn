@@ -12903,7 +12903,25 @@
       "lastModified": "2026-07-22",
       "dateAdded": "2026-07-22",
       "addedAt": "2026-07-22T11:29:13.011Z"
+    },
+    {
+      "id": "mrxnsd8p0oi8esu3mu7i",
+      "name": "Efila Marielle",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-23",
+      "nextFollowUp": "2026-07-30",
+      "notes": "",
+      "lastModified": "2026-07-23",
+      "dateAdded": "2026-07-23",
+      "addedAt": "2026-07-23T15:21:11.689Z"
     }
   ],
-  "lastUpdated": "2026-07-23T15:19:56.819Z"
+  "lastUpdated": "2026-07-23T15:21:11.689Z"
 }
