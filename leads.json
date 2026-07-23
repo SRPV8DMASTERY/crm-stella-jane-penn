@@ -12263,14 +12263,14 @@
       "phone": "",
       "social": "",
       "source": "LinkedIn",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-07-20",
-      "nextFollowUp": "2026-07-27",
+      "lastContact": "2026-07-23",
+      "nextFollowUp": "2026-07-28",
       "notes": "",
-      "lastModified": "2026-07-20",
+      "lastModified": "2026-07-23",
       "dateAdded": "2026-07-20",
       "addedAt": "2026-07-20T14:12:46.163Z"
     },
@@ -12905,5 +12905,5 @@
       "addedAt": "2026-07-22T11:29:13.011Z"
     }
   ],
-  "lastUpdated": "2026-07-23T15:18:26.378Z"
+  "lastUpdated": "2026-07-23T15:19:23.883Z"
 }
