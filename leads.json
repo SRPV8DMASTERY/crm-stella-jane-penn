@@ -12975,7 +12975,25 @@
       "lastModified": "2026-07-23",
       "dateAdded": "2026-07-23",
       "addedAt": "2026-07-23T15:24:20.674Z"
+    },
+    {
+      "id": "mrxnyssypyfe5262ehr",
+      "name": "Solomon Ilomechine",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-23",
+      "nextFollowUp": "2026-07-30",
+      "notes": "",
+      "lastModified": "2026-07-23",
+      "dateAdded": "2026-07-23",
+      "addedAt": "2026-07-23T15:26:11.794Z"
     }
   ],
-  "lastUpdated": "2026-07-23T15:24:20.674Z"
+  "lastUpdated": "2026-07-23T15:26:11.794Z"
 }
