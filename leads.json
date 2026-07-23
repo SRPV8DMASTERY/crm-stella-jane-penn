@@ -12957,7 +12957,25 @@
       "lastModified": "2026-07-23",
       "dateAdded": "2026-07-23",
       "addedAt": "2026-07-23T15:23:07.285Z"
+    },
+    {
+      "id": "mrxnwf2a0jyag2dh174g",
+      "name": "Mamta Eley",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-23",
+      "nextFollowUp": "2026-07-30",
+      "notes": "",
+      "lastModified": "2026-07-23",
+      "dateAdded": "2026-07-23",
+      "addedAt": "2026-07-23T15:24:20.674Z"
     }
   ],
-  "lastUpdated": "2026-07-23T15:23:07.285Z"
+  "lastUpdated": "2026-07-23T15:24:20.674Z"
 }
