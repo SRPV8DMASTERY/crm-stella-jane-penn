@@ -12921,7 +12921,25 @@
       "lastModified": "2026-07-23",
       "dateAdded": "2026-07-23",
       "addedAt": "2026-07-23T15:21:11.689Z"
+    },
+    {
+      "id": "mrxntnwypf8070vwwc",
+      "name": "Revanth Sri Venkat Cheera",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-23",
+      "nextFollowUp": "2026-07-30",
+      "notes": "",
+      "lastModified": "2026-07-23",
+      "dateAdded": "2026-07-23",
+      "addedAt": "2026-07-23T15:22:12.178Z"
     }
   ],
-  "lastUpdated": "2026-07-23T15:21:11.689Z"
+  "lastUpdated": "2026-07-23T15:22:12.178Z"
 }
