@@ -12569,14 +12569,14 @@
       "phone": "",
       "social": "",
       "source": "LinkedIn",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-07-21",
-      "nextFollowUp": "2026-07-28",
+      "lastContact": "2026-07-23",
+      "nextFollowUp": "2026-07-27",
       "notes": "",
-      "lastModified": "2026-07-21",
+      "lastModified": "2026-07-23",
       "dateAdded": "2026-07-21",
       "addedAt": "2026-07-21T08:26:04.420Z"
     },
@@ -12995,5 +12995,5 @@
       "addedAt": "2026-07-23T15:26:11.794Z"
     }
   ],
-  "lastUpdated": "2026-07-23T16:34:39.594Z"
+  "lastUpdated": "2026-07-23T17:30:32.802Z"
 }
