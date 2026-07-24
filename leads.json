@@ -12993,7 +12993,25 @@
       "lastModified": "2026-07-23",
       "dateAdded": "2026-07-23",
       "addedAt": "2026-07-23T15:26:11.794Z"
+    },
+    {
+      "id": "mryuks78c7b637um6ma",
+      "name": "Afolayan Ezra",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-24",
+      "nextFollowUp": "2026-07-31",
+      "notes": "",
+      "lastModified": "2026-07-24",
+      "dateAdded": "2026-07-24",
+      "addedAt": "2026-07-24T11:19:01.316Z"
     }
   ],
-  "lastUpdated": "2026-07-24T11:17:14.059Z"
+  "lastUpdated": "2026-07-24T11:19:01.316Z"
 }
