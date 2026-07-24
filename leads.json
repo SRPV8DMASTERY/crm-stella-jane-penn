@@ -13019,17 +13019,17 @@
       "phone": "",
       "social": "",
       "source": "LinkedIn",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-24",
-      "nextFollowUp": "2026-07-31",
+      "nextFollowUp": "2026-07-27",
       "notes": "",
       "lastModified": "2026-07-24",
       "dateAdded": "2026-07-24",
       "addedAt": "2026-07-24T11:20:06.772Z"
     }
   ],
-  "lastUpdated": "2026-07-24T11:20:06.772Z"
+  "lastUpdated": "2026-07-24T11:24:56.620Z"
 }
