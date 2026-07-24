@@ -12770,11 +12770,11 @@
       "status": "Sent Video",
       "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-07-22",
-      "nextFollowUp": "2026-07-24",
+      "lastAction": "Follow-up 1",
+      "lastContact": "2026-07-24",
+      "nextFollowUp": "2026-07-31",
       "notes": "",
-      "lastModified": "2026-07-22",
+      "lastModified": "2026-07-24",
       "dateAdded": "2026-07-22",
       "addedAt": "2026-07-22T11:22:51.244Z"
     },
@@ -12995,5 +12995,5 @@
       "addedAt": "2026-07-23T15:26:11.794Z"
     }
   ],
-  "lastUpdated": "2026-07-24T11:14:12.667Z"
+  "lastUpdated": "2026-07-24T11:14:49.506Z"
 }
