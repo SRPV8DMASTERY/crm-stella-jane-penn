@@ -13011,7 +13011,25 @@
       "lastModified": "2026-07-24",
       "dateAdded": "2026-07-24",
       "addedAt": "2026-07-24T11:19:01.316Z"
+    },
+    {
+      "id": "mryum6pgk2i8p0xzyjj",
+      "name": "Aleksandra Radosavljevic",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-24",
+      "nextFollowUp": "2026-07-31",
+      "notes": "",
+      "lastModified": "2026-07-24",
+      "dateAdded": "2026-07-24",
+      "addedAt": "2026-07-24T11:20:06.772Z"
     }
   ],
-  "lastUpdated": "2026-07-24T11:19:01.316Z"
+  "lastUpdated": "2026-07-24T11:20:06.772Z"
 }
