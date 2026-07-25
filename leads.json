@@ -13191,7 +13191,25 @@
       "lastModified": "2026-07-25",
       "dateAdded": "2026-07-25",
       "addedAt": "2026-07-25T13:43:39.648Z"
+    },
+    {
+      "id": "ms0f7ffdpxcdxvn4ovf",
+      "name": "Muhammad Yasir",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-25",
+      "nextFollowUp": "2026-08-01",
+      "notes": "",
+      "lastModified": "2026-07-25",
+      "dateAdded": "2026-07-25",
+      "addedAt": "2026-07-25T13:44:16.345Z"
     }
   ],
-  "lastUpdated": "2026-07-25T13:43:39.648Z"
+  "lastUpdated": "2026-07-25T13:44:16.345Z"
 }
