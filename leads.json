@@ -13001,14 +13001,14 @@
       "phone": "",
       "social": "",
       "source": "LinkedIn",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-07-24",
-      "nextFollowUp": "2026-07-31",
+      "lastContact": "2026-07-25",
+      "nextFollowUp": "2026-07-28",
       "notes": "",
-      "lastModified": "2026-07-24",
+      "lastModified": "2026-07-25",
       "dateAdded": "2026-07-24",
       "addedAt": "2026-07-24T11:19:01.316Z"
     },
@@ -13121,5 +13121,5 @@
       "addedAt": "2026-07-24T15:08:33.724Z"
     }
   ],
-  "lastUpdated": "2026-07-25T13:36:58.939Z"
+  "lastUpdated": "2026-07-25T13:37:23.823Z"
 }
