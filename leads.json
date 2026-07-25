@@ -13173,7 +13173,25 @@
       "lastModified": "2026-07-25",
       "dateAdded": "2026-07-25",
       "addedAt": "2026-07-25T13:42:31.328Z"
+    },
+    {
+      "id": "ms0f6n40xjwcpic6gb",
+      "name": "Mohammad Tayebi",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-25",
+      "nextFollowUp": "2026-08-01",
+      "notes": "",
+      "lastModified": "2026-07-25",
+      "dateAdded": "2026-07-25",
+      "addedAt": "2026-07-25T13:43:39.648Z"
     }
   ],
-  "lastUpdated": "2026-07-25T13:42:31.328Z"
+  "lastUpdated": "2026-07-25T13:43:39.648Z"
 }
