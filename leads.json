@@ -13155,7 +13155,25 @@
       "lastModified": "2026-07-25",
       "dateAdded": "2026-07-25",
       "addedAt": "2026-07-25T13:41:51.583Z"
+    },
+    {
+      "id": "ms0f56e8hm0a3ex0o6v",
+      "name": "Jahray Facey",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-25",
+      "nextFollowUp": "2026-08-01",
+      "notes": "",
+      "lastModified": "2026-07-25",
+      "dateAdded": "2026-07-25",
+      "addedAt": "2026-07-25T13:42:31.328Z"
     }
   ],
-  "lastUpdated": "2026-07-25T13:41:51.583Z"
+  "lastUpdated": "2026-07-25T13:42:31.328Z"
 }
