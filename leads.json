@@ -11813,14 +11813,14 @@
       "phone": "",
       "social": "",
       "source": "LinkedIn",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-07-18",
-      "nextFollowUp": "2026-07-25",
+      "lastContact": "2026-07-25",
+      "nextFollowUp": "2026-07-28",
       "notes": "",
-      "lastModified": "2026-07-18",
+      "lastModified": "2026-07-25",
       "dateAdded": "2026-07-18",
       "addedAt": "2026-07-18T11:19:09.965Z"
     },
@@ -13121,5 +13121,5 @@
       "addedAt": "2026-07-24T15:08:33.724Z"
     }
   ],
-  "lastUpdated": "2026-07-25T13:34:47.469Z"
+  "lastUpdated": "2026-07-25T13:36:09.671Z"
 }
