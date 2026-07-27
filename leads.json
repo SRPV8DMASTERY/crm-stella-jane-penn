@@ -9386,11 +9386,11 @@
       "status": "Sent Video",
       "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-07-23",
-      "nextFollowUp": "2026-07-27",
+      "lastAction": "Follow-up 2",
+      "lastContact": "2026-07-27",
+      "nextFollowUp": "2026-08-03",
       "notes": "",
-      "lastModified": "2026-07-23",
+      "lastModified": "2026-07-27",
       "dateAdded": "2026-07-07",
       "addedAt": "2026-07-07T16:53:13.719Z"
     },
@@ -13283,5 +13283,5 @@
       "addedAt": "2026-07-27T10:37:50.192Z"
     }
   ],
-  "lastUpdated": "2026-07-27T11:06:16.784Z"
+  "lastUpdated": "2026-07-27T11:06:54.208Z"
 }
