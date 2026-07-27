@@ -13263,7 +13263,25 @@
       "lastModified": "2026-07-27",
       "dateAdded": "2026-07-27",
       "addedAt": "2026-07-27T10:35:04.488Z"
+    },
+    {
+      "id": "ms33fdgw3y70cde9lnn",
+      "name": "Anoop Jawaraiah Purushotham",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-27",
+      "nextFollowUp": "2026-08-03",
+      "notes": "",
+      "lastModified": "2026-07-27",
+      "dateAdded": "2026-07-27",
+      "addedAt": "2026-07-27T10:37:50.192Z"
     }
   ],
-  "lastUpdated": "2026-07-27T10:36:56.721Z"
+  "lastUpdated": "2026-07-27T10:37:50.192Z"
 }
