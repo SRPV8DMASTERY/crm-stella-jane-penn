@@ -11075,14 +11075,14 @@
       "phone": "",
       "social": "",
       "source": "LinkedIn",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Follow-up 1",
-      "lastContact": "2026-07-24",
-      "nextFollowUp": "2026-07-31",
+      "lastAction": "Not Interested",
+      "lastContact": "2026-07-27",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-07-24",
+      "lastModified": "2026-07-27",
       "dateAdded": "2026-07-14",
       "addedAt": "2026-07-14T12:34:19.443Z"
     },
@@ -13211,5 +13211,5 @@
       "addedAt": "2026-07-25T13:44:16.345Z"
     }
   ],
-  "lastUpdated": "2026-07-25T14:46:56.408Z"
+  "lastUpdated": "2026-07-27T10:30:18.951Z"
 }
