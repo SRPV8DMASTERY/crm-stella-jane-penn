@@ -12047,12 +12047,12 @@
       "phone": "",
       "social": "",
       "source": "LinkedIn",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-27",
-      "nextFollowUp": "2026-08-26",
+      "nextFollowUp": "2026-07-30",
       "notes": "",
       "lastModified": "2026-07-27",
       "dateAdded": "2026-07-20",
@@ -13319,5 +13319,5 @@
       "addedAt": "2026-07-27T11:44:12.807Z"
     }
   ],
-  "lastUpdated": "2026-07-27T18:22:17.921Z"
+  "lastUpdated": "2026-07-27T18:23:18.161Z"
 }
