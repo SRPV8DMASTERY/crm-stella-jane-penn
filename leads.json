@@ -13022,11 +13022,11 @@
       "status": "Sent Video",
       "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-07-24",
-      "nextFollowUp": "2026-07-27",
+      "lastAction": "Follow-up 2",
+      "lastContact": "2026-07-27",
+      "nextFollowUp": "2026-08-03",
       "notes": "",
-      "lastModified": "2026-07-24",
+      "lastModified": "2026-07-27",
       "dateAdded": "2026-07-24",
       "addedAt": "2026-07-24T11:20:06.772Z"
     },
@@ -13283,5 +13283,5 @@
       "addedAt": "2026-07-27T10:37:50.192Z"
     }
   ],
-  "lastUpdated": "2026-07-27T11:00:47.458Z"
+  "lastUpdated": "2026-07-27T11:02:11.552Z"
 }
