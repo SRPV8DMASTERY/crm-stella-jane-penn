@@ -13245,7 +13245,25 @@
       "lastModified": "2026-07-27",
       "dateAdded": "2026-07-27",
       "addedAt": "2026-07-27T10:34:08.791Z"
+    },
+    {
+      "id": "ms33btm0x40p82oqdzi",
+      "name": "Sajid Ghori",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-27",
+      "nextFollowUp": "2026-08-03",
+      "notes": "",
+      "lastModified": "2026-07-27",
+      "dateAdded": "2026-07-27",
+      "addedAt": "2026-07-27T10:35:04.488Z"
     }
   ],
-  "lastUpdated": "2026-07-27T10:34:08.791Z"
+  "lastUpdated": "2026-07-27T10:35:04.488Z"
 }
