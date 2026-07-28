@@ -13515,7 +13515,25 @@
       "lastModified": "2026-07-28",
       "dateAdded": "2026-07-28",
       "addedAt": "2026-07-28T14:28:54.472Z"
+    },
+    {
+      "id": "ms4r8sf9gnlqnujbxgr",
+      "name": "Rupert Johnston",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-28",
+      "nextFollowUp": "2026-08-04",
+      "notes": "",
+      "lastModified": "2026-07-28",
+      "dateAdded": "2026-07-28",
+      "addedAt": "2026-07-28T14:32:19.941Z"
     }
   ],
-  "lastUpdated": "2026-07-28T14:28:54.472Z"
+  "lastUpdated": "2026-07-28T14:32:19.941Z"
 }
