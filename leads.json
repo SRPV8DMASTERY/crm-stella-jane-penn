@@ -10247,14 +10247,14 @@
       "phone": "",
       "social": "",
       "source": "LinkedIn",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
-      "lastContact": "2026-07-14",
-      "nextFollowUp": "2026-07-28",
+      "lastContact": "2026-07-28",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-07-14",
+      "lastModified": "2026-07-28",
       "dateAdded": "2026-07-10",
       "addedAt": "2026-07-10T13:04:00.509Z"
     },
@@ -13319,5 +13319,5 @@
       "addedAt": "2026-07-27T11:44:12.807Z"
     }
   ],
-  "lastUpdated": "2026-07-28T13:25:42.299Z"
+  "lastUpdated": "2026-07-28T13:26:32.003Z"
 }
