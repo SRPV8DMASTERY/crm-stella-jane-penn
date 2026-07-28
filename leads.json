@@ -13497,7 +13497,25 @@
       "lastModified": "2026-07-28",
       "dateAdded": "2026-07-28",
       "addedAt": "2026-07-28T14:27:39.652Z"
+    },
+    {
+      "id": "ms4r4dvsinh6g1njf2",
+      "name": "Hannah Kate",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-28",
+      "nextFollowUp": "2026-08-04",
+      "notes": "",
+      "lastModified": "2026-07-28",
+      "dateAdded": "2026-07-28",
+      "addedAt": "2026-07-28T14:28:54.472Z"
     }
   ],
-  "lastUpdated": "2026-07-28T14:27:39.652Z"
+  "lastUpdated": "2026-07-28T14:28:54.472Z"
 }
