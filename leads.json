@@ -13461,7 +13461,25 @@
       "lastModified": "2026-07-28",
       "dateAdded": "2026-07-28",
       "addedAt": "2026-07-28T14:15:15.413Z"
+    },
+    {
+      "id": "ms4qqku4fvji17ju1vp",
+      "name": "Steve Mclean",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-28",
+      "nextFollowUp": "2026-08-04",
+      "notes": "",
+      "lastModified": "2026-07-28",
+      "dateAdded": "2026-07-28",
+      "addedAt": "2026-07-28T14:18:10.300Z"
     }
   ],
-  "lastUpdated": "2026-07-28T14:15:27.197Z"
+  "lastUpdated": "2026-07-28T14:18:10.300Z"
 }
