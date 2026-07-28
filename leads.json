@@ -11003,14 +11003,14 @@
       "phone": "",
       "social": "",
       "source": "LinkedIn",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Follow-up 3",
-      "lastContact": "2026-07-24",
-      "nextFollowUp": "2026-07-31",
+      "lastAction": "Follow-up 4",
+      "lastContact": "2026-07-28",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-07-24",
+      "lastModified": "2026-07-28",
       "dateAdded": "2026-07-14",
       "addedAt": "2026-07-14T12:25:47.116Z"
     },
@@ -13319,5 +13319,5 @@
       "addedAt": "2026-07-27T11:44:12.807Z"
     }
   ],
-  "lastUpdated": "2026-07-28T13:51:01.283Z"
+  "lastUpdated": "2026-07-28T13:51:34.123Z"
 }
