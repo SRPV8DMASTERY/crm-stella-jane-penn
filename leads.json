@@ -9621,10 +9621,10 @@
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
-      "lastContact": "2026-07-14",
-      "nextFollowUp": "2026-07-28",
+      "lastContact": "2026-07-28",
+      "nextFollowUp": "2026-08-27",
       "notes": "",
-      "lastModified": "2026-07-14",
+      "lastModified": "2026-07-28",
       "dateAdded": "2026-07-07",
       "addedAt": "2026-07-07T17:06:42.582Z"
     },
@@ -13319,5 +13319,5 @@
       "addedAt": "2026-07-27T11:44:12.807Z"
     }
   ],
-  "lastUpdated": "2026-07-28T12:54:39.244Z"
+  "lastUpdated": "2026-07-28T12:54:47.299Z"
 }
