@@ -9689,14 +9689,14 @@
       "phone": "",
       "social": "",
       "source": "LinkedIn",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
-      "lastContact": "2026-07-14",
-      "nextFollowUp": "2026-07-28",
+      "lastContact": "2026-07-28",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-07-14",
+      "lastModified": "2026-07-28",
       "dateAdded": "2026-07-08",
       "addedAt": "2026-07-09T06:48:32.053Z"
     },
@@ -13319,5 +13319,5 @@
       "addedAt": "2026-07-27T11:44:12.807Z"
     }
   ],
-  "lastUpdated": "2026-07-28T13:02:42.931Z"
+  "lastUpdated": "2026-07-28T13:03:51.755Z"
 }
