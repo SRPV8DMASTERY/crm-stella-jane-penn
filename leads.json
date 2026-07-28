@@ -11489,14 +11489,14 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-07-20",
-      "nextFollowUp": "2026-07-28",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-07-20",
+      "lastModified": "2026-07-28",
       "dateAdded": "2026-07-16",
       "addedAt": "2026-07-16T08:58:00.992Z"
     },
@@ -13319,5 +13319,5 @@
       "addedAt": "2026-07-27T11:44:12.807Z"
     }
   ],
-  "lastUpdated": "2026-07-28T13:02:08.387Z"
+  "lastUpdated": "2026-07-28T13:02:42.931Z"
 }
