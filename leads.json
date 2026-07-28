@@ -13353,7 +13353,25 @@
       "lastModified": "2026-07-28",
       "dateAdded": "2026-07-28",
       "addedAt": "2026-07-28T14:08:42.236Z"
+    },
+    {
+      "id": "ms4qftw5jf92c2gqz9",
+      "name": "Jani Havale",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-28",
+      "nextFollowUp": "2026-08-04",
+      "notes": "",
+      "lastModified": "2026-07-28",
+      "dateAdded": "2026-07-28",
+      "addedAt": "2026-07-28T14:09:48.821Z"
     }
   ],
-  "lastUpdated": "2026-07-28T14:08:42.236Z"
+  "lastUpdated": "2026-07-28T14:09:48.821Z"
 }
