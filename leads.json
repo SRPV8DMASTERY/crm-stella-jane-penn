@@ -11993,14 +11993,14 @@
       "phone": "",
       "social": "",
       "source": "LinkedIn",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
-      "lastContact": "2026-07-23",
-      "nextFollowUp": "2026-07-30",
+      "lastContact": "2026-07-28",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-07-23",
+      "lastModified": "2026-07-28",
       "dateAdded": "2026-07-20",
       "addedAt": "2026-07-20T14:00:27.231Z"
     },
@@ -13319,5 +13319,5 @@
       "addedAt": "2026-07-27T11:44:12.807Z"
     }
   ],
-  "lastUpdated": "2026-07-28T13:53:19.123Z"
+  "lastUpdated": "2026-07-28T13:53:43.852Z"
 }
