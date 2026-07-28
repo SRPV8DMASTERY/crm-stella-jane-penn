@@ -13433,12 +13433,12 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-28",
-      "nextFollowUp": "2026-08-04",
+      "nextFollowUp": null,
       "notes": "",
       "lastModified": "2026-07-28",
       "dateAdded": "2026-07-28",
@@ -13463,5 +13463,5 @@
       "addedAt": "2026-07-28T14:15:15.413Z"
     }
   ],
-  "lastUpdated": "2026-07-28T14:15:15.413Z"
+  "lastUpdated": "2026-07-28T14:15:27.197Z"
 }
