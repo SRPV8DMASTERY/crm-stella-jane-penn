@@ -11903,14 +11903,14 @@
       "phone": "",
       "social": "",
       "source": "LinkedIn",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 3",
       "lastContact": "2026-07-28",
-      "nextFollowUp": "2026-08-04",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-07-28",
+      "lastModified": "2026-07-29",
       "dateAdded": "2026-07-18",
       "addedAt": "2026-07-18T11:22:56.917Z"
     },
@@ -13535,5 +13535,5 @@
       "addedAt": "2026-07-28T14:32:19.941Z"
     }
   ],
-  "lastUpdated": "2026-07-29T13:09:07.206Z"
+  "lastUpdated": "2026-07-29T13:09:20.454Z"
 }
