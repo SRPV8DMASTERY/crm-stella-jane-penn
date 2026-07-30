@@ -13623,7 +13623,25 @@
       "lastModified": "2026-07-30",
       "dateAdded": "2026-07-30",
       "addedAt": "2026-07-30T14:09:36.190Z"
+    },
+    {
+      "id": "ms7pki92nqk5p21pxr",
+      "name": "Mark Tyolushkin",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-30",
+      "nextFollowUp": "2026-08-06",
+      "notes": "",
+      "lastModified": "2026-07-30",
+      "dateAdded": "2026-07-30",
+      "addedAt": "2026-07-30T16:08:45.926Z"
     }
   ],
-  "lastUpdated": "2026-07-30T14:09:36.190Z"
+  "lastUpdated": "2026-07-30T16:08:45.926Z"
 }
