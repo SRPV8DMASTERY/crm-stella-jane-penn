@@ -13659,7 +13659,25 @@
       "lastModified": "2026-07-30",
       "dateAdded": "2026-07-30",
       "addedAt": "2026-07-30T16:11:56.118Z"
+    },
+    {
+      "id": "ms7v144zb7isr3qcvif",
+      "name": "Mobeen Durrani",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-30",
+      "nextFollowUp": "2026-08-06",
+      "notes": "",
+      "lastModified": "2026-07-30",
+      "dateAdded": "2026-07-30",
+      "addedAt": "2026-07-30T18:41:38.867Z"
     }
   ],
-  "lastUpdated": "2026-07-30T16:11:56.118Z"
+  "lastUpdated": "2026-07-30T18:41:38.867Z"
 }
