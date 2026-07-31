@@ -13713,7 +13713,25 @@
       "lastModified": "2026-07-31",
       "dateAdded": "2026-07-31",
       "addedAt": "2026-07-31T11:35:44.278Z"
+    },
+    {
+      "id": "ms8va54cwd9o6shcu3e",
+      "name": "Iqra Arslan",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-31",
+      "nextFollowUp": "2026-08-07",
+      "notes": "",
+      "lastModified": "2026-07-31",
+      "dateAdded": "2026-07-31",
+      "addedAt": "2026-07-31T11:36:26.220Z"
     }
   ],
-  "lastUpdated": "2026-07-31T11:35:44.278Z"
+  "lastUpdated": "2026-07-31T11:36:26.220Z"
 }
