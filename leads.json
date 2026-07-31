@@ -12119,14 +12119,14 @@
       "phone": "",
       "social": "",
       "source": "LinkedIn",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
-      "lastContact": "2026-07-28",
-      "nextFollowUp": "2026-08-04",
+      "lastContact": "2026-07-31",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-07-28",
+      "lastModified": "2026-07-31",
       "dateAdded": "2026-07-20",
       "addedAt": "2026-07-20T14:06:24.201Z"
     },
@@ -13769,5 +13769,5 @@
       "addedAt": "2026-07-31T11:38:14.813Z"
     }
   ],
-  "lastUpdated": "2026-07-31T11:38:14.813Z"
+  "lastUpdated": "2026-07-31T13:32:40.219Z"
 }
