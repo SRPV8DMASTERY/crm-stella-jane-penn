@@ -13695,7 +13695,25 @@
       "lastModified": "2026-07-31",
       "dateAdded": "2026-07-31",
       "addedAt": "2026-07-31T11:35:07.862Z"
+    },
+    {
+      "id": "ms8v98raj4hm57ap7bt",
+      "name": "Glen Davies",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-31",
+      "nextFollowUp": "2026-08-07",
+      "notes": "",
+      "lastModified": "2026-07-31",
+      "dateAdded": "2026-07-31",
+      "addedAt": "2026-07-31T11:35:44.278Z"
     }
   ],
-  "lastUpdated": "2026-07-31T11:35:07.862Z"
+  "lastUpdated": "2026-07-31T11:35:44.278Z"
 }
