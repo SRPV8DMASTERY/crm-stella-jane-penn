@@ -8591,14 +8591,14 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Not Interested",
-      "lastContact": "2026-07-02",
-      "nextFollowUp": null,
+      "lastContact": "2026-08-01",
+      "nextFollowUp": "2026-08-08",
       "notes": "",
-      "lastModified": "2026-07-09",
+      "lastModified": "2026-08-01",
       "dateAdded": "2026-07-02",
       "addedAt": "2026-07-02T14:58:51.765Z"
     },
@@ -13859,5 +13859,5 @@
       "addedAt": "2026-08-01T08:16:44.989Z"
     }
   ],
-  "lastUpdated": "2026-08-01T08:16:44.989Z"
+  "lastUpdated": "2026-08-01T08:48:17.308Z"
 }
