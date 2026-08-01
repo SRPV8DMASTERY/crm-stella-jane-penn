@@ -13839,7 +13839,25 @@
       "lastModified": "2026-08-01",
       "dateAdded": "2026-08-01",
       "addedAt": "2026-08-01T08:16:04.109Z"
+    },
+    {
+      "id": "msa3l70d3x56ltilyss",
+      "name": "Doris Njiru 1st Degree Connection",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-01",
+      "nextFollowUp": "2026-08-08",
+      "notes": "",
+      "lastModified": "2026-08-01",
+      "dateAdded": "2026-08-01",
+      "addedAt": "2026-08-01T08:16:44.989Z"
     }
   ],
-  "lastUpdated": "2026-08-01T08:16:04.109Z"
+  "lastUpdated": "2026-08-01T08:16:44.989Z"
 }
