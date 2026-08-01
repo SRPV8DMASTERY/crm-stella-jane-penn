@@ -13767,7 +13767,25 @@
       "lastModified": "2026-07-31",
       "dateAdded": "2026-07-31",
       "addedAt": "2026-07-31T11:38:14.813Z"
+    },
+    {
+      "id": "msa3hd8toixrd0e84n",
+      "name": "Aiza Khalid",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-01",
+      "nextFollowUp": "2026-08-08",
+      "notes": "",
+      "lastModified": "2026-08-01",
+      "dateAdded": "2026-08-01",
+      "addedAt": "2026-08-01T08:13:46.445Z"
     }
   ],
-  "lastUpdated": "2026-08-01T08:11:28.748Z"
+  "lastUpdated": "2026-08-01T08:13:46.445Z"
 }
