@@ -14163,7 +14163,26 @@
       "lastModified": "2026-08-03",
       "dateAdded": "2026-08-03",
       "addedAt": "2026-08-03T15:39:52.231Z"
+    },
+    {
+      "id": "msdf813jo2svljvynuj",
+      "name": "Karen Butler",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Referral",
+      "status": "Customer",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Closed",
+      "lastContact": "2026-07-01",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-03",
+      "customerSince": "2026-08-03",
+      "dateAdded": "2026-08-03",
+      "addedAt": "2026-08-03T16:05:44.719Z"
     }
   ],
-  "lastUpdated": "2026-08-03T15:39:52.231Z"
+  "lastUpdated": "2026-08-03T16:05:44.719Z"
 }
