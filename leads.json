@@ -14091,7 +14091,25 @@
       "lastModified": "2026-08-03",
       "dateAdded": "2026-08-03",
       "addedAt": "2026-08-03T15:35:20.759Z"
+    },
+    {
+      "id": "msde6htb8m5atptizpn",
+      "name": "Abdul Zazai",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-03",
+      "nextFollowUp": "2026-08-17",
+      "notes": "",
+      "lastModified": "2026-08-03",
+      "dateAdded": "2026-08-03",
+      "addedAt": "2026-08-03T15:36:33.455Z"
     }
   ],
-  "lastUpdated": "2026-08-03T15:35:20.759Z"
+  "lastUpdated": "2026-08-03T15:36:33.456Z"
 }
