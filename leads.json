@@ -13875,7 +13875,25 @@
       "lastModified": "2026-08-03",
       "dateAdded": "2026-08-03",
       "addedAt": "2026-08-03T15:26:01.968Z"
+    },
+    {
+      "id": "msddtvawo6oydxjr8wi",
+      "name": "Keith Nyathi",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-03",
+      "nextFollowUp": "2026-08-10",
+      "notes": "",
+      "lastModified": "2026-08-03",
+      "dateAdded": "2026-08-03",
+      "addedAt": "2026-08-03T15:26:44.408Z"
     }
   ],
-  "lastUpdated": "2026-08-03T15:26:01.968Z"
+  "lastUpdated": "2026-08-03T15:26:44.408Z"
 }
