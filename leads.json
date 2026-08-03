@@ -11399,14 +11399,14 @@
       "phone": "",
       "social": "",
       "source": "LinkedIn",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-07-28",
       "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-07-28",
+      "lastModified": "2026-08-03",
       "dateAdded": "2026-07-16",
       "addedAt": "2026-07-16T08:49:52.296Z"
     },
@@ -13859,5 +13859,5 @@
       "addedAt": "2026-08-01T08:16:44.989Z"
     }
   ],
-  "lastUpdated": "2026-08-01T08:48:17.308Z"
+  "lastUpdated": "2026-08-03T07:40:30.311Z"
 }
