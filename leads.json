@@ -13983,7 +13983,25 @@
       "lastModified": "2026-08-03",
       "dateAdded": "2026-08-03",
       "addedAt": "2026-08-03T15:30:42.408Z"
+    },
+    {
+      "id": "msde03u0xnnugy5gj08",
+      "name": "Mouli Ravilisetty",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-03",
+      "nextFollowUp": "2026-08-17",
+      "notes": "",
+      "lastModified": "2026-08-03",
+      "dateAdded": "2026-08-03",
+      "addedAt": "2026-08-03T15:31:35.400Z"
     }
   ],
-  "lastUpdated": "2026-08-03T15:30:42.408Z"
+  "lastUpdated": "2026-08-03T15:31:35.400Z"
 }
