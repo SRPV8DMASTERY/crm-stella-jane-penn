@@ -14127,7 +14127,25 @@
       "lastModified": "2026-08-03",
       "dateAdded": "2026-08-03",
       "addedAt": "2026-08-03T15:37:42.248Z"
+    },
+    {
+      "id": "msde93kvwhjqy473p4",
+      "name": "Kieran Maguire",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-03",
+      "nextFollowUp": "2026-08-17",
+      "notes": "",
+      "lastModified": "2026-08-03",
+      "dateAdded": "2026-08-03",
+      "addedAt": "2026-08-03T15:38:34.975Z"
     }
   ],
-  "lastUpdated": "2026-08-03T15:37:42.248Z"
+  "lastUpdated": "2026-08-03T15:38:34.975Z"
 }
