@@ -12875,14 +12875,14 @@
       "phone": "",
       "social": "",
       "source": "LinkedIn",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Follow-up 2",
+      "lastAction": "Follow-up 4",
       "lastContact": "2026-07-27",
-      "nextFollowUp": "2026-08-03",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-07-27",
+      "lastModified": "2026-08-03",
       "dateAdded": "2026-07-22",
       "addedAt": "2026-07-22T11:28:03.091Z"
     },
@@ -13859,5 +13859,5 @@
       "addedAt": "2026-08-01T08:16:44.989Z"
     }
   ],
-  "lastUpdated": "2026-08-03T11:10:48.234Z"
+  "lastUpdated": "2026-08-03T11:11:37.178Z"
 }
