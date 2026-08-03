@@ -13929,7 +13929,25 @@
       "lastModified": "2026-08-03",
       "dateAdded": "2026-08-03",
       "addedAt": "2026-08-03T15:28:01.003Z"
+    },
+    {
+      "id": "msddwut3m5c9bhyg3i",
+      "name": "Nagaarjun Nagarajan",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-03",
+      "nextFollowUp": "2026-08-10",
+      "notes": "",
+      "lastModified": "2026-08-03",
+      "dateAdded": "2026-08-03",
+      "addedAt": "2026-08-03T15:29:03.735Z"
     }
   ],
-  "lastUpdated": "2026-08-03T15:28:01.003Z"
+  "lastUpdated": "2026-08-03T15:29:03.735Z"
 }
