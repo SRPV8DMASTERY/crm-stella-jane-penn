@@ -14109,7 +14109,25 @@
       "lastModified": "2026-08-03",
       "dateAdded": "2026-08-03",
       "addedAt": "2026-08-03T15:36:33.455Z"
+    },
+    {
+      "id": "msde7yw8ifqp8dlz8mh",
+      "name": "Nirmal Shiroya",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-03",
+      "nextFollowUp": "2026-08-17",
+      "notes": "",
+      "lastModified": "2026-08-03",
+      "dateAdded": "2026-08-03",
+      "addedAt": "2026-08-03T15:37:42.248Z"
     }
   ],
-  "lastUpdated": "2026-08-03T15:36:33.456Z"
+  "lastUpdated": "2026-08-03T15:37:42.248Z"
 }
