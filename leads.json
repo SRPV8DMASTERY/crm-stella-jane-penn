@@ -12983,14 +12983,14 @@
       "phone": "",
       "social": "",
       "source": "LinkedIn",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-07-28",
-      "nextFollowUp": "2026-08-04",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-07-28",
+      "lastModified": "2026-08-03",
       "dateAdded": "2026-07-23",
       "addedAt": "2026-07-23T15:26:11.794Z"
     },
@@ -13859,5 +13859,5 @@
       "addedAt": "2026-08-01T08:16:44.989Z"
     }
   ],
-  "lastUpdated": "2026-08-03T07:40:30.311Z"
+  "lastUpdated": "2026-08-03T07:41:35.439Z"
 }
