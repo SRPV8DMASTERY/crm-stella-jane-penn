@@ -14055,7 +14055,25 @@
       "lastModified": "2026-08-03",
       "dateAdded": "2026-08-03",
       "addedAt": "2026-08-03T15:34:03.679Z"
+    },
+    {
+      "id": "msde41jssjq3yjkwdt",
+      "name": "Faraz Hussain",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-03",
+      "nextFollowUp": "2026-08-17",
+      "notes": "",
+      "lastModified": "2026-08-03",
+      "dateAdded": "2026-08-03",
+      "addedAt": "2026-08-03T15:34:39.064Z"
     }
   ],
-  "lastUpdated": "2026-08-03T15:34:03.679Z"
+  "lastUpdated": "2026-08-03T15:34:39.064Z"
 }
