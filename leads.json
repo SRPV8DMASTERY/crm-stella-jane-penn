@@ -14001,7 +14001,25 @@
       "lastModified": "2026-08-03",
       "dateAdded": "2026-08-03",
       "addedAt": "2026-08-03T15:31:35.400Z"
+    },
+    {
+      "id": "msde143z7kcy5o80vut",
+      "name": "Anis Bentamoune",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-03",
+      "nextFollowUp": "2026-08-17",
+      "notes": "",
+      "lastModified": "2026-08-03",
+      "dateAdded": "2026-08-03",
+      "addedAt": "2026-08-03T15:32:22.415Z"
     }
   ],
-  "lastUpdated": "2026-08-03T15:31:35.400Z"
+  "lastUpdated": "2026-08-03T15:32:22.415Z"
 }
