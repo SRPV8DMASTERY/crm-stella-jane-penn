@@ -14272,7 +14272,25 @@
       "lastModified": "2026-08-04",
       "dateAdded": "2026-08-04",
       "addedAt": "2026-08-04T07:44:37.962Z"
+    },
+    {
+      "id": "msecspte2ia9r05vzch",
+      "name": "Jifu Jifrin",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-04",
+      "nextFollowUp": "2026-08-11",
+      "notes": "",
+      "lastModified": "2026-08-04",
+      "dateAdded": "2026-08-04",
+      "addedAt": "2026-08-04T07:45:37.202Z"
     }
   ],
-  "lastUpdated": "2026-08-04T07:44:37.962Z"
+  "lastUpdated": "2026-08-04T07:45:37.202Z"
 }
