@@ -14362,7 +14362,25 @@
       "lastModified": "2026-08-04",
       "dateAdded": "2026-08-04",
       "addedAt": "2026-08-04T08:00:01.850Z"
+    },
+    {
+      "id": "msedcpua2cvkbzr9vru",
+      "name": "Alejandra Berroteran",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-04",
+      "nextFollowUp": "2026-08-18",
+      "notes": "",
+      "lastModified": "2026-08-04",
+      "dateAdded": "2026-08-04",
+      "addedAt": "2026-08-04T08:01:10.354Z"
     }
   ],
-  "lastUpdated": "2026-08-04T08:00:01.850Z"
+  "lastUpdated": "2026-08-04T08:01:10.354Z"
 }
