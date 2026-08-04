@@ -14226,17 +14226,17 @@
       "phone": "",
       "social": "",
       "source": "LinkedIn",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-04",
-      "nextFollowUp": "2026-08-11",
+      "nextFollowUp": "2026-08-06",
       "notes": "",
       "lastModified": "2026-08-04",
       "dateAdded": "2026-08-04",
       "addedAt": "2026-08-04T07:13:14.531Z"
     }
   ],
-  "lastUpdated": "2026-08-04T07:13:14.531Z"
+  "lastUpdated": "2026-08-04T07:13:24.180Z"
 }
