@@ -14290,7 +14290,25 @@
       "lastModified": "2026-08-04",
       "dateAdded": "2026-08-04",
       "addedAt": "2026-08-04T07:45:37.202Z"
+    },
+    {
+      "id": "msecyvfudfnq5dddfo",
+      "name": "Michelle Tipton",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-04",
+      "nextFollowUp": "2026-08-11",
+      "notes": "",
+      "lastModified": "2026-08-04",
+      "dateAdded": "2026-08-04",
+      "addedAt": "2026-08-04T07:50:24.426Z"
     }
   ],
-  "lastUpdated": "2026-08-04T07:45:37.202Z"
+  "lastUpdated": "2026-08-04T07:50:24.426Z"
 }
