@@ -13757,14 +13757,14 @@
       "phone": "",
       "social": "",
       "source": "LinkedIn",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-07-31",
-      "nextFollowUp": null,
+      "lastContact": "2026-08-04",
+      "nextFollowUp": "2026-08-07",
       "notes": "",
-      "lastModified": "2026-07-31",
+      "lastModified": "2026-08-04",
       "dateAdded": "2026-07-31",
       "addedAt": "2026-07-31T11:38:14.813Z"
     },
@@ -14418,5 +14418,5 @@
       "addedAt": "2026-08-04T08:02:49.002Z"
     }
   ],
-  "lastUpdated": "2026-08-04T10:35:21.279Z"
+  "lastUpdated": "2026-08-04T17:12:25.250Z"
 }
