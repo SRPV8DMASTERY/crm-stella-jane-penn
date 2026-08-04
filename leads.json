@@ -14218,7 +14218,25 @@
       "lastModified": "2026-08-03",
       "dateAdded": "2026-08-03",
       "addedAt": "2026-08-04T06:32:14.602Z"
+    },
+    {
+      "id": "msebn2ub5lcxzqcvza2",
+      "name": "Ritesh Sharma",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-04",
+      "nextFollowUp": "2026-08-11",
+      "notes": "",
+      "lastModified": "2026-08-04",
+      "dateAdded": "2026-08-04",
+      "addedAt": "2026-08-04T07:13:14.531Z"
     }
   ],
-  "lastUpdated": "2026-08-04T07:11:03.138Z"
+  "lastUpdated": "2026-08-04T07:13:14.531Z"
 }
