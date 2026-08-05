@@ -14027,14 +14027,14 @@
       "phone": "",
       "social": "",
       "source": "LinkedIn",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-08-03",
-      "nextFollowUp": "2026-08-17",
+      "lastContact": "2026-08-04",
+      "nextFollowUp": "2026-08-07",
       "notes": "",
-      "lastModified": "2026-08-03",
+      "lastModified": "2026-08-05",
       "dateAdded": "2026-08-03",
       "addedAt": "2026-08-03T15:33:09.096Z"
     },
@@ -14418,5 +14418,5 @@
       "addedAt": "2026-08-04T08:02:49.002Z"
     }
   ],
-  "lastUpdated": "2026-08-05T13:47:29.577Z"
+  "lastUpdated": "2026-08-05T14:03:37.930Z"
 }
