@@ -14542,7 +14542,25 @@
       "lastModified": "2026-08-06",
       "dateAdded": "2026-08-06",
       "addedAt": "2026-08-06T15:29:30.773Z"
+    },
+    {
+      "id": "mshoac4ulm2ocu4pd2q",
+      "name": "DAVID BINKA-KUMATSE",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-06",
+      "nextFollowUp": "2026-08-13",
+      "notes": "",
+      "lastModified": "2026-08-06",
+      "dateAdded": "2026-08-06",
+      "addedAt": "2026-08-06T15:30:33.583Z"
     }
   ],
-  "lastUpdated": "2026-08-06T15:29:30.773Z"
+  "lastUpdated": "2026-08-06T15:30:33.583Z"
 }
