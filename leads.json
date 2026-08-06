@@ -14470,7 +14470,25 @@
       "lastModified": "2026-08-06",
       "dateAdded": "2026-08-06",
       "addedAt": "2026-08-06T15:26:26.326Z"
+    },
+    {
+      "id": "msho5xy8c2xyyisx73",
+      "name": "Luigi Mattei",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-06",
+      "nextFollowUp": "2026-08-13",
+      "notes": "",
+      "lastModified": "2026-08-06",
+      "dateAdded": "2026-08-06",
+      "addedAt": "2026-08-06T15:27:08.576Z"
     }
   ],
-  "lastUpdated": "2026-08-06T15:26:26.326Z"
+  "lastUpdated": "2026-08-06T15:27:08.576Z"
 }
