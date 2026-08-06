@@ -10607,14 +10607,14 @@
       "phone": "",
       "social": "",
       "source": "LinkedIn",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Follow-up 3",
+      "lastAction": "Follow-up 4",
       "lastContact": "2026-07-30",
-      "nextFollowUp": "2026-08-06",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-07-30",
+      "lastModified": "2026-08-06",
       "dateAdded": "2026-07-11",
       "addedAt": "2026-07-11T08:27:40.373Z"
     },
@@ -14418,5 +14418,5 @@
       "addedAt": "2026-08-04T08:02:49.002Z"
     }
   ],
-  "lastUpdated": "2026-08-06T14:41:01.837Z"
+  "lastUpdated": "2026-08-06T14:41:50.764Z"
 }
