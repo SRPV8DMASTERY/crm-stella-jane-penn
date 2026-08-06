@@ -14506,7 +14506,25 @@
       "lastModified": "2026-08-06",
       "dateAdded": "2026-08-06",
       "addedAt": "2026-08-06T15:27:59.457Z"
+    },
+    {
+      "id": "msho7zlxe2trl3vjw8k",
+      "name": "Aryan Chauhan",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-06",
+      "nextFollowUp": "2026-08-13",
+      "notes": "",
+      "lastModified": "2026-08-06",
+      "dateAdded": "2026-08-06",
+      "addedAt": "2026-08-06T15:28:44.037Z"
     }
   ],
-  "lastUpdated": "2026-08-06T15:27:59.457Z"
+  "lastUpdated": "2026-08-06T15:28:44.037Z"
 }
