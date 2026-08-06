@@ -14524,7 +14524,25 @@
       "lastModified": "2026-08-06",
       "dateAdded": "2026-08-06",
       "addedAt": "2026-08-06T15:28:44.037Z"
+    },
+    {
+      "id": "msho8zo59z92nsz3s4u",
+      "name": "André Moholkar",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-06",
+      "nextFollowUp": "2026-08-13",
+      "notes": "",
+      "lastModified": "2026-08-06",
+      "dateAdded": "2026-08-06",
+      "addedAt": "2026-08-06T15:29:30.773Z"
     }
   ],
-  "lastUpdated": "2026-08-06T15:28:44.037Z"
+  "lastUpdated": "2026-08-06T15:29:30.773Z"
 }
