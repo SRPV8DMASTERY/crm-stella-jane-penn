@@ -8591,14 +8591,14 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Not Interested",
       "lastContact": "2026-08-01",
-      "nextFollowUp": "2026-08-08",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-08-01",
+      "lastModified": "2026-08-06",
       "dateAdded": "2026-07-02",
       "addedAt": "2026-07-02T14:58:51.765Z"
     },
@@ -14562,5 +14562,5 @@
       "addedAt": "2026-08-06T15:30:33.583Z"
     }
   ],
-  "lastUpdated": "2026-08-07T05:55:34.466Z"
+  "lastUpdated": "2026-08-07T05:56:22.146Z"
 }
