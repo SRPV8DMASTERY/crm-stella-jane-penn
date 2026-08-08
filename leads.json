@@ -1125,10 +1125,10 @@
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
-      "lastContact": "2026-07-08",
-      "nextFollowUp": "2026-08-07",
+      "lastContact": "2026-08-08",
+      "nextFollowUp": "2026-09-07",
       "notes": "Message sent ",
-      "lastModified": "2026-07-08",
+      "lastModified": "2026-08-08",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T08:29:48.305Z"
     },
@@ -4356,7 +4356,7 @@
     },
     {
       "id": "mq6r0k5h0uaiq2qdv8d",
-      "name": "Rene HjortshÃ¸J Jorgensen",
+      "name": "Rene HjortshÃÂ¸J Jorgensen",
       "email": "",
       "phone": "",
       "social": "",
@@ -4464,7 +4464,7 @@
     },
     {
       "id": "mq6rdtizlfav6divfzn",
-      "name": "Erik GroÃEkathÃ¶Fer",
+      "name": "Erik GroÃÂEkathÃÂ¶Fer",
       "email": "",
       "phone": "",
       "social": "",
@@ -11808,7 +11808,7 @@
     },
     {
       "id": "mrq9xuvhfwkzp3kposp",
-      "name": "Szabolcs TöRöK",
+      "name": "Szabolcs TÃ¶RÃ¶K",
       "email": "",
       "phone": "",
       "social": "",
@@ -14527,7 +14527,7 @@
     },
     {
       "id": "msho8zo59z92nsz3s4u",
-      "name": "Andr� Moholkar",
+      "name": "André Moholkar",
       "email": "",
       "phone": "",
       "social": "",
@@ -14562,5 +14562,5 @@
       "addedAt": "2026-08-06T15:30:33.583Z"
     }
   ],
-  "lastUpdated": "2026-08-07T05:56:22.146Z"
+  "lastUpdated": "2026-08-08T15:29:38.406Z"
 }
