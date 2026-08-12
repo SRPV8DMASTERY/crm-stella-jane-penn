@@ -14560,7 +14560,25 @@
       "lastModified": "2026-08-06",
       "dateAdded": "2026-08-06",
       "addedAt": "2026-08-06T15:30:33.583Z"
+    },
+    {
+      "id": "mspzujixd9odrq4dhc",
+      "name": "Gayathri Mageshwaran",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-12",
+      "nextFollowUp": "2026-08-19",
+      "notes": "",
+      "lastModified": "2026-08-12",
+      "dateAdded": "2026-08-12",
+      "addedAt": "2026-08-12T11:16:21.465Z"
     }
   ],
-  "lastUpdated": "2026-08-12T11:14:58.256Z"
+  "lastUpdated": "2026-08-12T11:16:21.465Z"
 }
