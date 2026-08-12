@@ -14009,14 +14009,14 @@
       "phone": "",
       "social": "",
       "source": "LinkedIn",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-08-03",
-      "nextFollowUp": "2026-08-17",
+      "lastContact": "2026-08-12",
+      "nextFollowUp": "2026-08-14",
       "notes": "",
-      "lastModified": "2026-08-03",
+      "lastModified": "2026-08-12",
       "dateAdded": "2026-08-03",
       "addedAt": "2026-08-03T15:32:22.415Z"
     },
@@ -14562,5 +14562,5 @@
       "addedAt": "2026-08-06T15:30:33.583Z"
     }
   ],
-  "lastUpdated": "2026-08-12T11:13:27.088Z"
+  "lastUpdated": "2026-08-12T11:14:08.144Z"
 }
