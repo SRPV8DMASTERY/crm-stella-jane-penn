@@ -14650,7 +14650,25 @@
       "lastModified": "2026-08-12",
       "dateAdded": "2026-08-12",
       "addedAt": "2026-08-12T11:19:32.592Z"
+    },
+    {
+      "id": "msq004s82h9cbm8o72",
+      "name": "Cathal McNicholl",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-12",
+      "nextFollowUp": "2026-08-19",
+      "notes": "",
+      "lastModified": "2026-08-12",
+      "dateAdded": "2026-08-12",
+      "addedAt": "2026-08-12T11:20:42.296Z"
     }
   ],
-  "lastUpdated": "2026-08-12T11:19:32.592Z"
+  "lastUpdated": "2026-08-12T11:20:42.296Z"
 }
