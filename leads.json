@@ -14578,7 +14578,25 @@
       "lastModified": "2026-08-12",
       "dateAdded": "2026-08-12",
       "addedAt": "2026-08-12T11:16:21.465Z"
+    },
+    {
+      "id": "mspzveu0bn4h8af4n6o",
+      "name": "Harshitha Gudipudi",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-12",
+      "nextFollowUp": "2026-08-19",
+      "notes": "",
+      "lastModified": "2026-08-12",
+      "dateAdded": "2026-08-12",
+      "addedAt": "2026-08-12T11:17:02.040Z"
     }
   ],
-  "lastUpdated": "2026-08-12T11:16:21.465Z"
+  "lastUpdated": "2026-08-12T11:17:02.040Z"
 }
