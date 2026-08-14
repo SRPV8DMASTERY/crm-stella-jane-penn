@@ -14704,7 +14704,25 @@
       "lastModified": "2026-08-14",
       "dateAdded": "2026-08-14",
       "addedAt": "2026-08-14T14:23:47.156Z"
+    },
+    {
+      "id": "mst1gna41u7ms836hyt",
+      "name": "Hamza Aslam",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "LinkedIn",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-14",
+      "nextFollowUp": "2026-08-21",
+      "notes": "",
+      "lastModified": "2026-08-14",
+      "dateAdded": "2026-08-14",
+      "addedAt": "2026-08-14T14:24:50.908Z"
     }
   ],
-  "lastUpdated": "2026-08-14T14:23:53.972Z"
+  "lastUpdated": "2026-08-14T14:24:50.908Z"
 }
