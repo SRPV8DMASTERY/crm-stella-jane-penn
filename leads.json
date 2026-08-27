@@ -1323,8 +1323,8 @@
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
-      "lastContact": "2026-08-10",
-      "nextFollowUp": "2026-08-24",
+      "lastContact": "2026-08-27",
+      "nextFollowUp": "2026-09-26",
       "notes": "Message sent as viewed my story",
       "lastModified": "2026-08-27",
       "dateAdded": "2026-06-02",
@@ -14760,5 +14760,5 @@
       "addedAt": "2026-08-14T14:27:54.740Z"
     }
   ],
-  "lastUpdated": "2026-08-27T08:48:11.406Z"
+  "lastUpdated": "2026-08-27T08:48:19.758Z"
 }
