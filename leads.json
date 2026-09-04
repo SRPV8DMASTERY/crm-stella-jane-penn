@@ -12554,11 +12554,11 @@
       "status": "Sent Video",
       "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Follow-up 3",
-      "lastContact": "2026-08-19",
-      "nextFollowUp": "2026-09-02",
+      "lastAction": "Follow-up 4",
+      "lastContact": "2026-09-04",
+      "nextFollowUp": "2026-09-11",
       "notes": "",
-      "lastModified": "2026-08-19",
+      "lastModified": "2026-09-04",
       "dateAdded": "2026-07-21",
       "addedAt": "2026-07-21T08:25:18.836Z"
     },
@@ -14760,5 +14760,5 @@
       "addedAt": "2026-08-14T14:27:54.740Z"
     }
   ],
-  "lastUpdated": "2026-09-04T08:45:20.071Z"
+  "lastUpdated": "2026-09-04T08:45:34.174Z"
 }
