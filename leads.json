@@ -2024,11 +2024,11 @@
       "status": "New Lead",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Follow-up 3",
-      "lastContact": "2026-08-03",
-      "nextFollowUp": "2026-09-02",
+      "lastAction": "Follow-up 4",
+      "lastContact": "2026-09-04",
+      "nextFollowUp": "2026-09-18",
       "notes": "Message sent ",
-      "lastModified": "2026-08-03",
+      "lastModified": "2026-09-04",
       "dateAdded": "2026-06-03",
       "addedAt": "2026-06-03T19:51:35.229Z"
     },
@@ -14760,5 +14760,5 @@
       "addedAt": "2026-08-14T14:27:54.740Z"
     }
   ],
-  "lastUpdated": "2026-09-04T08:52:45.014Z"
+  "lastUpdated": "2026-09-04T08:52:57.582Z"
 }
