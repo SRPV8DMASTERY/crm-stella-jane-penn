@@ -10457,24 +10457,6 @@
       "addedAt": "2026-07-11T08:06:29.836Z"
     },
     {
-      "id": "mrg300s5ceug475u64u",
-      "name": "Bharath Vaderahalli Lokesha",
-      "email": "",
-      "phone": "",
-      "social": "",
-      "source": "LinkedIn",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Follow-up 1",
-      "lastContact": "2026-08-11",
-      "nextFollowUp": "2026-09-10",
-      "notes": "",
-      "lastModified": "2026-08-11",
-      "dateAdded": "2026-07-11",
-      "addedAt": "2026-07-11T08:07:11.861Z"
-    },
-    {
       "id": "mrg3148cdhmzl76xuo6",
       "name": "Ignance Njuabeh 1st Degree Connection",
       "email": "",
@@ -14742,5 +14724,5 @@
       "addedAt": "2026-08-14T14:27:54.740Z"
     }
   ],
-  "lastUpdated": "2026-09-15T13:21:43.116Z"
+  "lastUpdated": "2026-09-15T13:21:48.686Z"
 }
