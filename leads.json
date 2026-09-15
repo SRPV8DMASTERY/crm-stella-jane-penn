@@ -10439,24 +10439,6 @@
       "addedAt": "2026-07-11T08:04:02.812Z"
     },
     {
-      "id": "mrg2xyn8vgwlydbbps9",
-      "name": "Mohammad Zohaib Aslam",
-      "email": "",
-      "phone": "",
-      "social": "",
-      "source": "LinkedIn",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Follow-up 1",
-      "lastContact": "2026-08-11",
-      "nextFollowUp": "2026-09-10",
-      "notes": "",
-      "lastModified": "2026-08-11",
-      "dateAdded": "2026-07-11",
-      "addedAt": "2026-07-11T08:05:35.780Z"
-    },
-    {
       "id": "mrg2z4csyht7e7hryob",
       "name": "Sean Thomas",
       "email": "",
@@ -14760,5 +14742,5 @@
       "addedAt": "2026-08-14T14:27:54.740Z"
     }
   ],
-  "lastUpdated": "2026-09-09T17:35:00.300Z"
+  "lastUpdated": "2026-09-15T13:21:43.116Z"
 }
