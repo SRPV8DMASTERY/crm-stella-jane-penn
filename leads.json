@@ -14830,7 +14830,25 @@
       "lastModified": "2026-09-16",
       "dateAdded": "2026-09-16",
       "addedAt": "2026-09-16T07:19:36.031Z"
+    },
+    {
+      "id": "mu3rxlj2u9qr6qrrge",
+      "name": "Arun Salt Man Lotay",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-16",
+      "nextFollowUp": "2026-09-23",
+      "notes": "",
+      "lastModified": "2026-09-16",
+      "dateAdded": "2026-09-16",
+      "addedAt": "2026-09-16T07:23:15.902Z"
     }
   ],
-  "lastUpdated": "2026-09-16T07:19:36.031Z"
+  "lastUpdated": "2026-09-16T07:23:15.902Z"
 }
