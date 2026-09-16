@@ -14794,7 +14794,25 @@
       "lastModified": "2026-09-15",
       "dateAdded": "2026-09-15",
       "addedAt": "2026-09-16T06:52:48.774Z"
+    },
+    {
+      "id": "mu3rpwj1rbkna54suq",
+      "name": "Jennifer Collins ",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-16",
+      "nextFollowUp": "2026-09-23",
+      "notes": "",
+      "lastModified": "2026-09-16",
+      "dateAdded": "2026-09-16",
+      "addedAt": "2026-09-16T07:17:16.909Z"
     }
   ],
-  "lastUpdated": "2026-09-16T06:52:48.774Z"
+  "lastUpdated": "2026-09-16T07:17:16.910Z"
 }
