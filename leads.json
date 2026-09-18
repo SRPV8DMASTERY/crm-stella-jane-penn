@@ -10106,11 +10106,11 @@
       "status": "New Lead",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-08-17",
-      "nextFollowUp": "2026-09-16",
+      "lastAction": "Follow-up 2",
+      "lastContact": "2026-09-18",
+      "nextFollowUp": "2026-09-25",
       "notes": "",
-      "lastModified": "2026-08-17",
+      "lastModified": "2026-09-18",
       "dateAdded": "2026-07-10",
       "addedAt": "2026-07-10T12:57:49.061Z"
     },
@@ -14850,5 +14850,5 @@
       "addedAt": "2026-09-16T07:23:15.902Z"
     }
   ],
-  "lastUpdated": "2026-09-18T08:12:12.057Z"
+  "lastUpdated": "2026-09-18T08:12:21.034Z"
 }
