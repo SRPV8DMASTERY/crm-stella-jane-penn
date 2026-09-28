@@ -14902,7 +14902,25 @@
       "lastModified": "2026-09-28",
       "dateAdded": "2026-09-28",
       "addedAt": "2026-09-28T10:47:33.456Z"
+    },
+    {
+      "id": "mul4jtae8x3oqlrtfx",
+      "name": "Brian Miller",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-28",
+      "nextFollowUp": "2026-10-05",
+      "notes": "",
+      "lastModified": "2026-09-28",
+      "dateAdded": "2026-09-28",
+      "addedAt": "2026-09-28T10:48:32.774Z"
     }
   ],
-  "lastUpdated": "2026-09-28T10:47:33.456Z"
+  "lastUpdated": "2026-09-28T10:48:32.774Z"
 }
