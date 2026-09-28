@@ -1412,11 +1412,11 @@
       "status": "New Lead",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Follow-up 1",
+      "lastAction": "Not Interested",
       "lastContact": "2026-08-27",
-      "nextFollowUp": "2026-09-26",
+      "nextFollowUp": null,
       "notes": "Message sent as viewed my story",
-      "lastModified": "2026-08-27",
+      "lastModified": "2026-09-28",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T10:06:42.513Z"
     },
@@ -14940,5 +14940,5 @@
       "addedAt": "2026-09-28T10:49:32.639Z"
     }
   ],
-  "lastUpdated": "2026-09-28T11:25:38.719Z"
+  "lastUpdated": "2026-09-28T11:25:49.429Z"
 }
