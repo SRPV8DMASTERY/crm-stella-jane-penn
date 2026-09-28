@@ -14848,7 +14848,25 @@
       "lastModified": "2026-09-28",
       "dateAdded": "2026-09-16",
       "addedAt": "2026-09-16T07:23:15.902Z"
+    },
+    {
+      "id": "mul4dp0d5m33xmf9fsb",
+      "name": "Nancy Rohlfs",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-28",
+      "nextFollowUp": "2026-10-05",
+      "notes": "",
+      "lastModified": "2026-09-28",
+      "dateAdded": "2026-09-28",
+      "addedAt": "2026-09-28T10:43:47.293Z"
     }
   ],
-  "lastUpdated": "2026-09-28T10:39:39.060Z"
+  "lastUpdated": "2026-09-28T10:43:47.293Z"
 }
