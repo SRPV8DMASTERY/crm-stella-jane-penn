@@ -3212,11 +3212,11 @@
       "status": "New Lead",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Follow-up 2",
+      "lastAction": "Not Interested",
       "lastContact": "2026-08-22",
-      "nextFollowUp": "2026-09-21",
+      "nextFollowUp": null,
       "notes": "Message left",
-      "lastModified": "2026-08-22",
+      "lastModified": "2026-09-28",
       "dateAdded": "2026-06-06",
       "addedAt": "2026-06-06T10:01:54.431Z"
     },
@@ -14940,5 +14940,5 @@
       "addedAt": "2026-09-28T10:49:32.639Z"
     }
   ],
-  "lastUpdated": "2026-09-28T11:14:05.426Z"
+  "lastUpdated": "2026-09-28T11:14:14.989Z"
 }
