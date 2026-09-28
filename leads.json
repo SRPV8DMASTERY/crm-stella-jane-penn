@@ -7910,11 +7910,11 @@
       "status": "New Lead",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
+      "lastAction": "Not Interested",
       "lastContact": "2026-09-07",
-      "nextFollowUp": "2026-10-07",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-09-07",
+      "lastModified": "2026-09-28",
       "dateAdded": "2026-06-23",
       "addedAt": "2026-06-23T11:53:27.840Z"
     },
@@ -14940,5 +14940,5 @@
       "addedAt": "2026-09-28T10:49:32.639Z"
     }
   ],
-  "lastUpdated": "2026-09-28T12:21:19.992Z"
+  "lastUpdated": "2026-09-28T12:21:30.755Z"
 }
