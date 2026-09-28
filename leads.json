@@ -11222,11 +11222,11 @@
       "status": "New Lead",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Follow-up 1",
+      "lastAction": "Not Interested",
       "lastContact": "2026-08-22",
-      "nextFollowUp": "2026-09-21",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-08-22",
+      "lastModified": "2026-09-28",
       "dateAdded": "2026-07-15",
       "addedAt": "2026-07-15T16:24:09.311Z"
     },
@@ -14940,5 +14940,5 @@
       "addedAt": "2026-09-28T10:49:32.639Z"
     }
   ],
-  "lastUpdated": "2026-09-28T11:24:35.619Z"
+  "lastUpdated": "2026-09-28T11:24:45.250Z"
 }
