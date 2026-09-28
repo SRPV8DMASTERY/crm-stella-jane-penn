@@ -5966,11 +5966,11 @@
       "status": "New Lead",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
+      "lastAction": "Not Interested",
       "lastContact": "2026-08-19",
-      "nextFollowUp": "2026-09-18",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-08-19",
+      "lastModified": "2026-09-28",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T13:02:33.966Z"
     },
@@ -14850,5 +14850,5 @@
       "addedAt": "2026-09-16T07:23:15.902Z"
     }
   ],
-  "lastUpdated": "2026-09-28T10:03:27.516Z"
+  "lastUpdated": "2026-09-28T10:03:38.772Z"
 }
