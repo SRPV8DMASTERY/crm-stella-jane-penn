@@ -12374,11 +12374,11 @@
       "status": "New Lead",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
+      "lastAction": "Not Interested",
       "lastContact": "2026-08-27",
-      "nextFollowUp": "2026-09-26",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-08-27",
+      "lastModified": "2026-09-28",
       "dateAdded": "2026-07-20",
       "addedAt": "2026-07-20T14:20:40.696Z"
     },
@@ -14940,5 +14940,5 @@
       "addedAt": "2026-09-28T10:49:32.639Z"
     }
   ],
-  "lastUpdated": "2026-09-28T11:38:48.675Z"
+  "lastUpdated": "2026-09-28T11:39:00.847Z"
 }
