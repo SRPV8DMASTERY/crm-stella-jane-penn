@@ -14931,14 +14931,14 @@
       "status": "New Lead",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
+      "lastAction": "Not Interested",
       "lastContact": "2026-09-28",
-      "nextFollowUp": "2026-10-05",
+      "nextFollowUp": null,
       "notes": "",
       "lastModified": "2026-09-28",
       "dateAdded": "2026-09-28",
       "addedAt": "2026-09-28T10:49:32.639Z"
     }
   ],
-  "lastUpdated": "2026-09-28T11:41:43.562Z"
+  "lastUpdated": "2026-09-28T11:42:14.829Z"
 }
