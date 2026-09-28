@@ -548,13 +548,14 @@
       "source": "Facebook",
       "status": "Nurture",
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
+      "lastAction": "Not Interested",
       "lastContact": "2026-05-27",
-      "nextFollowUp": "2027-05-29",
+      "nextFollowUp": null,
       "notes": "Replied with sorry I can't join you I am not very well.",
-      "lastModified": "2026-05-27",
+      "lastModified": "2026-09-28",
       "dateAdded": "2026-05-27",
-      "addedAt": "2026-05-27T08:37:45.835Z"
+      "addedAt": "2026-05-27T08:37:45.835Z",
+      "videoSent": false
     },
     {
       "id": "mpntb6qs57fnlr8o9im",
@@ -14940,5 +14941,5 @@
       "addedAt": "2026-09-28T10:49:32.639Z"
     }
   ],
-  "lastUpdated": "2026-09-28T12:41:13.855Z"
+  "lastUpdated": "2026-09-28T12:41:28.682Z"
 }
