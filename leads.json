@@ -14939,7 +14939,25 @@
       "lastModified": "2026-10-18",
       "dateAdded": "2026-09-28",
       "addedAt": "2026-09-28T10:49:32.639Z"
+    },
+    {
+      "id": "mvdpt4l9z4cmkkjg18",
+      "name": "ThankGod Duke",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-18",
+      "nextFollowUp": "2026-10-25",
+      "notes": "",
+      "lastModified": "2026-10-18",
+      "dateAdded": "2026-10-18",
+      "addedAt": "2026-10-18T11:01:12.189Z"
     }
   ],
-  "lastUpdated": "2026-10-18T10:59:34.269Z"
+  "lastUpdated": "2026-10-18T11:01:12.189Z"
 }
