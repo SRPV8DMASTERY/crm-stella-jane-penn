@@ -15011,7 +15011,25 @@
       "lastModified": "2026-10-18",
       "dateAdded": "2026-10-18",
       "addedAt": "2026-10-18T11:04:21.262Z"
+    },
+    {
+      "id": "mvdpyhj1xto1nq30lws",
+      "name": "Ruby Wells ",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-18",
+      "nextFollowUp": "2026-10-25",
+      "notes": "",
+      "lastModified": "2026-10-18",
+      "dateAdded": "2026-10-18",
+      "addedAt": "2026-10-18T11:05:22.237Z"
     }
   ],
-  "lastUpdated": "2026-10-18T11:04:21.262Z"
+  "lastUpdated": "2026-10-18T11:05:22.237Z"
 }
