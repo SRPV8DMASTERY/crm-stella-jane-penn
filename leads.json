@@ -14975,7 +14975,25 @@
       "lastModified": "2026-10-18",
       "dateAdded": "2026-10-18",
       "addedAt": "2026-10-18T11:01:34.870Z"
+    },
+    {
+      "id": "mvdpv83qe423phga0uv",
+      "name": "Sukhi Wahiwala",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-18",
+      "nextFollowUp": "2026-10-25",
+      "notes": "",
+      "lastModified": "2026-10-18",
+      "dateAdded": "2026-10-18",
+      "addedAt": "2026-10-18T11:02:50.054Z"
     }
   ],
-  "lastUpdated": "2026-10-18T11:01:34.870Z"
+  "lastUpdated": "2026-10-18T11:02:50.054Z"
 }
