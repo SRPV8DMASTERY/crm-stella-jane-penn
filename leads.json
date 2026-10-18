@@ -14957,7 +14957,25 @@
       "lastModified": "2026-10-18",
       "dateAdded": "2026-10-18",
       "addedAt": "2026-10-18T11:01:12.189Z"
+    },
+    {
+      "id": "mvdptm3a7y9jnuiltt4",
+      "name": "Benedict Dawn ",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-18",
+      "nextFollowUp": "2026-10-25",
+      "notes": "",
+      "lastModified": "2026-10-18",
+      "dateAdded": "2026-10-18",
+      "addedAt": "2026-10-18T11:01:34.870Z"
     }
   ],
-  "lastUpdated": "2026-10-18T11:01:12.189Z"
+  "lastUpdated": "2026-10-18T11:01:34.870Z"
 }
