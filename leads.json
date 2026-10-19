@@ -7080,14 +7080,14 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Not Interested",
-      "lastContact": "2026-08-19",
-      "nextFollowUp": null,
+      "lastAction": "Follow-up 1",
+      "lastContact": "2026-10-19",
+      "nextFollowUp": "2026-10-22",
       "notes": "",
-      "lastModified": "2026-09-28",
+      "lastModified": "2026-10-19",
       "dateAdded": "2026-06-19",
       "addedAt": "2026-06-19T15:49:35.030Z"
     },
@@ -15031,5 +15031,5 @@
       "addedAt": "2026-10-18T11:05:22.237Z"
     }
   ],
-  "lastUpdated": "2026-10-19T11:46:43.336Z"
+  "lastUpdated": "2026-10-19T11:47:27.158Z"
 }
